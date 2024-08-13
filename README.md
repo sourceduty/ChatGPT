@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `556` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `557` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -192,6 +192,10 @@ Automate mouse and keyboard hardware input for any OS.
 [Data Marketer](https://chatgpt.com/g/g-kicZYQNOP-data-marketer)
 <br>
 Analyze uploaded data and prepare a data marketing plan for selling data. Create data product plans.
+
+[Rocket Programmer](https://chatgpt.com/g/g-TWicai9SW-rocket-programmer)
+<br>
+Rocket programming assistant for small projects and science. 
 
 [Sketch GUI](https://chatgpt.com/g/g-O1SknINWp-sketch-gui)
 <br>
