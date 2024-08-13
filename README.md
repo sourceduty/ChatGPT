@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `555` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `556` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -140,6 +140,10 @@ Visualize the plain text topology structure of files and folders within a .zip a
 [Airplane Programmer](https://chatgpt.com/g/g-Ittb4saQw-airplane-programmer)
 <br>
 Aircraft system programming.
+
+[Torrent Simulator](https://chatgpt.com/g/g-t5ptUrW6A-torrent-simulator)
+<br>
+Simulate torrents and torrenting software. 
 
 [Process Automation](https://chat.openai.com/g/g-BCcGUvggx-process-automation)
 <br>
