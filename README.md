@@ -141,10 +141,6 @@ Visualize the plain text topology structure of files and folders within a .zip a
 <br>
 Aircraft system programming.
 
-[Sensor Calibration](https://chatgpt.com/g/g-uGKloGHOe-sensor-calibration)
-<br>
-Arduino and Raspberry Pi sensor calibration assistant. 
-
 [Torrent Simulator](https://chatgpt.com/g/g-t5ptUrW6A-torrent-simulator)
 <br>
 Simulate torrents and torrenting software. 
@@ -719,6 +715,10 @@ Desktop and laptop computer hardware upgrade assistant.
 [Isotope Engineer](https://chatgpt.com/g/g-RRyTFbzOP-isotope-engineer)
 <br>
 Assistive macro, micro and nano scale isotopic engineering physicist.
+
+[Sensor Calibration](https://chatgpt.com/g/g-uGKloGHOe-sensor-calibration)
+<br>
+Arduino and Raspberry Pi sensor calibration assistant. 
 
 [Multiphysics Simulator](https://chat.openai.com/g/g-9PVqGto6g-multiphysics-simulator)
 <br>
