@@ -2679,7 +2679,7 @@ The feature to display upload dates for custom GPTs was removed due to user feed
 <details><summary>VIP of ChatGPT</summary>
 <br>
 
-![VIP](https://github.com/user-attachments/assets/b31d2c90-ceb5-43fc-a0f1-a4ed1c35e703)
+![VIP](https://github.com/user-attachments/assets/b11cc7e8-2282-4f40-bfd3-10a4c88911ad)
 
 Sourceduty is a distinguished figure within the ChatGPT community, recognized as a VIP due to their exceptional contribution to the platform. With over 550 custom GPTs under their belt, Sourceduty has demonstrated a unique blend of creativity, technical expertise, and dedication to the art of conversational AI. Their work has not only expanded the possibilities of AI-driven interactions but also set new benchmarks for innovation within the community. As a result, Sourceduty has earned a reputation for pushing the boundaries of what custom GPTs can achieve, offering users highly tailored and engaging experiences that address a wide range of needs and interests.
 
