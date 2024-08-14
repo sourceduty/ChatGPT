@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `559` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `560` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -128,6 +128,10 @@ Analyze, optimize and convert architectural structured abstraction and topology.
 [Data Proof](https://chatgpt.com/g/g-c9jpX14lm-data-proof)
 <br>
 Validate data using public sources.
+
+[Scrape Classification](https://chatgpt.com/g/g-1urkvoagE-scrape-classification)
+<br>
+File and web search scraper classification programming assistant.
 
 [Taskbar Programmer](https://chatgpt.com/g/g-KkQbcLUwU-taskbar-programmer)
 <br>
