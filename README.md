@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `561` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `562` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -164,6 +164,10 @@ Search classification programming assistant.
 [EV Toolbox](https://chatgpt.com/g/g-Xuf4ziPpB-ev-toolbox)
 <br>
 Tesla vehicle system programming.
+
+[Maintenance Automation](https://chatgpt.com/g/g-aYndjM4kw-maintenance-automation)
+<br>
+Maintenance automation and optimization.
 
 [GitHub README](https://chat.openai.com/g/g-rA63DaENC-readme)
 <br>
