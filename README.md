@@ -2718,6 +2718,18 @@ In the context of AI tools like ChatGPT, this human authorship can manifest thro
 <br>
 </details>
 
+<details><summary>ChatGPT Books</summary>
+<br>
+
+![Stupid Book](https://github.com/user-attachments/assets/b3855d7d-fd27-4be3-86ee-662ab003e43b)
+
+📚 A collection encompassing 47 diverse ChatGPT books.
+
+[Kaggle Dataset](https://www.kaggle.com/datasets/sourceduty/chatgpt-books)
+
+<br>
+</details>
+
 ***
 Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
 ***
