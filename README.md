@@ -2552,6 +2552,8 @@ Given the ongoing development and the broadening scope of applications, the mark
 
 > "*For me, AI expanded my general high intelligence like a librarian, I don't concentrate like a doctor does.*"
 
+> "*I bought a opy of ChatGPT For Dummies because I thought it was fucking hilarious.*"
+
 <br>
 </details>
 <details><summary>Concept GPTs</summary>
