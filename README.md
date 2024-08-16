@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `570` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `571` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2095,6 +2095,10 @@ Use DALL-E 3 to create a product packaging image using real sports, motorsports 
 [Drug Product](https://chatgpt.com/g/g-Z3Ia8jKmo-drug-product)
 <br>
 Use DALLE-3 to create product packaging for drugs and vitamins.
+
+[Luxury Product](https://chatgpt.com/g/g-ci3bdeqAj-luxury-product)
+<br>
+Create luxury products and packaging images using DALL-E 3.
 
 [Fashion Product](https://chatgpt.com/g/g-an0IlU3Sv-fashion-product)
 <br>
