@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `567` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `568` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -742,7 +742,11 @@ Assistive macro, micro and nano scale isotopic engineering physicist.
 
 [Sensor Calibration](https://chatgpt.com/g/g-uGKloGHOe-sensor-calibration)
 <br>
-Arduino and Raspberry Pi sensor calibration assistant. 
+Arduino and Raspberry Pi sensor calibration assistant.
+
+[Radio Simulator](https://chatgpt.com/g/g-C6JfFmHnG-radio-simulator)
+<br>
+Simulate tuning into a radio frequency on AM/FM bands.
 
 [Multiphysics Simulator](https://chat.openai.com/g/g-9PVqGto6g-multiphysics-simulator)
 <br>
@@ -2640,8 +2644,6 @@ These concept GPTs won't be protected by copyright.
 [Walk the Plank](https://chat.openai.com/g/g-a2T0z5vN2-walk-the-plank)
 <br>
 [Landmarks](https://chat.openai.com/g/g-dPEn89zIW-landmarks)
-<br>
-[Radio Simulator](https://chatgpt.com/g/g-C6JfFmHnG-radio-simulator)
 <br>
 [Vehicle Power](https://chat.openai.com/g/g-i3PZZkZe4-vehicle-power)
 <br>
