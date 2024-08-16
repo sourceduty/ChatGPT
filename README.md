@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `569` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `570` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -489,6 +489,10 @@ Create new fill-in-the-blank quiz challenges. Use uploaded text files.
 [Team Simulator](https://chatgpt.com/g/g-EJZqQ0uGE-team-simulator)
 <br>
 Simulate diverse team structures and scenarios.
+
+[Material Age Tool](https://chatgpt.com/g/g-kGHAa29PA-material-age-tool)
+<br>
+Identify the age of materials from uploaded photos.
 
 [World Systems](https://chatgpt.com/g/g-NsBUokgit-world-system)
 <br>
