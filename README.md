@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `568` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `569` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -723,6 +723,10 @@ Hardware, software and firmware modification specialist.
 [Theoretical Science Simulator](https://chat.openai.com/g/g-5tJWfchOR-theoretical-science-simulator)
 <br>
 Simulate theoretical science concepts.
+
+[Digital Radio & Telecom](https://chatgpt.com/g/g-Ns40SgI8f-digital-radio-telecom)
+<br>
+Assistive radio engineering and telecom specialist.
 
 [Combinatorics Simulator](https://chatgpt.com/g/g-zGMgmTVdX-combinatorics-simulator)
 <br>
