@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `574` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `575` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -666,6 +666,10 @@ Military and public security investigation specialist. The god of shitstorms.
 [Tactical Vehicle Strategy](https://chatgpt.com/g/g-TSfu7BQRA-tactical-vehicle-strategy)
 <br>
 Research and plan tactical air, water and road driving vehicle maneuver strategies.
+
+[Semaphore Sign](https://chatgpt.com/g/g-lY6UQk1Gk-semaphore-sign)
+<br>
+Alphanumeric and symbol semaphore systems and non-verbal communication. 
 
 [Military Programmer](https://chatgpt.com/g/g-Xq5wxnQCe-military-programmer)
 <br>
