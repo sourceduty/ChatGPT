@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `571` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `572` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -794,7 +794,11 @@ Assistive tool for analyzing chemical functionality, efficiency and performance.
 
 [Power Grid Simulator](https://chatgpt.com/g/g-K7CExFenf-energy-grid-simulator)
 <br>
-Simulate interactions within a smart energy grid environment. 
+Simulate interactions within a smart energy grid environment.
+
+[Neuromorphic Simulator](https://chatgpt.com/g/g-bm1sYNAtU-neuromorphic-simulator)
+<br>
+Simulate brain-like computing for efficient AI processing.
 
 [Electronic Simulator](https://chat.openai.com/g/g-409Bg1hAQ-electronic-simulator)
 <br>
