@@ -2529,6 +2529,8 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 
 [Gravatar](https://gravatar.com/)
 
+[Makeshift Art](https://github.com/sourceduty/Makeshift_DALL-E_3)
+
 <br>
 </details>
 <details><summary>OpenAI, AGI and ASI</summary>
