@@ -512,7 +512,11 @@ Simulate any of the NASA software tools for engineering, analysis, and mission p
 
 [Diagram Expand](https://chatgpt.com/g/g-BBP3UprFf-diagram-expand)
 <br>
-Increase the level of text diagram architecture abstraction. 
+Increase the level of text diagram architecture abstraction.
+
+[Theoretical Modelling](https://chatgpt.com/g/g-QTnHJWSCq-theoretical-modelling)
+<br>
+Assistive theoretical modeling expert.
 
 [Product Authenticator](https://chatgpt.com/g/g-ALm9uIBFL-product-authenticator)
 <br>
