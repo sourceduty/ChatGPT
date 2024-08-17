@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `572` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `573` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -803,6 +803,10 @@ Simulate brain-like computing for efficient AI processing.
 [Electronic Simulator](https://chat.openai.com/g/g-409Bg1hAQ-electronic-simulator)
 <br>
 Manage, plan, and simulate Arduino and Raspberry Pi projects.
+
+[Neuroquantum Simulator](https://chatgpt.com/g/g-srlpn9o6e-neuroquantum-simulator)
+<br>
+Simulate and visualizes neural-quantum interactions. 
 
 [Theory Proof](https://chatgpt.com/g/g-7Xrh3rjDS-theory-proof)
 <br>
