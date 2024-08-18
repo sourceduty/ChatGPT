@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `575` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `576` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1645,6 +1645,10 @@ Assistive contrafact creation for songs and melodies.
 </details>
 <details><summary>Social Media & Social Tools</summary>
 <br>
+
+[Thinking As](https://chatgpt.com/g/g-l2496H1tg-thinking-as)
+<br>
+Simulate thinking as other people such as public figures and celebrities. Put yourself in someone else's shoes.
 
 [News Prompt](https://chat.openai.com/g/g-8KpztE5dz-news-prompt)
 <br>
