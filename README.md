@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `578` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `579` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -156,6 +156,10 @@ Develop and refine automated process models.
 [Automation Sim](https://chatgpt.com/g/g-MAgEwBC4g-automation-sim)
 <br>
 Simulate automated programs and processes.
+
+[Process Performance](https://chatgpt.com/g/g-Gjl4o2bJ0-process-performance)
+<br>
+Measure and improve process performance.
 
 [GitHub Repo Summary](https://chat.openai.com/g/g-yiPyXX9jI-repo-summary)
 <br>
