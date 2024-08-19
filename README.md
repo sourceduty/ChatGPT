@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `577` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `578` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -517,6 +517,10 @@ Increase the level of text diagram architecture abstraction.
 [Theoretical Modelling](https://chatgpt.com/g/g-QTnHJWSCq-theoretical-modelling)
 <br>
 Assistive theoretical modeling expert.
+
+[Intelligence Benchmark](https://chatgpt.com/g/g-izzqAJLFc-intelligence-benchmark)
+<br>
+Intelligence metrics and tests.
 
 [Product Authenticator](https://chatgpt.com/g/g-ALm9uIBFL-product-authenticator)
 <br>
