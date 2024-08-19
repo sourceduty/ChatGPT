@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `579` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `580` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -148,6 +148,10 @@ Aircraft system programming.
 [Torrent Simulator](https://chatgpt.com/g/g-t5ptUrW6A-torrent-simulator)
 <br>
 Simulate torrents and torrenting software. 
+
+[Government Automation](https://chatgpt.com/g/g-wR8Qnltey-government-automation)
+<br>
+Automate government processes and services.
 
 [Process Automation](https://chat.openai.com/g/g-BCcGUvggx-process-automation)
 <br>
