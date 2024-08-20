@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `582` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `583` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1681,6 +1681,10 @@ Combined daily reporting for local, national and international news.
 [Social Influence Simulator](https://chat.openai.com/g/g-J0k1yLqEH-social-influence-simulator)
 <br>
 Simulate social influence using virtual chatbots.
+
+[Accent Simulator](https://chatgpt.com/g/g-2DXQ4VWtH-accent-simulator)
+<br>
+Simulate accents in any location and language.
 
 [Tweet Files](https://chatgpt.com/g/g-jJRoFETYE-tweet-files)
 <br>
