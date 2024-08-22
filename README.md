@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `589` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `590` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -775,6 +775,10 @@ Create, simulate and analyze hypothetical computer hardware setup functionality 
 [Computer Upgrade](https://chat.openai.com/g/g-bSr9Rxt51-computer-upgrade)
 <br>
 Desktop and laptop computer hardware upgrade assistant.
+
+[Electrohydrodynamic Reactor (EHD Reactor)](https://chatgpt.com/g/g-55I1aDRbG-electrohydrodynamic-reactor-ehd-reactor)
+<br>
+Simulate and develop electrohydrodynamic concepts.
 
 [Isotope Engineer](https://chatgpt.com/g/g-RRyTFbzOP-isotope-engineer)
 <br>
