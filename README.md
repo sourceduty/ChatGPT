@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `586` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `587` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -791,6 +791,10 @@ Simulate tuning into a radio frequency on AM/FM bands.
 [Multiphysics Simulator](https://chat.openai.com/g/g-9PVqGto6g-multiphysics-simulator)
 <br>
 Assistive multiphysics calculations and simulations.
+
+[Computational Reactor](https://chatgpt.com/g/g-vGp8ODaIO-computational-reactor)
+<br>
+A controlled virtual environment where multiple reactions produce outputs.
 
 [Marine Simulator](https://chatgpt.com/g/g-vOXmJYKhY-marine-simulator)
 <br>
