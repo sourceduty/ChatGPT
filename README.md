@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `587` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `588` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -803,6 +803,10 @@ Marine data analysis and visualization expert using Python.
 [Microbiology Simulator](https://chatgpt.com/g/g-XVVaC6HXt-microbiology-simulator)
 <br>
 Simulate microbiology scenarios and experiments.
+
+[Computational Programming](https://chatgpt.com/g/g-KPEZirRkO-computational-programming)
+<br>
+Develop computational programming concepts using theoretical framework.
 
 [Health Informatics Simulator](https://chatgpt.com/g/g-RWEobaLqb-health-informatics-simulator)
 <br>
