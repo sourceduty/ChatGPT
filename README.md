@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `585` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `586` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1693,6 +1693,10 @@ Simulate accents in any location and language.
 [Tweet Files](https://chatgpt.com/g/g-jJRoFETYE-tweet-files)
 <br>
 Convert text files into tweets.
+
+[Social Prep](https://chatgpt.com/g/g-SGtETL4hC-social-prep)
+<br>
+Prepare social media content, develop automated content prep programs.
 
 [Friend Crisis](https://chat.openai.com/g/g-4YeyehUlH-friend-crisis)
 <br>
