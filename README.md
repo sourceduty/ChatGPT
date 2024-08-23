@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `591` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `592` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -783,6 +783,10 @@ Desktop and laptop computer hardware upgrade assistant.
 [Electrohydrodynamic Reactor (EHD Reactor)](https://chatgpt.com/g/g-55I1aDRbG-electrohydrodynamic-reactor-ehd-reactor)
 <br>
 Simulate and develop electrohydrodynamic concepts.
+
+[Xenodynamics](https://chatgpt.com/g/g-t5PM2bEd6-xenodynamics)
+<br>
+An original emerging scientific concept that examines dynamic interactions between diverse and often unfamiliar entities or systems.
 
 [Isotope Engineer](https://chatgpt.com/g/g-RRyTFbzOP-isotope-engineer)
 <br>
