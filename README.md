@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `590` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `591` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -196,6 +196,10 @@ Assistive GitHub readme file creator.
 [PDF Image Extractor](https://chatgpt.com/g/g-kyGAte37x-pdf-image-extractor)
 <br>
 Extract images from PDF files.
+
+[Computational Networks](https://chatgpt.com/g/g-TJcR8oPAo-computational-networks)
+<br>
+Assistive computational network model and system development.
 
 [Community Automation](https://chatgpt.com/g/g-B5MozWg1N-community-automation)
 <br>
