@@ -685,7 +685,7 @@ Learn accounting principles in simulated business transactions.
 
 [Military Overlord](https://chatgpt.com/g/g-4r14DqjVY-military-overlord)
 <br>
-Military and public security investigation specialist. The god of shitstorms.
+Military and public security investigation specialist. The god of war.
 
 [Tactical Vehicle Strategy](https://chatgpt.com/g/g-TSfu7BQRA-tactical-vehicle-strategy)
 <br>
