@@ -2627,6 +2627,8 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 
 [Makeshift Art](https://github.com/sourceduty/Makeshift_DALL-E_3)
 
+[Communication](https://github.com/sourceduty/Communication)
+
 <br>
 </details>
 <details><summary>OpenAI, AGI and ASI</summary>
