@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `594` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `595` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1361,6 +1361,10 @@ Emulate famous authors writing styles or emulate your writing style.
 [Document Design](https://chat.openai.com/g/g-vmvOjWhHm-document-design)
 <br>
 Text document style, format and structure guide.
+
+[Book Quality](https://chatgpt.com/g/g-V8z8zVL9A-book-quality)
+<br>
+Analyze and rate the quality of any book or library.
 
 [Document Anonymizer](https://chat.openai.com/g/g-H1HPqA17F-document-anonymizer)
 <br>
