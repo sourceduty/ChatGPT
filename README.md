@@ -181,10 +181,6 @@ Search classification programming assistant.
 <br>
 Tesla vehicle system programming.
 
-[Hack Automation](https://chatgpt.com/g/g-zGNpuVYNZ-hack-automation)
-<br>
-Plan and develop automated hacks for electronics and systems.
-
 [System Control Theory](https://chatgpt.com/g/g-w5kMpiWRo-system-control-theory)
 <br>
 Develop system and control concepts.
@@ -697,7 +693,11 @@ Research and plan tactical air, water and road driving vehicle maneuver strategi
 
 [Semaphore Sign](https://chatgpt.com/g/g-lY6UQk1Gk-semaphore-sign)
 <br>
-Alphanumeric and symbol semaphore systems and non-verbal communication. 
+Alphanumeric and symbol semaphore systems and non-verbal communication.
+
+[Hack Automation](https://chatgpt.com/g/g-zGNpuVYNZ-hack-automation)
+<br>
+Plan and develop automated hacks for electronics and systems.
 
 [Military Programmer](https://chatgpt.com/g/g-Xq5wxnQCe-military-programmer)
 <br>
