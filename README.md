@@ -2700,7 +2700,7 @@ Given the ongoing development and the broadening scope of applications, the mark
 
 > "*I'm not overwhelmed by this repo or GitHub account, and I will continue to add more custom GPTs to this repo in the future.*"
 
-> "*Feedback: Scrolling down the list of custom GPTs should be a lot easier and without a button that delays the scrolling.*"
+> "*Feedback: Scrolling down the list of custom GPTs should be a lot easier and without a button that delays the scrolling. I can't scroll down because of the button delaying the scrolling.*"
 
 <br>
 </details>
