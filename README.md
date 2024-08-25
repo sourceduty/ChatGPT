@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `596` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `597` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -787,6 +787,10 @@ Create, simulate and analyze hypothetical computer hardware setup functionality 
 [Computer Upgrade](https://chat.openai.com/g/g-bSr9Rxt51-computer-upgrade)
 <br>
 Desktop and laptop computer hardware upgrade assistant.
+
+[Computational Chronoreactor](https://chatgpt.com/g/g-XCwi1z22E-computational-chronoreactor)
+<br>
+An original emerging scientific concept that examines controlled virtual environments for the definition and simulation of computational chronoreactions.
 
 [Electrohydrodynamic Reactor (EHD Reactor)](https://chatgpt.com/g/g-55I1aDRbG-electrohydrodynamic-reactor-ehd-reactor)
 <br>
