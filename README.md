@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `595` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `596` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -774,7 +774,11 @@ Assistive radio engineering and telecom specialist.
 
 [Combinatorics Simulator](https://chatgpt.com/g/g-zGMgmTVdX-combinatorics-simulator)
 <br>
-Simulate, solve and visualize combinatorial problems. 
+Simulate, solve and visualize combinatorial problems.
+
+[Quantum Informatics](https://chatgpt.com/g/g-CivGM5Ewl-quantum-informatics)
+<br>
+Simulate quantum information processing concepts.
 
 [Hardware Diagnostics](https://chat.openai.com/g/g-k3HPxmIXg-hardware-diagnostics)
 <br>
