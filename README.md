@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `601` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `602` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -521,6 +521,10 @@ Identify the age of materials from uploaded photos.
 [World Systems](https://chatgpt.com/g/g-NsBUokgit-world-system)
 <br>
 Simulate and analyze global network or communication systems.
+
+[Diagnostic Physics](https://chatgpt.com/g/g-SUu2QtE0g-diagnostic-physics)
+<br>
+An original emerging scientific concept that focuses on the use of physical principles and methods to diagnose various systems, ranging from biological organisms to complex machinery.
 
 [Location Historian](https://chatgpt.com/g/g-TI8K9OboV-location-historian)
 <br>
