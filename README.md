@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `599` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `600` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -714,6 +714,10 @@ National electrical power outage planning and simulation.
 [Security Simulator](https://chatgpt.com/g/g-Q7tunVbct-security-simulator)
 <br>
 Simulate various public and private security scenarios.
+
+[Security Automation](https://chatgpt.com/g/g-o2BODDHHU-security-automation)
+<br>
+Automate and optimize cybersecurity programs.
 
 [Security System](https://chat.openai.com/g/g-NNeLfeyDY-security-system)
 <br>
