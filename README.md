@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `600` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `601` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -140,6 +140,10 @@ Develop custom Windows taskbar programs.
 [ZIP Topology](https://chatgpt.com/g/g-shi8Y3dOA-zip-topology)
 <br>
 Visualize the plain text topology structure of files and folders within a .zip archive.
+
+[Computational Chronophysics](https://chatgpt.com/g/g-6fStHVZEI-computational-chronophysics)
+<br>
+An original emerging scientific concept that explores the intersection of time and physical systems through computational methods.
 
 [Airplane Programmer](https://chatgpt.com/g/g-Ittb4saQw-airplane-programmer)
 <br>
