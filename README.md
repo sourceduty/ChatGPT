@@ -2924,49 +2924,58 @@ The DALL-E Post-Edit Instruction Cheat Sheet or Template is designed to help you
 .....................................................................................
 
 1. Brief Description of Existing Image
+   
    Describe the current image's content to set context.
    - Example: "A cartoon-style image of a sunny beach with people playing volleyball."
 
-2. Specific Changes Requested
+3. Specific Changes Requested
    Use bullet points to clearly list each change:
 
-   - Object/Character Additions or Removals  
+   - Object/Character Additions or Removals
+     
      Describe objects or characters to add/remove, including details like appearance, size, and position.  
      - Example: "Add a sandcastle with a red flag near the water’s edge."  
      - Example: "Remove the person wearing a hat on the left side."
 
-   - Color Adjustments  
+   - Color Adjustments
+     
      Specify any color changes for elements in the image.  
      - Example: "Change the sky color from blue to pinkish-orange for a sunset effect."  
      - Example: "Make the beach umbrella stripes yellow and white."
 
-   - Background Modifications  
+   - Background Modifications
+     
      Detail changes to the background, such as scenery, time of day, or additional elements.  
      - Example: "Add a distant sailboat on the horizon."  
      - Example: "Change the background to a nighttime scene with stars."
 
-   - Details and Features Adjustments  
+   - Details and Features Adjustments
+     
      Mention specific details, textures, or patterns to enhance or modify.  
      - Example: "Add footprints in the sand leading to the water."  
      - Example: "Make the waves appear larger, as if it's windy."
 
-   - Perspective and Angle Adjustments  
+   - Perspective and Angle Adjustments
+      
      Specify changes in the perspective or viewing angle of the image.  
      - Example: "Shift the perspective to a bird’s-eye view of the beach."  
      - Example: "Change the angle to a low view, looking up at the volleyball net."
 
-3. Purpose or Context of the Changes
+4. Purpose or Context of the Changes
+   
    Explain the reason for the edits or how the image will be used.  
    - Example: "The image will be used for a beach party invitation, so it should look fun and inviting."  
    - Example: "The edited image is for a travel blog post, aiming for an adventurous and lively feel."
 
-4. Visual References or Style Notes
+5. Visual References or Style Notes
+   
    Mention any visual styles, references, or examples to guide the edits.  
    - Example: "Use a style similar to [name of artist] for a vibrant, colorful look."  
    - Example: "Refer to the attached image for the type of sandcastle."
 
-5. Additional Notes on Composition or Layout
-   Include any specific instructions on the overall composition or layout.  
+6. Additional Notes on Composition or Layout
+
+   Include any specific instructions on the overall composition or layout.
    - Example: "Ensure the main focus is the volleyball game in the center."  
    - Example: "Position the sun in the top right corner for lighting effects."
 
