@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `602` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `603` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -795,6 +795,10 @@ Simulate, solve and visualize combinatorial problems.
 [Quantum Informatics](https://chatgpt.com/g/g-CivGM5Ewl-quantum-informatics)
 <br>
 Simulate quantum information processing concepts.
+
+[Botany Automation](https://chatgpt.com/g/g-fcvPrz4GM-botany-automation)
+<br>
+Integration of technology and automation processes into the field of botany to improve efficiency, accuracy, and scalability.
 
 [Hardware Diagnostics](https://chat.openai.com/g/g-k3HPxmIXg-hardware-diagnostics)
 <br>
