@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `604` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `605` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -803,6 +803,10 @@ Create, simulate and analyze hypothetical computer hardware setup functionality 
 [Computer Upgrade](https://chat.openai.com/g/g-bSr9Rxt51-computer-upgrade)
 <br>
 Desktop and laptop computer hardware upgrade assistant.
+
+[Computational Atomics](https://chatgpt.com/g/g-D8hkmPnIE-computational-atomics)
+<br>
+An original emerging scientific concept that combines the principles of atomic physics with advanced computational techniques.
 
 [Computational Chronophysics](https://chatgpt.com/g/g-6fStHVZEI-computational-chronophysics)
 <br>
