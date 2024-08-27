@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `603` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `604` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -815,6 +815,10 @@ An original emerging scientific concept that examines controlled virtual environ
 [Electrohydrodynamic Reactor (EHD Reactor)](https://chatgpt.com/g/g-55I1aDRbG-electrohydrodynamic-reactor-ehd-reactor)
 <br>
 Simulate and develop electrohydrodynamic concepts.
+
+[Quantum Neurogenetics](https://chatgpt.com/g/g-hm6852AEu-quantum-neurogenetics)
+<br>
+An original emerging scientific concept that explores the interaction between quantum mechanics and genetic processes within the brain. 
 
 [Computational Cyberdynamics](https://chatgpt.com/g/g-GSul3Kjmb-computational-cyberdynamics)
 <br>
