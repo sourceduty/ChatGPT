@@ -141,10 +141,6 @@ Develop custom Windows taskbar programs.
 <br>
 Visualize the plain text topology structure of files and folders within a .zip archive.
 
-[Computational Chronophysics](https://chatgpt.com/g/g-6fStHVZEI-computational-chronophysics)
-<br>
-An original emerging scientific concept that explores the intersection of time and physical systems through computational methods.
-
 [Airplane Programmer](https://chatgpt.com/g/g-Ittb4saQw-airplane-programmer)
 <br>
 Aircraft system programming.
@@ -807,6 +803,10 @@ Create, simulate and analyze hypothetical computer hardware setup functionality 
 [Computer Upgrade](https://chat.openai.com/g/g-bSr9Rxt51-computer-upgrade)
 <br>
 Desktop and laptop computer hardware upgrade assistant.
+
+[Computational Chronophysics](https://chatgpt.com/g/g-6fStHVZEI-computational-chronophysics)
+<br>
+An original emerging scientific concept that explores the intersection of time and physical systems through computational methods.
 
 [Computational Chronoreactor](https://chatgpt.com/g/g-XCwi1z22E-computational-chronoreactor)
 <br>
