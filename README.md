@@ -141,7 +141,7 @@ Develop custom Windows taskbar programs.
 <br>
 Visualize the plain text topology structure of files and folders within a .zip archive.
 
-[Airplane Programmer](https://chatgpt.com/g/g-Ittb4saQw-airplane-programmer)
+[Aviation Programmer](https://chatgpt.com/g/g-Ittb4saQw-aviation-programmer)
 <br>
 Aircraft system programming.
 
