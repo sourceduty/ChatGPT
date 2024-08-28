@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `609` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `610` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -517,6 +517,10 @@ Create new fill-in-the-blank quiz challenges. Use uploaded text files.
 [Team Simulator](https://chatgpt.com/g/g-EJZqQ0uGE-team-simulator)
 <br>
 Simulate diverse team structures and scenarios.
+
+[Computational Hyperchemistry](https://chatgpt.com/g/g-WwInzUTJO-computational-hyperchemistry)
+<br>
+An innovative concept in the field of chemistry, blending advanced computational techniques with hyperdimensional chemical modeling.
 
 [Material Age Tool](https://chatgpt.com/g/g-kGHAa29PA-material-age-tool)
 <br>
