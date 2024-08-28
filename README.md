@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `614` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `615` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -738,6 +738,10 @@ Military software systems and programming language specialist.
 [IoT Hacker](https://chatgpt.com/g/g-ZeaWspw0A-iot-hacker)
 <br>
 Assistive Internet of Things (IoT) device hacking.
+
+[Military Automation](https://chatgpt.com/g/g-3aumcnMBP-military-automation)
+<br>
+Military command automation program assistant.
 
 [Power Crisis](https://chat.openai.com/g/g-xFhradg42-power-crisis)
 <br>
