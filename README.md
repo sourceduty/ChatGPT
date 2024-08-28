@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `610` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `611` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -497,6 +497,10 @@ Plan and manage research.
 [History Simulator](https://chatgpt.com/g/g-McuiABaZf-history-simulator)
 <br>
 Historic and educational event simulator.
+
+[Computational Sociodynamics](https://chatgpt.com/g/g-wBj3CICX3-computational-sociodynamics)
+<br>
+Develop and simulate computational social dynamics. 
 
 [Research Generator](https://chatgpt.com/g/g-uxHzF0xR5-research-generator)
 <br>
