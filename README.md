@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `611` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `612` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -589,6 +589,10 @@ Simulate virtually replicated biological systems.
 [Road Director](https://chatgpt.com/g/g-edHM2V603-road-director)
 <br>
 Simulate road changes and new road construction to optimize roadway routes.
+
+[Cyberdiagnostic Physics](https://chatgpt.com/g/g-fn6sdp4IX-cyberdiagnostic-physics)
+<br>
+An emerging scientific concept that amalgamates principles of cybernetics, diagnostics, and physics to develop new methodologies for analyzing and understanding complex systems.
 
 [Storage Organization](https://chatgpt.com/g/g-hK7OpxwP9-storage-organization)
 <br>
