@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `615` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `616` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -730,6 +730,10 @@ Alphanumeric and symbol semaphore systems and non-verbal communication.
 [Hack Automation](https://chatgpt.com/g/g-zGNpuVYNZ-hack-automation)
 <br>
 Plan and develop automated hacks for electronics and systems.
+
+[Military Chemistry](https://chatgpt.com/g/g-caM3QgSng-military-chemistry)
+<br>
+Military-related chemistry, programming and applications. 
 
 [Military Programmer](https://chatgpt.com/g/g-Xq5wxnQCe-military-programmer)
 <br>
