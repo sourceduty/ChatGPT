@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `612` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `613` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -605,6 +605,10 @@ Assistive plain text mind map creator.
 [Unknown Research](https://chat.openai.com/g/g-fcU6hSD4g-unknown-research)
 <br>
 Assistive guide for unknown and new science research.
+
+[Electrophysics Reactor](https://chatgpt.com/g/g-zENPkkqR4-electrophysics-reactor)
+<br>
+A sophisticated virtual environment designed to simulate the conditions and reactions of a physical Electrophysics Reactor.
 
 [Museum Simulator](https://chatgpt.com/g/g-gSYLPG9uA-museum-simulator)
 <br>
