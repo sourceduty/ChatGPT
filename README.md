@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `617` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `618` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -714,6 +714,10 @@ Learn accounting principles in simulated business transactions.
 </details>
 <details><summary>Security & Military</summary>
 <br>
+
+[Military Operations](https://chatgpt.com/g/g-7UosJgTNL-military-operations)
+<br>
+Develop military operations and modern tactics.
 
 [Military Overlord](https://chatgpt.com/g/g-4r14DqjVY-military-overlord)
 <br>
