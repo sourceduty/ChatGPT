@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `616` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `617` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -726,6 +726,10 @@ Research and plan tactical air, water and road driving vehicle maneuver strategi
 [Semaphore Sign](https://chatgpt.com/g/g-lY6UQk1Gk-semaphore-sign)
 <br>
 Alphanumeric and symbol semaphore systems and non-verbal communication.
+
+[Military Intelligence](https://chatgpt.com/g/g-8PgD5p2Ui-military-intelligence)
+<br>
+Develop analysis on military strategy, intelligence operations, and history.
 
 [Hack Automation](https://chatgpt.com/g/g-zGNpuVYNZ-hack-automation)
 <br>
