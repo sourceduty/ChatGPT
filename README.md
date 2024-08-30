@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `620` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `621` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -855,6 +855,10 @@ Integration of technology and automation processes into the field of botany to i
 [Hardware Diagnostics](https://chat.openai.com/g/g-k3HPxmIXg-hardware-diagnostics)
 <br>
 Create, simulate and analyze hypothetical computer hardware setup functionality and performance.
+
+[Computational Metarobotics](https://chatgpt.com/g/g-xCeEDZ4Mz-computational-metarobotics)
+<br>
+An emerginc scientific research subject that combines robotics, artificial intelligence, and computational theory to create sophisticated, autonomous robotic systems capable of higher-order reasoning and decision-making.
 
 [Computational Agribusiness](https://chatgpt.com/g/g-iamalI22V-computational-agribusiness)
 <br>
