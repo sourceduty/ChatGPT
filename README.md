@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `618` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `619` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -835,6 +835,10 @@ Use molecules as building blocks to create automated systems that operate at the
 [Combinatorics Simulator](https://chatgpt.com/g/g-zGMgmTVdX-combinatorics-simulator)
 <br>
 Simulate, solve and visualize combinatorial problems.
+
+[Nuclear Chemistry Simulator](https://chatgpt.com/g/g-KaoQIF4e8-nuclear-chemistry-simulator)
+<br>
+Simulate nuclear isotopic chemistry for element creation.
 
 [Quantum Informatics](https://chatgpt.com/g/g-CivGM5Ewl-quantum-informatics)
 <br>
