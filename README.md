@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `619` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `620` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -549,6 +549,10 @@ Examine and research the history of any popular location.
 [Prediction Proof](https://chatgpt.com/g/g-yxL30JfkV-prediction-proof)
 <br>
 Prove or disprove and make future predictions.
+
+[Computational Theory](https://chatgpt.com/g/g-B4iJ2xnLt-computational-theory)
+<br>
+Theoretical computer science that focuses on understanding the fundamental principles that govern computation and its capabilities.
 
 [Space Terminal](https://chatgpt.com/g/g-yzdtWTqi4-space-terminal)
 <br>
