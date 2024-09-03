@@ -1108,9 +1108,9 @@ Learn and troubleshoot electricity, with clear explanations and examples.
 <br>
 Assistive robotic design, sensor, and software expert.
 
-[Mechanical Machine](https://chat.openai.com/g/g-tDh9fIgp2-mechanical-machine)
+[Mechanical Simulator](https://chatgpt.com/g/g-tDh9fIgp2-mechanical-simulator)
 <br>
-Assistive mechanical, math, and design expert.
+Assistive mechanical engineering simulator.
 
 [Mars](https://chat.openai.com/g/g-aLfw9aF2J-mars)
 <br>
