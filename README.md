@@ -834,7 +834,7 @@ Assistive radio engineering and telecom specialist.
 
 [Network & Circuit Theory](https://chatgpt.com/g/g-LkSv6Qu7w-network-circuit-theory) 
 <br>
-Theoretical circuit and network simulator assistant.
+Theoretical circuit and network simulator and development assistant.
 
 [Molecular Automation](https://chatgpt.com/g/g-evCx2qPG4-molecular-automation)
 <br>
