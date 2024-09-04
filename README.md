@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `621` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `622` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -831,6 +831,10 @@ Simulate theoretical science concepts.
 [Digital Radio & Telecom](https://chatgpt.com/g/g-Ns40SgI8f-digital-radio-telecom)
 <br>
 Assistive radio engineering and telecom specialist.
+
+[Network & Circuit Theory](https://chatgpt.com/g/g-LkSv6Qu7w-network-circuit-theory) 
+<br>
+Theoretical circuit and network simulator assistant.
 
 [Molecular Automation](https://chatgpt.com/g/g-evCx2qPG4-molecular-automation)
 <br>
