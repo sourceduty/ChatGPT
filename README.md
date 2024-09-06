@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `625` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `626` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -537,6 +537,10 @@ An innovative concept in the field of chemistry, blending advanced computational
 [Material Age Tool](https://chatgpt.com/g/g-kGHAa29PA-material-age-tool)
 <br>
 Identify the age of materials from uploaded photos.
+
+[Computational Electrofusion](https://chatgpt.com/g/g-U94AokIsM-computational-electrofusion)
+<br>
+A new scientific framework that integrates computational modeling with electrofusion techniques.
 
 [Systematic Aerologics](https://chatgpt.com/g/g-e1m1FHGzY-systematic-aerologics)
 <br>
