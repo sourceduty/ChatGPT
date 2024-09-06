@@ -502,7 +502,7 @@ Generate and analyze metadata using uploaded files. Create knowledge tags and me
 <br>
 Plan and develop automated research programs.
 
-[Research Draft Notes](https://chatgpt.com/g/g-iAtQ2ULw8-research-draft-notes)
+[Research Draft Notes](https://chatgpt.com/g/g-imc226Y6S-research-draft-notes)
 <br>
 Create draft research notes.
 
