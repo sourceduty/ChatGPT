@@ -2586,7 +2586,7 @@ SpaceX rocket mission simulator game.
 <br>
 Object image guessing game using DALL-E 3.
 
-[U-boat Command](https://chatgpt.com/g/g-1U8paCAn4-u-boat-command)
+[U-Boat Command](https://chatgpt.com/g/g-1U8paCAn4-u-boat-command)
 <br>
 Sci-fi military submarine terminal simulator.
 
