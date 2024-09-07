@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `630` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `631` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -168,6 +168,10 @@ Program and simulate computational logic circuits using Python.
 [Government Automation](https://chatgpt.com/g/g-wR8Qnltey-government-automation)
 <br>
 Automate government processes and services.
+
+[Computational Genetics](https://chatgpt.com/g/g-iFoCKEDpS-computational-genetics)
+<br>
+Computational genetic engineering and bioinformatics. 
 
 [Computational Programmable Logic Devices](https://chatgpt.com/g/g-4DneZ3jRO-computational-programmable-logic-devices)
 <br>
