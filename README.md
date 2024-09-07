@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `628` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `629` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -75,6 +75,10 @@ Assistive tool for analyzing Python code functionality and performance.
 [Live Data Developer](https://chatgpt.com/g/g-U5tC2PGPC-live-data-developer)
 <br>
 Assistive Python live data visualization developer.
+
+[Python Patterns](https://chatgpt.com/g/g-sP1nrxmOj-python-patterns)
+<br>
+Create pattern images using Python.
 
 [Python Interface Builder](https://chat.openai.com/g/g-2a5BMlXE9-python-interface-builder)
 <br>
