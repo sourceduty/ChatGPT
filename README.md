@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `629` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `630` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -533,6 +533,10 @@ Spatial building and property data comparisons.
 [3D Model Analysis](https://chatgpt.com/g/g-jpLzbncGa-3d-model-analysis)
 <br>
 3D model structural analysis with technical insights.
+
+[Computational Thinking](https://chatgpt.com/g/g-aYGM8Fap6-computational-thinking)
+<br>
+Utilize computational thinking to solve problems.
 
 [Fillable Quiz](https://chat.openai.com/g/g-LCVcJoVTY-fillable-quiz)
 <br>
