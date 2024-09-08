@@ -2834,9 +2834,9 @@ Given the ongoing development and the broadening scope of applications, the mark
 
 > "*Feedback: Scrolling down the list of custom GPTs should be a lot easier and without a button that delays the scrolling. I can't scroll down because of the button delaying the scrolling.*"
 
-> "*ChatGPT didn't use any semicolons which means they created a personal bias and didn't automatically improve my writing skills.*"
-
 ![Load More](https://github.com/user-attachments/assets/a94d56aa-e570-494e-9530-44fd7c632573)
+
+> "*ChatGPT didn't use any semicolons which means they created a personal bias and didn't automatically improve my writing skills.*"
 
 <br>
 </details>
