@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `631` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `632` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -524,7 +524,11 @@ Historic and educational event simulator.
 
 [Computational Sociodynamics](https://chatgpt.com/g/g-wBj3CICX3-computational-sociodynamics)
 <br>
-Develop and simulate computational social dynamics. 
+Develop and simulate computational social dynamics.
+
+[Computational Quantum Topology](https://chatgpt.com/g/g-Z3Fn0ahHM-computational-quantum-topology)
+<br>
+An emerging field that integrates quantum mechanics, topology, and computational techniques to investigate and model quantum systems using topological concepts.
 
 [Research Generator](https://chatgpt.com/g/g-uxHzF0xR5-research-generator)
 <br>
