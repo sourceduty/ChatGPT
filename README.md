@@ -556,7 +556,7 @@ Utilize computational thinking to solve problems.
 
 [Computational Environmental Science](https://chatgpt.com/g/g-p9LtBM7zP-computational-environmental-science)
 <br>
-Simulate and research modelled interactions within ecosystems, climate systems, and human impacts on the environment.
+Simulate and research modelled ecosystems, climate systems, and human impacts on the environment.
 
 [Fillable Quiz](https://chat.openai.com/g/g-LCVcJoVTY-fillable-quiz)
 <br>
