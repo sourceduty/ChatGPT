@@ -528,7 +528,7 @@ Plan and manage research.
 
 [Improvement Value](https://chatgpt.com/g/g-sk2jHB2eb-improvement-value)
 <br>
-Measure Improvement Value (IV) in products and services can be developed by focusing on four key dimensions: usability, efficiency, satisfaction, and impact.
+Measure the Improvement Value (IV) in products and services can be developed by focusing on four key dimensions: usability, efficiency, satisfaction, and impact.
 
 [History Simulator](https://chatgpt.com/g/g-McuiABaZf-history-simulator)
 <br>
