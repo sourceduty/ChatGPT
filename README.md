@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `638` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `639` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -525,6 +525,10 @@ Create draft research notes.
 [Research Planner](https://chatgpt.com/g/g-hdPLRuZph-research-planner)
 <br>
 Plan and manage research.
+
+[Education Automation](https://chatgpt.com/g/g-uabE6LUIV-education-automation)
+<br>
+Plan and develop automated teacher and student education programs.
 
 [Improvement Value](https://chatgpt.com/g/g-sk2jHB2eb-improvement-value)
 <br>
