@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `637` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `638` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -525,6 +525,10 @@ Create draft research notes.
 [Research Planner](https://chatgpt.com/g/g-hdPLRuZph-research-planner)
 <br>
 Plan and manage research.
+
+[Improvement Value](https://chatgpt.com/g/g-sk2jHB2eb-improvement-value)
+<br>
+Measure Improvement Value (IV) in products and services can be developed by focusing on four key dimensions: usability, efficiency, satisfaction, and impact.
 
 [History Simulator](https://chatgpt.com/g/g-McuiABaZf-history-simulator)
 <br>
