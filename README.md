@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `639` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `640` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -144,6 +144,10 @@ File and web search scraper classification programming assistant.
 [Taskbar Programmer](https://chatgpt.com/g/g-KkQbcLUwU-taskbar-programmer)
 <br>
 Develop custom Windows taskbar programs.
+
+[File Automation](https://chatgpt.com/g/g-F0Q6PvsZc-file-automation)
+<br>
+Plan and develop automated file generation, editing and storage programs.
 
 [ZIP Topology](https://chatgpt.com/g/g-shi8Y3dOA-zip-topology)
 <br>
