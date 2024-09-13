@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `640` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `641` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1803,6 +1803,10 @@ Simulate the terminal for any farm tractor brand.
 [Food Balancer](https://chat.openai.com/g/g-eCDqmhGSI-food-balancer)
 <br>
 Balance food and meals for an optimal diet.
+
+[Meal Generator](https://chatgpt.com/g/g-gZoqEj8TH-meal-generator)
+<br>
+Create various types of meal plans.
 
 [Recipe Optimizer](https://chat.openai.com/g/g-RBkBOAyNN-recipe-optimizer)
 <br>
