@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `645` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `646` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2046,6 +2046,10 @@ Research any type and area of business.
 [Employee Agent](https://chatgpt.com/g/g-EnxuTeBcc-employee-agent) 
 <br>
 Measure and qualify employees for hiring.
+
+[Business Systems](https://chatgpt.com/g/g-I4ACxYPf3-business-systems) 
+<br>
+Plan, develop and simulate qualifying business system development and purchases.
 
 [Dragon's Den](https://chatgpt.com/g/g-HvT7R4enX-dragon-s-den)
 <br>
