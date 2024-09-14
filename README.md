@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `649` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `650` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -168,6 +168,10 @@ Theoretical self-managing computing models where systems operate independently t
 [Virtual HPC Simulator](https://chatgpt.com/g/g-7neaCcvT9-virtual-hpc-simulator)
 <br>
 Simulate high-performance computing systems.
+
+[Automated Solar Power](https://chatgpt.com/g/g-5FdYQrXwA-automated-solar-power)
+<br>
+Plan, program and simulate automated solar power systems.
 
 [Aviation Programmer](https://chatgpt.com/g/g-Ittb4saQw-aviation-programmer)
 <br>
