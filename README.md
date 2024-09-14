@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `642` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `643` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1378,6 +1378,10 @@ Financial model architecture development.
 [Financial Crisis](https://chat.openai.com/g/g-7kSDiIofA-financial-crisis)
 <br>
 International financial crisis planning and simulation.
+
+[Property Bills](https://chatgpt.com/g/g-CXuLPf2eI-property-bills)
+<br>
+Estimate and manage property management bills.
 
 [Economy Simulator](https://chatgpt.com/g/g-S3MAXtBUv-economy-simulator)
 <br>
