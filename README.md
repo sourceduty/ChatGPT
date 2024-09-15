@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `650` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `651` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -136,6 +136,10 @@ Validate data using public sources.
 [4D Printing](https://chatgpt.com/g/g-5WHJLDb5U-4d-printing)
 <br>
 4D printing programming and simulations.
+
+[Material Computation](https://chatgpt.com/g/g-JGLYrbFWo-material-computation)
+<br>
+Plan and build physical computation mechanisms and machines.
 
 [Benchmark Automation](https://chatgpt.com/g/g-7SVERnPqi-benchmark-automation)
 <br>
