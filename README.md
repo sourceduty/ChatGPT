@@ -2751,6 +2751,7 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 > - Computer hardware simulations.
 > - Fake identities.
 > - Abstract processes.
+> - Ask DALL-E 3 for a symmetrically-split wide image and then cut it into two pieces using Python.
 
 > [!NOTE]
 > Alex's Favorite Prompts:
