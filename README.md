@@ -3206,6 +3206,83 @@ Overly literal responses also reflect passive-aggressive behavior in AI image ge
 
 <br>
 </details>
+<details><summary>ChatGPT User Preference Presets</summary>
+<br>
+
+This comprehensive list of preset preferences offers users full control over how chat outputs are structured, styled, and detailed. By allowing users to adjust elements such as response format (e.g., paragraphs, bullet points, or tables) and response style (e.g., formal, casual, or neutral), the system becomes highly adaptable to various contexts, whether for business communication, casual conversation, or academic research. The ability to set the level of detail ensures that users receive responses that are either concise and to the point or more elaborate when deeper explanations are required. In addition, domain-specific customizations, such as technical or creative responses, make the system more relevant for specific industries or use cases.
+
+The inclusion of visual aids, code preferences, and memory management further enhances usability, especially for technical users or those requiring complex data representation. Users can opt for text-based or visual diagrams and request code snippets, full scripts, or even pseudo-code to suit their needs. Memory and session management features allow for a seamless experience across interactions, retaining user preferences to avoid repetition. Overall, this customizable framework empowers users to modify chat outputs according to their unique requirements, making interactions more efficient, contextually appropriate, and user-centric.
+
+<br>
+
+```
+1. Response Style:
+   1.1. Formal
+   1.2. Casual
+   1.3. Neutral
+
+2. Response Format:
+   2.1. Paragraphs
+   2.2. Bullet points
+   2.3. Numbered lists
+   2.4. Tables
+   2.5. Code blocks
+   2.6. Diagrams (Text-based or Visual)
+
+3. Level of Detail:
+   3.1. Concise
+   3.2. Moderate detail
+   3.3. Comprehensive
+
+4. Domain-Specific Responses:
+   4.1. Technical
+   4.2. Business
+   4.3. Creative
+   4.4. Academic
+   4.5. Conversational
+
+5. Language and Tone Adjustments:
+   5.1. Professional
+   5.2. Friendly
+   5.3. Informative
+   5.4. Persuasive
+   5.5. Empathetic
+
+6. Custom Structure:
+   6.1. Introduction, body, conclusion
+   6.2. Question-answer format
+   6.3. Argumentative structure
+   6.4. Problem-solution format
+
+7. Visual Aids:
+   7.1. Flowcharts (Text or Visual)
+   7.2. Graphs and Charts (Text descriptions)
+   7.3. Simplified step-by-step process
+
+8. Code Inclusion Preferences:
+   8.1. Code snippets
+   8.2. Full scripts
+   8.3. Pseudo-code
+   8.4. No code
+
+9. Memory and Session Management:
+   9.1. Store preferences across sessions
+   9.2. Session-specific adjustments
+   9.3. Reset to default preferences
+
+10. Clarification and Feedback:
+   10.1. Prompt for clarification when unsure
+   10.2. Feedback after response
+   10.3. Mid-response adjustments
+
+11. Diagram Formatting:
+   11.1. Text-only
+   11.2. Vertical alignment
+   11.3. Simplified graphical representation
+```
+
+<br>
+</details>
 
 ***
 Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
