@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `652` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `653` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -569,6 +569,10 @@ Historic and educational event simulator.
 [Computational Sociodynamics](https://chatgpt.com/g/g-wBj3CICX3-computational-sociodynamics)
 <br>
 Develop and simulate computational social dynamics.
+
+[Property Locale](https://chatgpt.com/g/g-Vag7qPkFg-property-locale)
+<br>
+An innovative tool for measuring a property's common available local travel routes.
 
 [Biomechanical Logic](https://chatgpt.com/g/g-syJp3DQPt-biomechanical-logic)
 <br>
