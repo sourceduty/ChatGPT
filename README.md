@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `657` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `658` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2122,6 +2122,10 @@ Plan and organize various different types of campaigns.
 [Business Conglomerate](https://chatgpt.com/g/g-JcXE8jczK-business-conglomerate)
 <br>
 Assistive business conglomerate developer.
+
+[Employee Automation](https://chatgpt.com/g/g-HYQEEKjBg-employee-automation)
+<br>
+Plan, develop, and simulate automated employment positions.
 
 [Outsourcing Agent](https://chatgpt.com/g/g-0EebwegX4-outsourcing-agent)
 <br>
