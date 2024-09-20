@@ -33,7 +33,7 @@ Tips and tricks to unlock ChatGPT's full potential.
 
 [Output Blaster](https://chatgpt.com/g/g-vxjg4ZtwX-output-blaster)
 <br>
-Create a sequence of output extensions utilizing single DALL-E 3 image or GPT-4o text outputs.
+Create an ∞ sequence of output extensions utilizing single DALL-E 3 image or GPT-4o text outputs.
 
 [Instruction Creator](https://chat.openai.com/g/g-yAwEVaLkf-instruction-creator)
 <br>
