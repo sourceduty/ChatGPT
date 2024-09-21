@@ -2818,6 +2818,9 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 <br>
 </details>
 
+<br>
+</details>
+
 ***
 
 <details><summary>More Links and Information</summary>
