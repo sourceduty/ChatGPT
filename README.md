@@ -2746,6 +2746,13 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 ✨ Thanks for using exclusive Sourceduty custom GPTs!
 ***
 
+<details><summary>Tips, Prompts and Advice</summary>
+<br>
+
+### Tips
+<details><summary>Click to Expand</summary>
+<br>
+
 > [!TIP]
 > Alex's Advice:
 > ```
@@ -2773,6 +2780,10 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 > - Fake identities.
 > - Abstract processes.
 > - Ask DALL-E 3 for a symmetrically-split wide image and then cut it into two pieces using Python.
+
+### Notes
+<details><summary>Click to Expand</summary>
+<br>
 
 > [!NOTE]
 > Alex's Favorite Prompts:
@@ -2804,13 +2815,16 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 > Artificial Intelligence, AI, Python, Simulation, Research, New Science, Sourceduty, ChatGPT, Alex Aldridge, OpenAI, Custom GPTs, AI Revolution, Bots, Templates, Improvement, Business
 > ```
 
+<br>
+</details>
+
 ***
 
 <details><summary>More Links and Information</summary>
 <br>
 
 ### Sourceduty's Popular GPTs
-<details><summary>Sourceduty's Popular Custom GPTs</summary>
+<details><summary>Click to Expand</summary>
 <br>
 
 [Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator)
