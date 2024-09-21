@@ -2823,83 +2823,83 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 <br>
 
 [ChatGPT vs. Google Bard](https://chat.openai.com/share/632c7739-b255-40e5-8613-9e3c7adac1c0)  
-<br>
+
 [Google's Bard Has Just Become Gemini](https://em360tech.com/tech-article/gemini-vs-bard)  
-<br>
+
 [3D models from 2D images](https://console.cloud.google.com/vertex-ai/publishers/google/model-garden/159?_ga=2.117591241.1727710146.1710245888-2142731486.1710245832&pli=1)  
-<br>
+
 [Shap-E: Generating Conditional 3D Implicit Functions](https://arxiv.org/abs/2305.02463)  
-<br>
+
 [Can new GPT store spur generative AI monetization?](https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/21994801/)  
-<br>
+
 [ChatGPT sparks AI investment bonanza](https://www.nationalheraldindia.com/science-and-tech/chatgpt-sparks-ai-investment)  
-<br>
+
 [Awesome GPT Store](https://github.com/sourceduty/Awesome-GPT-Store)  
-<br>
+
 [OpenAI Discord](https://discord.com/invite/openai)  
-<br>
+
 [File Uploads FAQ](https://help.openai.com/en/articles/8555545-file-uploads-faq)  
-<br>
+
 [Custom GPT Directories](https://github.com/sourceduty/Custom_GPTs)  
-<br>
+
 [GPT Store Predictions](https://www.reddit.com/r/OpenAI/comments/17upjcm/interesting_predictions_about_the_gpt_store/)  
-<br>
+
 [First impressions of the GPT store?](https://www.reddit.com/r/OpenAI/comments/193wbhv/first_impressions_of_the_gpt_store/?utm_source=share&utm_medium=web2x&context=3)  
-<br>
+
 [Prices for custom GPTs in the GPT Store](https://chat.openai.com/share/5b573da5-4ecf-493e-8e47-9cfed7c98fa9)  
-<br>
+
 [AI Takeover](https://en.wikipedia.org/wiki/AI_takeover)  
-<br>
+
 [How many custom GPTs are currently in the GPT Store?](https://chat.openai.com/share/cef152a8-f703-4ad2-96b4-b7fbae7b5ac3)  
-<br>
+
 [List the ChatGPT accounts who have published the most custom GPTs](https://chat.openai.com/share/930c6a8d-351c-4025-9355-60f2d4ece377)  
-<br>
+
 [SORA](https://openai.com/research/video-generation-models-as-world-simulators)  
-<br>
+
 [Elon Musk vs OpenAI](https://chat.openai.com/share/ba103560-67d1-4bfe-9fa2-e6c7123c4d9b)  
-<br>
+
 [Artificial Superintelligence](https://github.com/sourceduty/Artificial_Superintelligence)  
-<br>
+
 [Harvard Artificial Superintelligence](https://harvardsciencereview.com/artificial-superintelligence-the-coming-revolution/#:~:text=The%20median%20of%20the%20years%20given%20for%2090%25%20confidence%20was,created%20within%20just%2065%20years.)  
-<br>
+
 [ChatGPT Business Model](https://chat.openai.com/share/ff2ea833-156e-4702-af3c-703b32c1b91b)  
-<br>
+
 [ChatGPT_Actions](https://github.com/sourceduty/ChatGPT_Actions)  
-<br>
+
 [ActionsGPT](https://chat.openai.com/g/g-TYEliDU6A-actionsgpt)  
-<br>
+
 [Custom GPT Service](https://github.com/sourceduty/Custom_GPT_Service)  
-<br>
+
 [Public Work](https://github.com/sourceduty/Public_Work)  
-<br>
+
 [Custom GPT Apps](https://github.com/sourceduty/Custom_GPT_Apps)  
-<br>
+
 [GPT Store Monetization](https://help.openai.com/en/articles/9119255-monetizing-your-gpt-faq)  
-<br>
+
 [GPT Simulators](https://github.com/sourceduty/GPT_Simulators)  
-<br>
+
 [DALL-E Analyzer](https://github.com/sourceduty/DALL-E_Analyzer)  
-<br>
+
 [DALL-E 3](https://github.com/sourceduty/DALL-E_3)  
-<br>
+
 [ChatGPT Preview Panel Assistant](https://github.com/sourceduty/ChatGPT_Preview_Panel_Assistant)  
-<br>
+
 [Combination Custom GPT](https://github.com/sourceduty/Combination_Custom_GPT)  
-<br>
+
 [xAI](https://github.com/sourceduty/xAI)  
-<br>
+
 [AI](https://github.com/sourceduty/AI)  
-<br>
+
 [AGI](https://github.com/sourceduty/AGI)  
-<br>
+
 [ChatGPT Books](https://github.com/sourceduty/ChatGPT_Books)  
-<br>
+
 [Gravatar](https://gravatar.com/)  
-<br>
+
 [Makeshift Art](https://github.com/sourceduty/Makeshift_DALL-E_3)  
-<br>
+
 [Communication](https://github.com/sourceduty/Communication)  
-<br>
+
 [News](https://github.com/sourceduty/News)  
 
 <br>
