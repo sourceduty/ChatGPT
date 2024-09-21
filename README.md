@@ -1,14 +1,5 @@
 ![IO](https://github.com/user-attachments/assets/9cafb988-a0aa-486f-ba29-4a6db5d23c03)
 
-<div align="center">
-
-| Sourceduty currently has `659` custom built GPTs sorted and listed below into `20` different categories. |
-|-|
-
-</div>
-
-***
-
 <details><summary>Popular Custom GPTs</summary>
 <br>
 
@@ -43,6 +34,15 @@
 [Browser Extension](https://chatgpt.com/g/g-QREsCa45r-browser-extension)
 
 </details>
+
+***
+
+<div align="center">
+
+| Sourceduty currently has `659` custom built GPTs sorted and listed below into `20` different categories. |
+|-|
+
+</div>
 
 ***
 
