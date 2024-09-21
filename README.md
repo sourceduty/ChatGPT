@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `660` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `659` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -885,6 +885,10 @@ National electrical power outage planning and simulation.
 <br>
 Simulate various public and private security scenarios.
 
+[Military Prompt](https://chat.openai.com/g/g-VLePEN7ZK-military-prompt)
+<br>
+Terminal interface design guide.
+
 [Security Automation](https://chatgpt.com/g/g-o2BODDHHU-security-automation)
 <br>
 Automate and optimize cybersecurity programs.
@@ -912,10 +916,6 @@ Generate innovative and practical solutions for addressing complex global issues
 [Encryption Specialist](https://chatgpt.com/g/g-AClVroVDs-encryption-specialist)
 <br>
 Assistive encryption and decryption.
-
-[Military Product](https://chatgpt.com/g/g-lbdapKZ2f-military-product)
-<br>
-Create military product packaging and equipment using DALL-E 3.
 
 [Disaster Crisis](https://chat.openai.com/g/g-QQUg3dzIf-disaster-crisis)
 <br>
@@ -2577,10 +2577,6 @@ Fan artist tool.
 [Rebrand](https://chat.openai.com/g/g-GrLJN0Kqu-rebrand)
 <br>
 Create conceptual rebranded product images.
-
-[Military Prompt](https://chat.openai.com/g/g-VLePEN7ZK-military-prompt)
-<br>
-Terminal interface design guide.
 
 [Design Collab](https://chat.openai.com/g/g-lwdIgFWps-design-collab)
 <br>
