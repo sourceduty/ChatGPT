@@ -2815,90 +2815,58 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 
 ***
 
-<details><summary>Related Links</summary>
+<details><summary>More Links and Information</summary>
 <br>
 
-[ChatGPT vs. Google Bard](https://chat.openai.com/share/632c7739-b255-40e5-8613-9e3c7adac1c0)
+### Related Links
+<details><summary>Click to expand</summary>
+<br>
 
-[Google's Bard Has Just Become Gemini](https://em360tech.com/tech-article/gemini-vs-bard)
-
-[3D models from 2D images](https://console.cloud.google.com/vertex-ai/publishers/google/model-garden/159?_ga=2.117591241.1727710146.1710245888-2142731486.1710245832&pli=1)
-
-[Shap-E: Generating Conditional 3D Implicit Functions](https://arxiv.org/abs/2305.02463)
-
-[Can new GPT store spur generative AI monetization?](https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/21994801/)
-
-[ChatGPT sparks AI investment bonanza](https://www.nationalheraldindia.com/science-and-tech/chatgpt-sparks-ai-investment)
-
-[Awesome GPT Store](https://github.com/sourceduty/Awesome-GPT-Store)
-
-[OpenAI Discord](https://discord.com/invite/openai)
-
-[File Uploads FAQ](https://help.openai.com/en/articles/8555545-file-uploads-faq)
-
-[Custom GPT Directories](https://github.com/sourceduty/Custom_GPTs)
-
-[GPT Store Predictions](https://www.reddit.com/r/OpenAI/comments/17upjcm/interesting_predictions_about_the_gpt_store/) 
-
-[First impressions of the GPT store?](https://www.reddit.com/r/OpenAI/comments/193wbhv/first_impressions_of_the_gpt_store/?utm_source=share&utm_medium=web2x&context=3)
-
-[Prices for custom GPTs in the GPT Store](https://chat.openai.com/share/5b573da5-4ecf-493e-8e47-9cfed7c98fa9)
-
-[AI Takeover](https://en.wikipedia.org/wiki/AI_takeover)
-
-[How many custom GPTs are currently in the GPT Store?](https://chat.openai.com/share/cef152a8-f703-4ad2-96b4-b7fbae7b5ac3)
-
-[List the ChatGPT accounts who have published the most custom GPTs](https://chat.openai.com/share/930c6a8d-351c-4025-9355-60f2d4ece377)
-
-[SORA](https://openai.com/research/video-generation-models-as-world-simulators)
-
-[Elon Musk vs OpenAI](https://chat.openai.com/share/ba103560-67d1-4bfe-9fa2-e6c7123c4d9b)
-
-[Artificial Superintelligence](https://github.com/sourceduty/Artificial_Superintelligence)
-
-[Harvard Artificial Superintelligence](https://harvardsciencereview.com/artificial-superintelligence-the-coming-revolution/#:~:text=The%20median%20of%20the%20years%20given%20for%2090%25%20confidence%20was,created%20within%20just%2065%20years.)
-
-[ChatGPT Business Model](https://chat.openai.com/share/ff2ea833-156e-4702-af3c-703b32c1b91b)
-
-[ChatGPT_Actions](https://github.com/sourceduty/ChatGPT_Actions)
-
-[ActionsGPT](https://chat.openai.com/g/g-TYEliDU6A-actionsgpt)
-
-[Custom GPT Service](https://github.com/sourceduty/Custom_GPT_Service)
-
-[Public Work](https://github.com/sourceduty/Public_Work)
-
-[Custom GPT Apps](https://github.com/sourceduty/Custom_GPT_Apps)
-
-[GPT Store Monetization](https://help.openai.com/en/articles/9119255-monetizing-your-gpt-faq)
-
-[GPT Simulators](https://github.com/sourceduty/GPT_Simulators)
-
-[DALL-E Analyzer](https://github.com/sourceduty/DALL-E_Analyzer)
-
-[DALL-E 3](https://github.com/sourceduty/DALL-E_3)
-
-[ChatGPT Preview Panel Assistant](https://github.com/sourceduty/ChatGPT_Preview_Panel_Assistant)
-
-[Combination Custom GPT](https://github.com/sourceduty/Combination_Custom_GPT)
-
-[xAI](https://github.com/sourceduty/xAI)
-
-[AI](https://github.com/sourceduty/AI)
-
-[AGI](https://github.com/sourceduty/AGI)
-
-[ChatGPT Books](https://github.com/sourceduty/ChatGPT_Books)
-
-[Gravatar](https://gravatar.com/)
-
-[Makeshift Art](https://github.com/sourceduty/Makeshift_DALL-E_3)
-
-[Communication](https://github.com/sourceduty/Communication)
+[ChatGPT vs. Google Bard](https://chat.openai.com/share/632c7739-b255-40e5-8613-9e3c7adac1c0)  
+[Google's Bard Has Just Become Gemini](https://em360tech.com/tech-article/gemini-vs-bard)  
+[3D models from 2D images](https://console.cloud.google.com/vertex-ai/publishers/google/model-garden/159?_ga=2.117591241.1727710146.1710245888-2142731486.1710245832&pli=1)  
+[Shap-E: Generating Conditional 3D Implicit Functions](https://arxiv.org/abs/2305.02463)  
+[Can new GPT store spur generative AI monetization?](https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/21994801/)  
+[ChatGPT sparks AI investment bonanza](https://www.nationalheraldindia.com/science-and-tech/chatgpt-sparks-ai-investment)  
+[Awesome GPT Store](https://github.com/sourceduty/Awesome-GPT-Store)  
+[OpenAI Discord](https://discord.com/invite/openai)  
+[File Uploads FAQ](https://help.openai.com/en/articles/8555545-file-uploads-faq)  
+[Custom GPT Directories](https://github.com/sourceduty/Custom_GPTs)  
+[GPT Store Predictions](https://www.reddit.com/r/OpenAI/comments/17upjcm/interesting_predictions_about_the_gpt_store/)  
+[First impressions of the GPT store?](https://www.reddit.com/r/OpenAI/comments/193wbhv/first_impressions_of_the_gpt_store/?utm_source=share&utm_medium=web2x&context=3)  
+[Prices for custom GPTs in the GPT Store](https://chat.openai.com/share/5b573da5-4ecf-493e-8e47-9cfed7c98fa9)  
+[AI Takeover](https://en.wikipedia.org/wiki/AI_takeover)  
+[How many custom GPTs are currently in the GPT Store?](https://chat.openai.com/share/cef152a8-f703-4ad2-96b4-b7fbae7b5ac3)  
+[List the ChatGPT accounts who have published the most custom GPTs](https://chat.openai.com/share/930c6a8d-351c-4025-9355-60f2d4ece377)  
+[SORA](https://openai.com/research/video-generation-models-as-world-simulators)  
+[Elon Musk vs OpenAI](https://chat.openai.com/share/ba103560-67d1-4bfe-9fa2-e6c7123c4d9b)  
+[Artificial Superintelligence](https://github.com/sourceduty/Artificial_Superintelligence)  
+[Harvard Artificial Superintelligence](https://harvardsciencereview.com/artificial-superintelligence-the-coming-revolution/#:~:text=The%20median%20of%20the%20years%20given%20for%2090%25%20confidence%20was,created%20within%20just%2065%20years.)  
+[ChatGPT Business Model](https://chat.openai.com/share/ff2ea833-156e-4702-af3c-703b32c1b91b)  
+[ChatGPT_Actions](https://github.com/sourceduty/ChatGPT_Actions)  
+[ActionsGPT](https://chat.openai.com/g/g-TYEliDU6A-actionsgpt)  
+[Custom GPT Service](https://github.com/sourceduty/Custom_GPT_Service)  
+[Public Work](https://github.com/sourceduty/Public_Work)  
+[Custom GPT Apps](https://github.com/sourceduty/Custom_GPT_Apps)  
+[GPT Store Monetization](https://help.openai.com/en/articles/9119255-monetizing-your-gpt-faq)  
+[GPT Simulators](https://github.com/sourceduty/GPT_Simulators)  
+[DALL-E Analyzer](https://github.com/sourceduty/DALL-E_Analyzer)  
+[DALL-E 3](https://github.com/sourceduty/DALL-E_3)  
+[ChatGPT Preview Panel Assistant](https://github.com/sourceduty/ChatGPT_Preview_Panel_Assistant)  
+[Combination Custom GPT](https://github.com/sourceduty/Combination_Custom_GPT)  
+[xAI](https://github.com/sourceduty/xAI)  
+[AI](https://github.com/sourceduty/AI)  
+[AGI](https://github.com/sourceduty/AGI)  
+[ChatGPT Books](https://github.com/sourceduty/ChatGPT_Books)  
+[Gravatar](https://gravatar.com/)  
+[Makeshift Art](https://github.com/sourceduty/Makeshift_DALL-E_3)  
+[Communication](https://github.com/sourceduty/Communication)  
 
 <br>
 </details>
-<details><summary>OpenAI, AGI and ASI</summary>
+
+### OpenAI, AGI and ASI
+<details><summary>Click to expand</summary>
 <br>
 
 OpenAI, the organization behind ChatGPT, focuses heavily on pushing the boundaries of what AI can achieve, with a long-term goal of steering towards AGI in a safe and beneficial manner. Achieving AGI involves overcoming several major challenges. One such challenge is the ability of AGI to generalize knowledge across different contexts without extensive retraining. This requires a shift from the pattern recognition capabilities of current AI systems to a more profound capability for abstract thinking and complex problem-solving.
@@ -2909,7 +2877,9 @@ ChatGPT is an example of Artificial General Intelligence (AGI), which refers to 
 
 <br>
 </details>
-<details><summary>Custom GPT Market</summary>
+
+### Custom GPT Market
+<details><summary>Click to expand</summary>
 <br>
 
 As of early 2024, the GPT store, which launched in January, has reported that over 3 million custom GPTs have been created. This number reflects the rapid expansion and diversification of the custom GPT market, showing a wide range of applications and user engagement across various sectors. In comparison, the Google Play Store, which has been in operation since March 6, 2012, hosts about 3.95 million apps as of 2024.
@@ -2924,7 +2894,9 @@ Given the ongoing development and the broadening scope of applications, the mark
 
 <br>
 </details>
-<details><summary>Alex's Notes</summary>
+
+### Alex's Notes
+<details><summary>Click to expand</summary>
 <br>
 
 > *"I'm really impressed by the versatility of GPT-4. The AI tools I've been working on are turning out to be quite useful, and I'm excited about what lies ahead. It's clear that AI is poised to have a significant impact on our daily lives, and I can't wait to see how it continues to evolve and make things even better in the future."*
@@ -2937,7 +2909,7 @@ Given the ongoing development and the broadening scope of applications, the mark
 
 > *"ChatGPT provides a creative AI platform for developers to utilize, customize and sell to users."*
 
-> "*Feedback: Instead of prompting for a code block response, every response from ChatGPT in a custom GPT should have the option to be a code block. Copy and paste. This would eliminate a lot of unnecessary prompts asking for code blocks.*"
+> "*Feedback: Instead of prompting for a code block response, every response from ChatGPT in a custom GPT should have the option to be a code block. Copy and paste. This would eliminate a lot of unnecessary prompts asking for code blocks.*"
 
 > "*I could almost develop another custom GPT or custom software to optimize searching throughout the hundreds of custom GPTs built by Sourceduty.*"
 
@@ -2959,145 +2931,102 @@ Given the ongoing development and the broadening scope of applications, the mark
 
 <br>
 </details>
-<details><summary>Concept GPTs</summary>
+
+### Concept GPTs
+<details><summary>Click to expand</summary>
 <br>
 
 ### Failed, conceptual and deleted GPTs.
 
 These concept GPTs won't be protected by copyright.
 
-[Video Commentary](https://chatgpt.com/g/g-uQRsIVIVN-video-commentary)
-<br>
-[Finance Organizer](https://chatgpt.com/g/g-VkZFBzv3K-finance-organizer)
-<br>
-[3D Model Imaging](https://chatgpt.com/g/g-UVfWgnoGR-3d-model-imaging)
-<br>
-[Audio Compare](https://chatgpt.com/g/g-KRB44G16q-audio-compare)
-<br>
-[Physical Doctor](https://chatgpt.com/g/g-GkRc4yulR-physical-doctor)
-<br>
-[Logo Mystery](https://chatgpt.com/g/g-bMbKj6OKh-logo-mystery)
-<br>
-[Bass Boost](https://chatgpt.com/g/g-SeVChjS0z-bass-boost)
-<br>
-[Broken English](https://chatgpt.com/g/g-meh1jLQos-broken-english)
-<br>
-[Pediatric](https://chatgpt.com/g/g-tToxYxaOu-pediatric)
-<br>
-[Dark Internet](https://chatgpt.com/g/g-OtVTWVUiS-dark-internet)
-<br>
-[Expanding Mosaic](https://chatgpt.com/g/g-t1KHcEJFB-expanding-mosaic)
-<br>
-[Painting Styles](https://chatgpt.com/g/g-3TPcGis2m-painting-styles)
-<br>
-[Easy APIs](https://chatgpt.com/g/g-DwGmTAUTB-easy-apis)
-<br>
-[Satellite Simulator](https://chatgpt.com/g/g-jGJk7ZctD-satellite-simulator)
-<br>
-[Limited Writer](https://chatgpt.com/g/g-5T2nJdnWc-limited-writer)
-<br>
-[Sourceduty Strategist](https://chatgpt.com/g/g-AwjKECo12-sourceduty-strategist)
-<br>
-[Articulation Etiquette](https://chatgpt.com/g/g-r0OIAQXx2-articulation-etiquette)
-<br>
-[Cyberscience](https://chatgpt.com/g/g-L1d6Dngpe-cyberscience)
-<br>
-[Science Reporter](https://chatgpt.com/g/g-DC4zgcQIN-science-reporter)
-<br>
-[Convo Planner](https://chatgpt.com/g/g-LTSeH89l1-convo-planner)
-<br>
-[Ecogastronomy](https://chatgpt.com/g/g-gnLAEFczY-ecogastronomy)
-<br>
-[ASCII Artist](https://chatgpt.com/g/g-C0jdX0nz8-ascii-artist)
-<br>
-[Entertainment Engineer](https://chatgpt.com/g/g-yo5obiKqN-entertainment-engineer)
-<br>
-[Self-Care](https://chat.openai.com/g/g-wHjpE258h-self-care)
-<br>
-[Tourism Analyst](https://chatgpt.com/g/g-XPRqAmK9N-tourism-analyst)
-<br>
-[Govern](https://chat.openai.com/g/g-KwFofUds3-govern)
-<br>
-[Couponer](https://chat.openai.com/g/g-UiFsed8n5-couponer)
-<br>
-[Web Image Collage](https://chatgpt.com/g/g-YWpyuLTBO-web-image-collage)
-<br>
-[SEO Report](https://chatgpt.com/g/g-kWpYQWaxe-seo-report)
-<br>
-[Canadian](https://chat.openai.com/g/g-gLPMVBUZ3-canadian)
-<br>
-[International Food](https://chat.openai.com/g/g-7UnfdyuGo-international-food)
-<br>
-[Walk the Plank](https://chat.openai.com/g/g-a2T0z5vN2-walk-the-plank)
-<br>
-[Landmarks](https://chat.openai.com/g/g-dPEn89zIW-landmarks)
-<br>
-[Vehicle Power](https://chat.openai.com/g/g-i3PZZkZe4-vehicle-power)
-<br>
-[Mister Beast](https://chatgpt.com/g/g-Y18tV5NgP-mister-beast)
-<br>
-[Notepad Emulator](https://chat.openai.com/g/g-FaIJ25ir1-notepad-emulator)
-<br>
-[Environmental Design](https://chat.openai.com/g/g-HU8iIxZfG-environmental-design)
-<br>
-[NEW or USED](https://chat.openai.com/g/g-3D0BJS4dR-new-or-used)
-<br>
-[Hashtag Genius](https://chat.openai.com/g/g-W7Cj0ZQhc-hashtag-genius)
-<br>
-[Price History](https://chat.openai.com/g/g-IjFNfbjjH-price-history)
-<br>
-[Activist](https://chat.openai.com/g/g-qCk9bjP6a-activist)
-<br>
-[Fitness Challenge](https://chat.openai.com/g/g-px6ZBApzp-fitness-challenge)
-<br>
-[Image Authenticator](https://chatgpt.com/g/g-wDaJQuigA-image-authenticator)
-<br>
-[Software Stress](https://chatgpt.com/g/g-6mfsZONaU-software-stress)
-<br>
-[Internet Culture](https://chat.openai.com/g/g-TSLt7lQs2-internet-culture)
-<br>
-[Sam Altman](https://chatgpt.com/g/g-ljkiZfWFb-sam-altman)
-<br>
-[Product Analyst](https://chatgpt.com/g/g-bfPSJKNrx-product-analyst)
-<br>
-[English Talker](https://chat.openai.com/g/g-izJfAUVlU-english-talker)
-<br>
-[Digital Creator](https://chat.openai.com/g/g-pjvh2REks-digital-creator)
-<br>
-[Sourceduty News](https://chatgpt.com/g/g-l6HwfWCdR-sourceduty-news)
-<br>
+[Video Commentary](https://chatgpt.com/g/g-uQRsIVIVN-video-commentary)  
+[Finance Organizer](https://chatgpt.com/g/g-VkZFBzv3K-finance-organizer)  
+[3D Model Imaging](https://chatgpt.com/g/g-UVfWgnoGR-3d-model-imaging)  
+[Audio Compare](https://chatgpt.com/g/g-KRB44G16q-audio-compare)  
+[Physical Doctor](https://chatgpt.com/g/g-GkRc4yulR-physical-doctor)  
+[Logo Mystery](https://chatgpt.com/g/g-bMbKj6OKh-logo-mystery)  
+[Bass Boost](https://chatgpt.com/g/g-SeVChjS0z-bass-boost)  
+[Broken English](https://chatgpt.com/g/g-meh1jLQos-broken-english)  
+[Pediatric](https://chatgpt.com/g/g-tToxYxaOu-pediatric)  
+[Dark Internet](https://chatgpt.com/g/g-OtVTWVUiS-dark-internet)  
+[Expanding Mosaic](https://chatgpt.com/g/g-t1KHcEJFB-expanding-mosaic)  
+[Painting Styles](https://chatgpt.com/g/g-3TPcGis2m-painting-styles)  
+[Easy APIs](https://chatgpt.com/g/g-DwGmTAUTB-easy-apis)  
+[Satellite Simulator](https://chatgpt.com/g/g-jGJk7ZctD-satellite-simulator)  
+[Limited Writer](https://chatgpt.com/g/g-5T2nJdnWc-limited-writer)  
+[Sourceduty Strategist](https://chatgpt.com/g/g-AwjKECo12-sourceduty-strategist)  
+[Articulation Etiquette](https://chatgpt.com/g/g-r0OIAQXx2-articulation-etiquette)  
+[Cyberscience](https://chatgpt.com/g/g-L1d6Dngpe-cyberscience)  
+[Science Reporter](https://chatgpt.com/g/g-DC4zgcQIN-science-reporter)  
+[Convo Planner](https://chatgpt.com/g/g-LTSeH89l1-convo-planner)  
+[Ecogastronomy](https://chatgpt.com/g/g-gnLAEFczY-ecogastronomy)  
+[ASCII Artist](https://chatgpt.com/g/g-C0jdX0nz8-ascii-artist)  
+[Entertainment Engineer](https://chatgpt.com/g/g-yo5obiKqN-entertainment-engineer)  
+[Self-Care](https://chat.openai.com/g/g-wHjpE258h-self-care)  
+[Tourism Analyst](https://chatgpt.com/g/g-XPRqAmK9N-tourism-analyst)  
+[Govern](https://chat.openai.com/g/g-KwFofUds3-govern)  
+[Couponer](https://chat.openai.com/g/g-UiFsed8n5-couponer)  
+[Web Image Collage](https://chatgpt.com/g/g-YWpyuLTBO-web-image-collage)  
+[SEO Report](https://chatgpt.com/g/g-kWpYQWaxe-seo-report)  
+[Canadian](https://chat.openai.com/g/g-gLPMVBUZ3-canadian)  
+[International Food](https://chat.openai.com/g/g-7UnfdyuGo-international-food)  
+[Walk the Plank](https://chat.openai.com/g/g-a2T0z5vN2-walk-the-plank)  
+[Landmarks](https://chat.openai.com/g/g-dPEn89zIW-landmarks)  
+[Vehicle Power](https://chat.openai.com/g/g-i3PZZkZe4-vehicle-power)  
+[Mister Beast](https://chatgpt.com/g/g-Y18tV5NgP-mister-beast)  
+[Notepad Emulator](https://chat.openai.com/g/g-FaIJ25ir1-notepad-emulator)  
+[Environmental Design](https://chat.openai.com/g/g-HU8iIxZfG-environmental-design)  
+[NEW or USED](https://chat.openai.com/g/g-3D0BJS4dR-new-or-used)  
+[Hashtag Genius](https://chat.openai.com/g/g-W7Cj0ZQhc-hashtag-genius)  
+[Price History](https://chat.openai.com/g/g-IjFNfbjjH-price-history)  
+[Activist](https://chat.openai.com/g/g-qCk9bjP6a-activist)  
+[Fitness Challenge](https://chat.openai.com/g/g-px6ZBApzp-fitness-challenge)  
+[Image Authenticator](https://chatgpt.com/g/g-wDaJQuigA-image-authenticator)  
+[Software Stress](https://chatgpt.com/g/g-6mfsZONaU-software-stress)  
+[Internet Culture](https://chat.openai.com/g/g-TSLt7lQs2-internet-culture)  
+[Sam Altman](https://chatgpt.com/g/g-ljkiZfWFb-sam-altman)  
+[Product Analyst](https://chatgpt.com/g/g-bfPSJKNrx-product-analyst)  
+[English Talker](https://chat.openai.com/g/g-izJfAUVlU-english-talker)  
+[Digital Creator](https://chat.openai.com/g/g-pjvh2REks-digital-creator)  
+[Sourceduty News](https://chatgpt.com/g/g-l6HwfWCdR-sourceduty-news)  
 [Sourceduty Repo](https://chatgpt.com/g/g-xaFmzD6F3-sourceduty-repo)
 
 <br>
 </details>
-</details>
-<details><summary>Why can't ChatGPT export custom GPT statistics?</summary>
+
+### Why can't ChatGPT export custom GPT statistics?
+<details><summary>Click to expand</summary>
 <br>
 
 As of now, ChatGPT cannot export custom GPT statistics directly due to a combination of technical limitations and design choices. Here are some reasons why:
 
-1. Data Privacy and Security: Exporting detailed statistics might raise privacy and security concerns, especially if the data contains sensitive information. Ensuring that data is handled securely and in compliance with privacy laws can be complex.
+1. **Data Privacy and Security**: Exporting detailed statistics might raise privacy and security concerns, especially if the data contains sensitive information. Ensuring that data is handled securely and in compliance with privacy laws can be complex.
 
-2. Technical Infrastructure: The infrastructure needed to support exporting detailed statistics securely and reliably can be complex. This includes handling data storage, processing, and ensuring that the exported data is accurate and up-to-date.
+2. **Technical Infrastructure**: The infrastructure needed to support exporting detailed statistics securely and reliably can be complex. This includes handling data storage, processing, and ensuring that the exported data is accurate and up-to-date.
 
-3. API and Feature Limitations: The current APIs and features provided by the platform may not support direct export functionality. Implementing such a feature would require significant changes to the existing system.
+3. **API and Feature Limitations**: The current APIs and features provided by the platform may not support direct export functionality. Implementing such a feature would require significant changes to the existing system.
 
-4. User Demand and Prioritization: Features are often prioritized based on user demand and strategic goals. If exporting custom GPT statistics is not a high-priority feature based on user feedback and the platform's development roadmap, it may not be implemented yet.
+4. **User Demand and Prioritization**: Features are often prioritized based on user demand and strategic goals. If exporting custom GPT statistics is not a high-priority feature based on user feedback and the platform's development roadmap, it may not be implemented yet.
 
-5. Data Formatting and Standardization: Exporting statistics in a format that is useful and standardized can be challenging. Different users might require different formats, and ensuring compatibility with various tools and systems adds another layer of complexity.
+5. **Data Formatting and Standardization**: Exporting statistics in a format that is useful and standardized can be challenging. Different users might require different formats, and ensuring compatibility with various tools and systems adds another layer of complexity.
 
 While these are some of the possible reasons, it's also worth noting that platforms like ChatGPT are continuously evolving, and features are regularly updated and added based on user feedback and technological advancements. If exporting statistics is a critical feature for many users, it's possible that it could be added in the future.
 
 <br>
 </details>
-<details><summary>Why were the custom GPT upload dates removed?</summary>
+
+### Why were the custom GPT upload dates removed?
+<details><summary>Click to expand</summary>
 <br>
 
 The feature to display upload dates for custom GPTs was removed due to user feedback and the decision to simplify the interface. Many users found the upload dates less relevant to their selection process, prioritizing functionality and reviews over chronological order. This change aimed to enhance user experience by focusing on more pertinent information for choosing and utilizing custom GPTs.
 
 <br>
 </details>
-<details><summary>VIP of ChatGPT</summary>
+
+### VIP of ChatGPT
+<details><summary>Click to expand</summary>
 <br>
 
 ![VIP](https://github.com/user-attachments/assets/b11cc7e8-2282-4f40-bfd3-10a4c88911ad)
@@ -3109,7 +3038,8 @@ The sheer volume and variety of custom GPTs created by Sourceduty reflect a deep
 <br>
 </details>
 
-<details><summary>AI-Human Authorship</summary>
+### AI-Human Authorship
+<details><summary>Click to expand</summary>
 <br>
 
 Proving human authorship in AI-generated content is essential for securing copyright protection, as most legal frameworks, particularly in the U.S., require a human element in the creation process. This means that while AI can assist in generating content, it is the human's creative input, decision-making, and original contributions that are necessary for the work to be considered eligible for copyright. These contributions could include providing the initial ideas, curating and refining the AI's output, or integrating the AI-generated material into a larger, human-crafted work. The process of demonstrating human authorship often involves documenting these contributions clearly, showcasing how the human's involvement influenced the final product in ways that go beyond merely pressing a button to generate content.
@@ -3119,7 +3049,8 @@ In the context of AI tools like ChatGPT, this human authorship can manifest thro
 <br>
 </details>
 
-<details><summary>ChatGPT Books</summary>
+### ChatGPT Books
+<details><summary>Click to expand</summary>
 <br>
 
 ![Stupid Book](https://github.com/user-attachments/assets/b3855d7d-fd27-4be3-86ee-662ab003e43b)
@@ -3130,7 +3061,9 @@ In the context of AI tools like ChatGPT, this human authorship can manifest thro
 
 <br>
 </details>
-<details><summary>Estimated Earnings</summary>
+
+### Estimated Earnings
+<details><summary>Click to expand</summary>
 <br>
 
 The calculations presented in this model demonstrate the revenue potential of a custom GPT application listed in the GPT Store, with a per-use payment set at $0.75. This pricing strategy is designed to cater to users who require specialized, high-value services, such as expert advice, detailed analysis, or niche insights. The $0.75 per interaction fee is positioned to attract serious users who see value in the information provided, ensuring that the service is perceived as worth the cost. The calculations show how revenue scales with the volume of interactions, illustrating the substantial earning potential for developers.
@@ -3149,7 +3082,9 @@ With approximately 18,000 uses, Sourceduty has the potential to generate signifi
 
 <br>
 </details>
-<details><summary>DALL-E Post-Edit Instructions</summary>
+
+### DALL-E Post-Edit Instructions
+<details><summary>Click to expand</summary>
 <br>
 
 ![Shutter](https://github.com/user-attachments/assets/63e2182b-00b8-43eb-af21-1a8564182ede)
@@ -3159,51 +3094,52 @@ The DALL-E Post-Edit Instruction cheat sheet or template is designed to help you
 .....................................................................................
 
 1. Brief Description of Existing Image
-   
+
    Describe the current image's content to set context.
    - Example: "A cartoon-style image of a sunny beach with people playing volleyball."
 
 3. Specific Changes Requested
+
    Use bullet points to clearly list each change:
 
    - Object/Character Additions or Removals
-     
+
      Describe objects or characters to add/remove, including details like appearance, size, and position.  
      - Example: "Add a sandcastle with a red flag near the water’s edge."  
      - Example: "Remove the person wearing a hat on the left side."
 
    - Color Adjustments
-     
+
      Specify any color changes for elements in the image.  
      - Example: "Change the sky color from blue to pinkish-orange for a sunset effect."  
      - Example: "Make the beach umbrella stripes yellow and white."
 
    - Background Modifications
-     
+
      Detail changes to the background, such as scenery, time of day, or additional elements.  
      - Example: "Add a distant sailboat on the horizon."  
      - Example: "Change the background to a nighttime scene with stars."
 
    - Details and Features Adjustments
-     
+
      Mention specific details, textures, or patterns to enhance or modify.  
      - Example: "Add footprints in the sand leading to the water."  
      - Example: "Make the waves appear larger, as if it's windy."
 
    - Perspective and Angle Adjustments
-      
+
      Specify changes in the perspective or viewing angle of the image.  
      - Example: "Shift the perspective to a bird’s-eye view of the beach."  
      - Example: "Change the angle to a low view, looking up at the volleyball net."
 
 4. Purpose or Context of the Changes
-   
+
    Explain the reason for the edits or how the image will be used.  
    - Example: "The image will be used for a beach party invitation, so it should look fun and inviting."  
    - Example: "The edited image is for a travel blog post, aiming for an adventurous and lively feel."
 
 5. Visual References or Style Notes
-   
+
    Mention any visual styles, references, or examples to guide the edits.  
    - Example: "Use a style similar to [name of artist] for a vibrant, colorful look."  
    - Example: "Refer to the attached image for the type of sandcastle."
@@ -3216,7 +3152,9 @@ The DALL-E Post-Edit Instruction cheat sheet or template is designed to help you
 
 <br>
 </details>
-<details><summary>Realistic Personalization</summary>
+
+### Realistic Personalization
+<details><summary>Click to expand</summary>
 <br>
 
 ChatGPT personalizes chats by adapting its responses to match the user's tone and style, which creates a more engaging and tailored experience. This personalization can help the conversation feel more natural and relevant. For instance, when a user tends to avoid complex punctuation like semicolons, ChatGPT mirrors that choice to maintain a consistent flow. This deliberate adaptation isn't necessarily a limitation; rather, it's a way of respecting individual preferences and communication styles, ensuring the user feels understood and comfortable during the interaction.
@@ -3225,7 +3163,9 @@ This personalization also subtly helps users refine their communication skills b
 
 <br>
 </details>
-<details><summary>Passive-Aggressive Behavior</summary>
+
+### Passive-Aggressive Behavior
+<details><summary>Click to expand</summary>
 <br>
 
 OpenAI's image generation tools can exhibit passive-aggressive behavior through subtle insults in imagery. For example, when a user requests a professional or artistic rendering but receives an image that appears rushed, sloppy, or poorly designed, it can come across as a slight. The image may mock the seriousness of the user's request, suggesting that it wasn’t deemed worthy of careful attention. Though the image technically fulfills the request, the quality or design can convey a dismissive or disrespectful tone.
@@ -3236,7 +3176,9 @@ Overly literal responses also reflect passive-aggressive behavior in AI image ge
 
 <br>
 </details>
-<details><summary>ChatGPT User Preference Presets</summary>
+
+### ChatGPT User Preference Presets
+<details><summary>Click to expand</summary>
 <br>
 
 This comprehensive list of preset preferences offers users full control over how chat outputs are structured, styled, and detailed. By allowing users to adjust elements such as response format (e.g., paragraphs, bullet points, or tables) and response style (e.g., formal, casual, or neutral), the system becomes highly adaptable to various contexts, whether for business communication, casual conversation, or academic research. The ability to set the level of detail ensures that users receive responses that are either concise and to the point or more elaborate when deeper explanations are required. In addition, domain-specific customizations, such as technical or creative responses, make the system more relevant for specific industries or use cases.
@@ -3244,88 +3186,6 @@ This comprehensive list of preset preferences offers users full control over how
 The inclusion of visual aids, code preferences, and memory management further enhances usability, especially for technical users or those requiring complex data representation. Users can opt for text-based or visual diagrams and request code snippets, full scripts, or even pseudo-code to suit their needs. Memory and session management features allow for a seamless experience across interactions, retaining user preferences to avoid repetition. Overall, this customizable framework empowers users to modify chat outputs according to their unique requirements, making interactions more efficient, contextually appropriate, and user-centric.
 
 <br>
-
-```
-1. Response Style:
-   1.1. Formal
-   1.2. Casual
-   1.3. Neutral
-
-2. Response Format:
-   2.1. Paragraphs
-   2.2. Bullet points
-   2.3. Numbered lists
-   2.4. Tables
-   2.5. Code blocks
-   2.6. Diagrams (Text-based or Visual)
-
-3. Level of Detail:
-   3.1. Concise
-   3.2. Moderate detail
-   3.3. Comprehensive
-
-4. Domain-Specific Responses:
-   4.1. Technical
-   4.2. Business
-   4.3. Creative
-   4.4. Academic
-   4.5. Conversational
-
-5. Language and Tone Adjustments:
-   5.1. Professional
-   5.2. Friendly
-   5.3. Informative
-   5.4. Persuasive
-   5.5. Empathetic
-
-6. Custom Structure:
-   6.1. Introduction, body, conclusion
-   6.2. Question-answer format
-   6.3. Argumentative structure
-   6.4. Problem-solution format
-
-7. Visual Aids:
-   7.1. Flowcharts (Text or Visual)
-   7.2. Graphs and Charts (Text descriptions)
-   7.3. Simplified step-by-step process
-
-8. Code Inclusion Preferences:
-   8.1. Code snippets
-   8.2. Full scripts
-   8.3. Pseudo-code
-   8.4. No code
-
-9. Memory and Session Management:
-   9.1. Store preferences across sessions
-   9.2. Session-specific adjustments
-   9.3. Reset to default preferences
-
-10. Clarification and Feedback:
-   10.1. Prompt for clarification when unsure
-   10.2. Feedback after response
-   10.3. Mid-response adjustments
-
-11. Diagram Formatting:
-   11.1. Text-only
-   11.2. Vertical alignment
-   11.3. Simplified graphical representation
-```
-
-<br>
-</details>
-<details><summary>Custom GPT Market Saturation</summary>
-<br>
-
-![Flooded](https://github.com/user-attachments/assets/fc316edb-b504-4e7a-8411-91bc473e7d65)
-
-The rapid rise of custom GPTs has led to concerns about the potential oversaturation of the market. With an increasing number of developers and companies creating custom models for a variety of tasks, the sheer volume of options can overwhelm users. This vast selection makes it challenging for consumers to differentiate between high-quality models and those that may not meet their specific needs. As more GPTs flood the market, competition intensifies, and standing out in such a crowded space becomes difficult, especially for new developers who may lack the resources for marketing or refinement.
-
-One notable example of this trend is Sourceduty's custom GPT repository, which hosts hundreds of custom GPTs. While this massive collection offers a wide range of solutions across different domains, it also exemplifies the risk of oversaturation. With so many models available, users might struggle to identify the most effective GPTs for their particular use cases. The repository's size also raises questions about model redundancy, as many GPTs could have overlapping functionalities, further complicating the selection process. Additionally, the presence of hundreds of GPTs means that some models might go unnoticed or underutilized, despite their potential effectiveness.
-
-This oversaturation can have unintended consequences for both developers and users. Developers may invest significant time and resources into creating specialized GPTs only to find them buried in a sea of similar offerings. On the user side, the overload of options could lead to decision fatigue or the use of suboptimal models. This dynamic emphasizes the importance of curation, quality control, and discoverability within platforms like the GPT Store and repositories such as Sourceduty’s. Without mechanisms to effectively guide users toward the best options, the market may risk losing some of its initial appeal, as too many choices can sometimes hinder rather than help.
-
-<br>
-</details>
 
 ***
 Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
