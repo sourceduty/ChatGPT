@@ -2860,7 +2860,8 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 [ChatGPT Books](https://github.com/sourceduty/ChatGPT_Books)  
 [Gravatar](https://gravatar.com/)  
 [Makeshift Art](https://github.com/sourceduty/Makeshift_DALL-E_3)  
-[Communication](https://github.com/sourceduty/Communication)  
+[Communication](https://github.com/sourceduty/Communication)
+[News](https://github.com/sourceduty/News)
 
 <br>
 </details>
