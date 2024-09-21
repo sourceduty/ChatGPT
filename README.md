@@ -3186,6 +3186,7 @@ This comprehensive list of preset preferences offers users full control over how
 The inclusion of visual aids, code preferences, and memory management further enhances usability, especially for technical users or those requiring complex data representation. Users can opt for text-based or visual diagrams and request code snippets, full scripts, or even pseudo-code to suit their needs. Memory and session management features allow for a seamless experience across interactions, retaining user preferences to avoid repetition. Overall, this customizable framework empowers users to modify chat outputs according to their unique requirements, making interactions more efficient, contextually appropriate, and user-centric.
 
 <br>
+</details>
 
 ***
 Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
