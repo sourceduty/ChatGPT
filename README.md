@@ -2781,6 +2781,9 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 > - Abstract processes.
 > - Ask DALL-E 3 for a symmetrically-split wide image and then cut it into two pieces using Python.
 
+<br>
+</details>
+
 ### Notes
 <details><summary>Click to Expand</summary>
 <br>
@@ -2814,9 +2817,6 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 > ```
 > Artificial Intelligence, AI, Python, Simulation, Research, New Science, Sourceduty, ChatGPT, Alex Aldridge, OpenAI, Custom GPTs, AI Revolution, Bots, Templates, Improvement, Business
 > ```
-
-<br>
-</details>
 
 <br>
 </details>
