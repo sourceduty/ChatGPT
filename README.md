@@ -9,7 +9,7 @@
 
 ***
 
-<details><summary>Popular custom GPTs</summary>
+<details><summary>Popular Custom GPTs</summary>
 <br>
 
 [Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator), [House Design](https://chat.openai.com/g/g-WgXvQZZ5a-house-design), [Concept Design](https://chatgpt.com/g/g-JAsawu1Lv-concept-design), [Compare Documents](https://chat.openai.com/g/g-zUfIyG8eY-compare-documents), [Car Design](https://chatgpt.com/g/g-EPHgYBaHt-car-design), [GitHub README](https://chatgpt.com/g/g-rA63DaENC-github-readme), [Image Comparison](https://chatgpt.com/g/g-4eQMR7Npu-image-comparison), [Python Game Builder](https://chatgpt.com/g/g-4hbrahdr4-python-game-builder), [Image Collage](https://chatgpt.com/g/g-UaXXt6DdU-image-collage), [ASCII Text Art](https://chat.openai.com/g/g-G7eF51owY-ascii-text-art), [Desktop Value](https://chatgpt.com/g/g-oNBIuFtkv-desktop-value), [Audio Analyzer](https://chatgpt.com/g/g-g0Ob3Qbue-audio-analyzer), [Instruction Creator](https://chatgpt.com/g/g-yAwEVaLkf-instruction-creator), [Newspaper Maker](https://chatgpt.com/g/g-SRHSPE2Q6-newspaper-maker), [Browser Extension](https://chatgpt.com/g/g-QREsCa45r-browser-extension)
