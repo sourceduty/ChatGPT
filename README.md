@@ -2753,7 +2753,6 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 <details><summary>Click to Expand</summary>
 <br>
 
-> [!TIP]
 > Alex's Advice:
 > ```
 > - Be persistent.
@@ -2788,7 +2787,6 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 <details><summary>Click to Expand</summary>
 <br>
 
-> [!NOTE]
 > Alex's Favorite Prompts:
 > ```
 > Create an example...
