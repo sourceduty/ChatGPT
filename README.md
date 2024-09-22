@@ -3330,13 +3330,10 @@ The inclusion of visual aids, code preferences, and memory management further en
 </details>
 
 #
-
 <details><summary>Business Information</summary>
 <br>
 
-***
 Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
-***
 
 > [!IMPORTANT]
 > Copyright (C) 2024, Sourceduty - All Rights Reserved.
@@ -3347,9 +3344,7 @@ Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) 
 </details>
 
 #
-
 👥 **Thanks to all the folks behind OpenAI, ChatGPT, and more. Your efforts are greatly appreciated!**
-
 #
 
 ![Active Development](https://github.com/user-attachments/assets/d32ade8f-d9c7-4907-a35b-266f0466fb63)
