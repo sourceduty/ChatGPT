@@ -2744,7 +2744,7 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 
 ***
 ✨ Thanks for using exclusive Sourceduty custom GPTs!
-***
+#
 
 <details><summary>Tips, Prompts and Advice</summary>
 <br>
