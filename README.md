@@ -3343,8 +3343,8 @@ Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) 
 > <br>
 > THE CONTENTS OF THIS PROJECT ARE PROPRIETARY.
 
-<details><summary>ChatGPT</summary>
 <br>
+</details>
 
 #
 
