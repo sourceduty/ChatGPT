@@ -1369,7 +1369,7 @@ Instructional video creation assistant.
 
 [Footage Location](https://chatgpt.com/g/g-DWSFnlC5w-footage-location)
 <br>
-Locate places to film videos and movies.
+Locate places to record videos and movies.
 
 [Movie Developer](https://chat.openai.com/g/g-GKuoUegIF-movie-developer)
 <br>
