@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `661` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `662` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1366,6 +1366,10 @@ Expert in navigating YouTube, creating playlists, and categorizing videos.
 [Video Instructor](https://chat.openai.com/g/g-8uZmUQjZN-video-instructor)
 <br>
 Instructional video creation assistant.
+
+[Footage Location](https://chatgpt.com/g/g-DWSFnlC5w-footage-location)
+<br>
+Locate places to film videos and movies.
 
 [Movie Developer](https://chat.openai.com/g/g-GKuoUegIF-movie-developer)
 <br>
