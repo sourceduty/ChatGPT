@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `667` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `668` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2738,6 +2738,10 @@ Interactive fighter jet airplane pilot game.
 [Code Cracker](https://chat.openai.com/g/g-hYgyGpYiq-code-cracker)
 <br>
 James Bond inspired code cracking game.
+
+[Suvivalist Game](https://chatgpt.com/g/g-qC1M8jSHx-survivalist-game)
+<br>
+Educational text-entry outdoor survival game.
 
 [Starship Launch](https://chat.openai.com/g/g-NJlbzRfDO-starship-launch)
 <br>
