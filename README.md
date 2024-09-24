@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `666` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `667` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2726,6 +2726,10 @@ Educational software trivia guessing game.
 [Apple II Simulator](https://chat.openai.com/g/g-ci1HVmwRL-apple-ii-simulator)
 <br>
 Apple II home computer from 1977 with ProDOS.
+
+[Einstein Game](https://chatgpt.com/g/g-6MypD53av-einstein-game)
+<br>
+Smart and educational Albert Einstein simulation game.
 
 [Fighter Pilot](https://chat.openai.com/g/g-R5CztLFY5-fighter-pilot)
 <br>
