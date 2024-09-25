@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `671` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `672` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -590,6 +590,10 @@ Measure the Improvement Value (IV) of products and services by focusing on four 
 [History Simulator](https://chatgpt.com/g/g-McuiABaZf-history-simulator)
 <br>
 Historic and educational event simulator.
+
+[Language School](https://chatgpt.com/g/g-eQOhlZUpS-language-school)
+<br>
+Learn how to write and speak any language. 
 
 [Computational Sociodynamics](https://chatgpt.com/g/g-wBj3CICX3-computational-sociodynamics)
 <br>
