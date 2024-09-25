@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `673` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `674` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2132,6 +2132,10 @@ Plan, create and simulate automated programs for buildings, machines and propert
 <br>
 Measure and qualify employees for hiring.
 
+[Sourceduty Strategist](https://chatgpt.com/g/g-AwjKECo12-sourceduty-strategist)
+<br>
+Support and enhance the growth of Sourceduty.
+
 [Business Systems](https://chatgpt.com/g/g-I4ACxYPf3-business-systems) 
 <br>
 Plan, develop and simulate qualifying business system development and purchases.
@@ -3111,8 +3115,6 @@ These concept GPTs won't be protected by copyright.
 [Satellite Simulator](https://chatgpt.com/g/g-jGJk7ZctD-satellite-simulator)  
 
 [Limited Writer](https://chatgpt.com/g/g-5T2nJdnWc-limited-writer)  
-
-[Sourceduty Strategist](https://chatgpt.com/g/g-AwjKECo12-sourceduty-strategist)  
 
 [Articulation Etiquette](https://chatgpt.com/g/g-r0OIAQXx2-articulation-etiquette)  
 
