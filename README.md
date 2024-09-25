@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `674` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `675` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -125,6 +125,10 @@ Test and analyze the data transfer capabilities computer systems. Stress test co
 [Information & Data Quality](https://chat.openai.com/g/g-LdgV8RLVs-information-data-quality)
 <br>
 Assess information and data quality in various formats.
+
+[Pi OS Simulator](https://chatgpt.com/g/g-1HGqj0Z99-pi-os-simulator)
+<br>
+Raspberry Pi OS terminal simulator.
 
 [Topology Optimize](https://chatgpt.com/g/g-bixMcoo4H-topology-optimize)
 <br>
