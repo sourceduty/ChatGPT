@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `670` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `671` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2095,6 +2095,10 @@ Translate between Gen X, Y, Z slang and plain English.
 </details>
 <details><summary>Business</summary>
 <br>
+
+[Business School](https://chatgpt.com/g/g-JD2UAYNE6-business-school)
+<br>
+Learn how to start and operate a business in any language and location.
 
 [Business Rating](https://chatgpt.com/g/g-92tuDIJKQ-business-rating)
 <br>
