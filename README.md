@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `672` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `673` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -575,6 +575,10 @@ Create draft research notes.
 <br>
 Plan and manage research.
 
+[Programmer School](https://chatgpt.com/g/g-3UKI6bzQd-programmer-school) 
+<br>
+Learn how to develop a program in any code language.
+
 [Property Location Expert](https://chatgpt.com/g/g-dcOOpiQPR-property-location-expert)
 <br>
 Plan, develop and simulate qualifying personal and professional property locations.
@@ -590,6 +594,10 @@ Measure the Improvement Value (IV) of products and services by focusing on four 
 [History Simulator](https://chatgpt.com/g/g-McuiABaZf-history-simulator)
 <br>
 Historic and educational event simulator.
+
+[Business School](https://chatgpt.com/g/g-JD2UAYNE6-business-school)
+<br>
+Learn how to start and operate a business in any language and location.
 
 [Language School](https://chatgpt.com/g/g-eQOhlZUpS-language-school)
 <br>
@@ -2099,10 +2107,6 @@ Translate between Gen X, Y, Z slang and plain English.
 </details>
 <details><summary>Business</summary>
 <br>
-
-[Business School](https://chatgpt.com/g/g-JD2UAYNE6-business-school)
-<br>
-Learn how to start and operate a business in any language and location.
 
 [Business Rating](https://chatgpt.com/g/g-92tuDIJKQ-business-rating)
 <br>
