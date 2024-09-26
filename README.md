@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `677` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `678` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -626,6 +626,10 @@ Utilizing temperature differentials to manipulate electronic or mechanical syste
 [Property Locale](https://chatgpt.com/g/g-Vag7qPkFg-property-locale)
 <br>
 An innovative tool for measuring a property's common available local travel routes.
+
+[School System](https://chatgpt.com/g/g-lSTSMIwRa-school-system)
+<br>
+Plan, develop and simulate digital education systems and programs.
 
 [Biomechanical Logic](https://chatgpt.com/g/g-syJp3DQPt-biomechanical-logic)
 <br>
