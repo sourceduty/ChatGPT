@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `676` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `677` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -173,6 +173,10 @@ File and web search scraper classification programming assistant.
 [Email Automation](https://chatgpt.com/g/g-jl4ni3l7f-email-automation)
 <br>
 Plan, develop and automate emails.
+
+[System Standard](https://chatgpt.com/g/g-k1ac35gTk-system-standard)
+<br>
+Plan, develop and test standardization systems and programs.
 
 [File Farming](https://chatgpt.com/g/g-iqzWKJXtE-file-farm)
 <br>
