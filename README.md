@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `679` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `680` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -650,6 +650,10 @@ Assistive research generation, organization and analysis tool.
 [Spatial Footprint](https://chat.openai.com/g/g-lonVHkdtM-spatial-footprint)
 <br>
 Spatial building and property data comparisons.
+
+[Amazonian](https://chatgpt.com/g/g-MWzLmQrWb-amazonian)
+<br>
+Simulate the experience of working as an Amazon employee (Amazonian).
 
 [3D Model Analysis](https://chatgpt.com/g/g-jpLzbncGa-3d-model-analysis)
 <br>
