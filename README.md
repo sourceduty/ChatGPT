@@ -130,7 +130,7 @@ Assess information and data quality in various formats.
 <br>
 Raspberry Pi OS terminal simulator.
 
-[Airport Systems](https://chatgpt.com/g/g-L5RvxMrNr-airport-system)
+[Airport System](https://chatgpt.com/g/g-L5RvxMrNr-airport-system)
 <br>
 Plan, develop and simulate airport systems and programs.
 
