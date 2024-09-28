@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `682` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `683` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -153,6 +153,10 @@ Develop automated file downloading programs.
 [4D Printing](https://chatgpt.com/g/g-5WHJLDb5U-4d-printing)
 <br>
 4D printing programming and simulations.
+
+[EV Simulator](https://chatgpt.com/g/g-zmCnbzCKx-ev-simulator)
+<br>
+Simulate various electric vehicle software systems and programs. 
 
 [Internet Exploration](https://chatgpt.com/g/g-LufJ2x0qF-internet-exploration)
 <br>
