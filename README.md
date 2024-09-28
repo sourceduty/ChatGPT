@@ -3421,6 +3421,8 @@ Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) 
 
 > Copyright (C) 2024, Sourceduty - All Rights Reserved.
 
+The use of copyright on Sourceduty's custom GPTs primarily serves to document the integrity and evolution of these digital assets by displaying the last updated date whenever modifications occur. This approach, while not a major concern for enforcement, ensures transparency and professionalism, establishing a clear historical record of changes and maintaining trust with users and collaborators. Regular updates to the last modified date also highlight Sourceduty's commitment to quality and innovation, making it clear that the assets are actively maintained and refined, which is beneficial in collaborative environments and helps avoid conflicts over asset versions.
+
 <br>
 </details>
 
