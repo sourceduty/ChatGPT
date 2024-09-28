@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `683` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `684` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1345,6 +1345,10 @@ Analyze topological properties of images.
 [Image Palette](https://chat.openai.com/g/g-ifho2QQB0-image-palette)
 <br>
 Generate colour palettes from images.
+
+[Movie/Game Character](https://chatgpt.com/g/g-8szafZ5la-game-movie-character)
+<br>
+Design and visualize video game characters using DALL-E 3.
 
 [Image Watermark](https://chat.openai.com/g/g-Zt0bGbcIB-image-watermark)
 <br>
