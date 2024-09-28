@@ -1003,7 +1003,7 @@ Theoretical circuit and network simulator and development assistant.
 
 [AI + IoT](https://chatgpt.com/g/g-yjcbbMVMm-ai-iot)
 <br>
-Plan and simulate AI-Assisted IoT projects.
+Plan and simulate AI-assisted IoT projects.
 
 [Molecular Automation](https://chatgpt.com/g/g-evCx2qPG4-molecular-automation)
 <br>
