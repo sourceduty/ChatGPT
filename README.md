@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `685` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `686` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -149,6 +149,10 @@ Validate data using public sources.
 [Download Automation](https://chatgpt.com/g/g-yZ0AK4Hed-download-automation)
 <br>
 Develop automated file downloading programs.
+
+[In-Game Money](https://chatgpt.com/g/g-QBseFs7PK-in-game-money)
+<br>
+Plan, develop and simulate in-game credits, money and market software for video games.
 
 [4D Printing](https://chatgpt.com/g/g-5WHJLDb5U-4d-printing)
 <br>
