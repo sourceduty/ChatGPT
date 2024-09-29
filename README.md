@@ -687,7 +687,7 @@ Simulate and research modelled ecosystems, climate systems, and human impacts on
 <br>
 Create new fill-in-the-blank quiz challenges. Use uploaded text files.
 
-[Shippinh Simulator](https://chatgpt.com/g/g-TmwvgFrCC-shipping-simulator) 
+[Shipping Simulator](https://chatgpt.com/g/g-TmwvgFrCC-shipping-simulator) 
 <br>
 Simulate managing the operations of international shipping ports and harbors.
 
