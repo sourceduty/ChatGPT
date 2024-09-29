@@ -2886,6 +2886,7 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 > - Search for contests and challenges.
 > - Expand research.
 > - Be creative.
+> - Use a gaming laptop.
 > ```
 > Alex's Suggested Not To-Do List:
 > ````
