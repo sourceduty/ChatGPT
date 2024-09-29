@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `686` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `687` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -634,6 +634,10 @@ Learn how to write and speak any language.
 [Computational Sociodynamics](https://chatgpt.com/g/g-wBj3CICX3-computational-sociodynamics)
 <br>
 Develop and simulate computational social dynamics.
+
+[Airport Simulator](https://chatgpt.com/g/g-qcciQ5Tug-airport-simulator)
+<br>
+Simulate managing the operations of international airports.
 
 [Thermotronics](https://chatgpt.com/g/g-AUEUDYzH5-thermotronics)
 <br>
