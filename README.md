@@ -146,10 +146,6 @@ Analyze, optimize and convert architectural structured abstraction and topology.
 <br>
 Validate data using public sources.
 
-[Hack Simulator](https://chatgpt.com/g/g-wlgZVYTsL-hack-simulator)
-<br>
-Simulate the experience of hacking various different software and systems.
-
 [Download Automation](https://chatgpt.com/g/g-yZ0AK4Hed-download-automation)
 <br>
 Develop automated file downloading programs.
@@ -907,6 +903,10 @@ Develop military operations and modern tactics.
 [Military Overlord](https://chatgpt.com/g/g-4r14DqjVY-military-overlord)
 <br>
 Military and public security investigation specialist. The god of war.
+
+[Hack Simulator](https://chatgpt.com/g/g-wlgZVYTsL-hack-simulator)
+<br>
+Simulate the experience of hacking various different software and systems.
 
 [Tactical Vehicle Strategy](https://chatgpt.com/g/g-TSfu7BQRA-tactical-vehicle-strategy)
 <br>
