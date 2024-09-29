@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `687` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `688` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -686,6 +686,10 @@ Simulate and research modelled ecosystems, climate systems, and human impacts on
 [Fillable Quiz](https://chat.openai.com/g/g-LCVcJoVTY-fillable-quiz)
 <br>
 Create new fill-in-the-blank quiz challenges. Use uploaded text files.
+
+[Shippinh Simulator](https://chatgpt.com/g/g-TmwvgFrCC-shipping-simulator) 
+<br>
+Simulate managing the operations of international shipping ports and harbors.
 
 [Team Simulator](https://chatgpt.com/g/g-EJZqQ0uGE-team-simulator)
 <br>
