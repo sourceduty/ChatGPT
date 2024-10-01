@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `693` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `694` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2211,6 +2211,10 @@ Support and enhance the growth of Sourceduty.
 [Sourceduty Explorer](https://chatgpt.com/g/g-kTnNxUovH-sourceduty-explorer) 
 <br>
 Search for opportunities and develop improvements for Sourceduty.
+
+[Sourceduty Employee](https://chatgpt.com/g/g-oDACMjiZX-sourceduty-employee)
+<br>
+Automated employee working for Sourceduty. 
 
 [Business Systems](https://chatgpt.com/g/g-I4ACxYPf3-business-systems) 
 <br>
