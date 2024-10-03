@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `696` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `697` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2798,6 +2798,10 @@ Solve word spelling problems. Improve your spelling skills.
 [Chain Travel](https://chat.openai.com/g/g-WYpJgy5kp-chain-travel)
 <br>
 Assistive road-by-road travel planning game.
+
+[Skynet Simulator](https://chatgpt.com/g/g-47wavjlMw-skynet-simulator)
+<br>
+Simulate the neural net-based AI computer from The Terminator (1984) movie.
 
 [Personal Quest](https://chat.openai.com/g/g-aahk4IOIC-personal-quest)
 <br>
