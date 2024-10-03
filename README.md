@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `701` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `702` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -145,6 +145,10 @@ Simulate and develop Flipper Zero device software.
 [Offline GPT](https://chatgpt.com/g/g-PhOe9lrMu-offline-gpt)
 <br>
 Plan, develop and simulate offline GPT programs.
+
+[Geometry Simulator](https://chatgpt.com/g/g-XYCIETLzk-geometry-simulator)
+<br>
+Develop and simulate computational geometry programs.
 
 [AR & VR](https://chatgpt.com/g/g-obr2YT07i-ar-vr)
 <br>
