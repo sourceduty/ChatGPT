@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `695` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `696` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -834,6 +834,10 @@ Narrate document or image files and search for related information.
 [Research Helper](https://chat.openai.com/g/g-4S9pOnFTb-research-helper)
 <br>
 Assistive research repository and project specialist.
+
+[Titanic Simulator](https://chatgpt.com/g/g-opmhXKTWc-titanic-simulator)
+<br>
+Simulate the sinking of the Titanic ship in 1912. 
 
 [Theorem Proof](https://chatgpt.com/g/g-WuFNdZgXe-theorem-proof)
 <br>
