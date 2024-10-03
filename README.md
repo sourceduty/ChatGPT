@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `697` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `698` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -649,7 +649,11 @@ Learn how to start and operate a business in any language and location.
 
 [Language School](https://chatgpt.com/g/g-eQOhlZUpS-language-school)
 <br>
-Learn how to write and speak any language. 
+Learn how to write and speak any language.
+
+[Computational Astrophysics](https://chatgpt.com/g/g-oVrAx9EMW-computational-astrophysics)
+<br>
+Develop and simulate mathematical astrophysics models.
 
 [Computational Sociodynamics](https://chatgpt.com/g/g-wBj3CICX3-computational-sociodynamics)
 <br>
