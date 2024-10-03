@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `698` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `699` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -149,6 +149,10 @@ Analyze, optimize and convert architectural structured abstraction and topology.
 [Data Proof](https://chatgpt.com/g/g-c9jpX14lm-data-proof)
 <br>
 Validate data using public sources.
+
+[Computational VM](https://chatgpt.com/g/g-RAtwmVxfm-computational-vm)
+<br>
+Develop and simulate computational virtual machine models.
 
 [Computational Cybernetics](https://chatgpt.com/g/g-L6ADMkE8H-computational-cybernetics)
 <br>
