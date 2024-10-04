@@ -3510,6 +3510,18 @@ This graph represents ChatGPT's visits in 2024, which show a sharp decline after
 <br>
 </details>
 
+### Utilizing Custom GPTs with Python
+<details><summary>Click to expand</summary>
+<br>
+
+Currently, there is no direct way to access custom GPTs through the OpenAI Python API. This limitation prevents developers from fully utilizing the specific configurations, enhancements, or domain-specific knowledge embedded in custom GPTs when building Python-based applications. While these custom models can be interacted with through the web interface, the absence of API access restricts their use in automation or integration with broader systems that rely heavily on Python for tasks such as real-time data analysis, content generation, or custom workflows. Without this programmatic access, developers miss out on leveraging these tailored models for continuous or large-scale operations that require smooth, API-driven interactions.
+
+This limitation is especially notable for those aiming to embed custom GPTs into automated pipelines or integrate them into more complex applications that require dynamic, real-time responses. For instance, a developer might want to deploy a custom GPT in a customer service chatbot, content moderation system, or personalized recommendation engine, where responses are required to be both specific and instantaneous. Since this is not feasible through the API at present, developers would either need to manually interact with the custom GPT via the web or attempt to replicate its behavior using standard GPT models available through the API. This workaround, however, adds complexity and doesn't fully capture the precise customizations of the original model, underscoring a key gap in functionality that could potentially be addressed in future updates to the API.
+
+<br>
+</details>
+
+
 <br>
 </details>
 
