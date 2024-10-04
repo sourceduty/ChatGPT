@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `702` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `703` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2838,6 +2838,10 @@ Smart and educational political figure simulation game.
 [Image Puzzle](https://chat.openai.com/g/g-SAtwMdcWa-image-puzzle)
 <br>
 Square image puzzle game using DALL-E 3.
+
+[Electricity Game](https://chatgpt.com/g/g-W1hbV6SLC-electricity-game)
+<br>
+Smart and educational Nikola Tesla simulation game.
 
 [Vintage Prompt](https://chat.openai.com/g/g-mg39xadeq-vintage-prompt)
 <br>
