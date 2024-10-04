@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `703` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `702` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1895,10 +1895,6 @@ Develop political critiques for any country and government.
 [Biden Simulator](https://chatgpt.com/g/g-Zx5WZgyeY-biden-simulator)
 <br>
 Simulate the decisions and operations of Joe Biden as a political figure.
-
-[Trump Simulator](https://chatgpt.com/g/g-48YNApEJh-trump-simulator)
-<br>
-Simulate the decisions and operations of Donald Trump as a political figure.
 
 [Patent Advisor](https://chatgpt.com/g/g-sWMVl5soX-patent-advisor)
 <br>
