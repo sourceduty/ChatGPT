@@ -3498,9 +3498,7 @@ The inclusion of visual aids, code preferences, and memory management further en
 ### ChatGPT Popularity
 <details><summary>Click to expand</summary>
 <br>
-
-As of October 2024, ChatGPT has around 200 million active users per week globally. This represents significant growth since its launch, as it surpassed 100 million users in just a couple of months in 2023. In total, the platform has recorded over 1.8 billion visits monthly.
-
+   
 ![ChatGPT 2023](https://github.com/user-attachments/assets/c0522c0c-431e-41c3-a9c3-719695e4163a)
 
 This graph illustrates ChatGPT's monthly visits throughout 2023, showing consistent growth in the first half of the year. Starting with 616 million visits in January, the number quickly surged to 1.6 billion by March and peaked at 1.8 billion in April and May. After mid-2023, the visits began to stabilize and slightly decline, hovering between 1.4 to 1.7 billion in the latter half of the year. This trend suggests a period of rapid user adoption followed by more stable usage as ChatGPT became an established tool. The slight drop in visits towards the end of the year may reflect seasonal or user engagement variations.
