@@ -3495,6 +3495,23 @@ The inclusion of visual aids, code preferences, and memory management further en
 <br>
 </details>
 
+### ChatGPT Popularity
+<details><summary>Click to expand</summary>
+<br>
+
+As of October 2024, ChatGPT has around 200 million active users per week globally. This represents significant growth since its launch, as it surpassed 100 million users in just a couple of months in 2023. In total, the platform has recorded over 1.8 billion visits monthly.
+
+![ChatGPT 2023](https://github.com/user-attachments/assets/c0522c0c-431e-41c3-a9c3-719695e4163a)
+
+This graph illustrates ChatGPT's monthly visits throughout 2023, showing consistent growth in the first half of the year. Starting with 616 million visits in January, the number quickly surged to 1.6 billion by March and peaked at 1.8 billion in April and May. After mid-2023, the visits began to stabilize and slightly decline, hovering between 1.4 to 1.7 billion in the latter half of the year. This trend suggests a period of rapid user adoption followed by more stable usage as ChatGPT became an established tool. The slight drop in visits towards the end of the year may reflect seasonal or user engagement variations.
+
+![ChatGPT 2024](https://github.com/user-attachments/assets/efb04f40-eae4-4370-af59-77d147616561)
+
+This graph represents ChatGPT's visits in 2024, which show a sharp decline after a strong start. The year began with steady usage, with visits similar to late 2023 at 1.6 billion in January and February, rising again to 1.8 billion by March and April. However, starting in May, the platform experienced a steep drop, falling to 637 million visits, followed by further declines to 126.4 million visits by July. This dramatic reduction may reflect market saturation, increased competition, or shifts in user behavior, leading to significantly fewer interactions with the platform over time. The stabilization at around 121.3 million visits in August and September suggests that a core user base remains, but overall engagement has decreased substantially.
+
+<br>
+</details>
+
 <br>
 </details>
 
