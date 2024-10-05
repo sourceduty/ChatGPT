@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `702` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `703` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1899,6 +1899,10 @@ Simulate the decisions and operations of Joe Biden as a political figure.
 [Patent Advisor](https://chatgpt.com/g/g-sWMVl5soX-patent-advisor)
 <br>
 Assistive patent filing advisor.
+
+[Law & Regulation Maker](https://chatgpt.com/g/g-bEMydJOQQ-law-regulation-maker)
+<br>
+Develop, improve and update laws and regulations on any level of government.
 
 [Community Model](https://chatgpt.com/g/g-fwJup0PQU-community-model)
 <br>
