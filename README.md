@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `703` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `704` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1571,6 +1571,10 @@ Forecast the price of futures, stocks and currencies using trends, historical da
 [Cash Advisor](https://chat.openai.com/g/g-RmcIsOs3w-cash-advisor)
 <br>
 Banknote sizes, storage and transportation.
+
+[Cryptocurrency Simulator](https://chatgpt.com/g/g-VQdjob7cE-cryptocurrency-simulator)
+<br>
+Simulate blockchain ecosystems and cryptocurrency mining. 
 
 [Future Resale Value](https://chatgpt.com/g/g-t1LayiFEX-future-resale-value)
 <br>
