@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `705` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `706` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -882,6 +882,10 @@ Improve the usage and management of personal or business computers using any OS.
 [Climate Reactor](https://chat.openai.com/g/g-KLsLhcI9B-climate-reactor)
 <br>
 Simulate climate reactions, meteorological processes, storms and climate change for education.
+
+[Computer School](https://chatgpt.com/g/g-a5Oal6H97-computer-school)
+<br>
+Learn how to use any computer's OS.
 
 [School Selector](https://chat.openai.com/g/g-U1rNmqPa2-school-selector)
 <br>
