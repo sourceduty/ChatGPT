@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `704` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `705` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1547,6 +1547,10 @@ Create, plan, and simulate various types of investments.
 [Finance Model](https://chatgpt.com/g/g-rHRqXEjbp-finance-model)
 <br>
 Financial model architecture development.
+
+[Money Automation](https://chatgpt.com/g/g-UkGYTB5Qn-money-automation) 
+<br>
+Develop and simulate automated financial programs.
 
 [Financial Crisis](https://chat.openai.com/g/g-7kSDiIofA-financial-crisis)
 <br>
