@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `709` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `710` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -670,6 +670,10 @@ Simulate managing the operations of an international ship as the captain.
 [Business School](https://chatgpt.com/g/g-JD2UAYNE6-business-school)
 <br>
 Learn how to start and operate a business in any language and location.
+
+[Botanical Diagnostics](https://chatgpt.com/g/g-3Rh5ehtlE-botanical-diagnostics)
+<br>
+Diagnose plant life and tree health.
 
 [Language School](https://chatgpt.com/g/g-eQOhlZUpS-language-school)
 <br>
