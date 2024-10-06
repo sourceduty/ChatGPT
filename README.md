@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `708` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `709` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -169,6 +169,10 @@ Develop and modify Windows OS and software.
 [Computational VM](https://chatgpt.com/g/g-RAtwmVxfm-computational-vm)
 <br>
 Develop and simulate computational virtual machine models.
+
+[Software Roast](https://chatgpt.com/g/g-rSRsHl5J6-software-roast)
+<br>
+Roast any software with humorous and sharp critiques.
 
 [Computational Cybernetics](https://chatgpt.com/g/g-L6ADMkE8H-computational-cybernetics)
 <br>
