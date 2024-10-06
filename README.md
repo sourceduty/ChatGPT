@@ -1,8 +1,8 @@
-![Sourceduty](https://github.com/user-attachments/assets/fb4f19c1-b24e-4184-a05c-b5bf1c9be308)
+![Source](https://github.com/user-attachments/assets/5a788638-263b-410a-aeda-fd13a37bc08d)
 
 <div align="center">
 
-| Sourceduty currently has `710` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `711` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2874,6 +2874,10 @@ Smart and educational Nikola Tesla simulation game.
 [Vintage Prompt](https://chat.openai.com/g/g-mg39xadeq-vintage-prompt)
 <br>
 Old computer terminal simulator.
+
+[Vehicle Roast](https://chatgpt.com/g/g-0RKULFLG9-vehicle-roast)
+<br>
+Roast any vehicle with humorous and sharp critiques.
 
 [Gamer Guide](https://chat.openai.com/g/g-Rtn7s4qGb-gamer-guide)
 <br>
