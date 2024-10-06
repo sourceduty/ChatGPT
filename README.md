@@ -2988,7 +2988,7 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 <br>
 </details>
 
-### Notes
+### Prompt Notes
 <details><summary>Click to Expand</summary>
 <br>
 
