@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `707` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `708` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2239,6 +2239,10 @@ Research any type and area of business.
 [Business Diagnostics](https://chatgpt.com/g/g-rDXxpRh9X-business-diagnostics)
 <br>
 Diagnostic business improvement tool.
+
+[Franchise Business](https://chatgpt.com/g/g-3Empu1yvn-franchise-business)
+<br>
+Franchising assistant. Create templates for franchised business models.
 
 [Automated Locations](https://chatgpt.com/g/g-iU8UDR2rg-automated-locations)
 <br>
