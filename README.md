@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `714` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `715` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -862,6 +862,10 @@ A sophisticated virtual environment designed to simulate the conditions and reac
 [Museum Simulator](https://chatgpt.com/g/g-gSYLPG9uA-museum-simulator)
 <br>
 Simulate the experience of any history museum.
+
+[New Language](https://chatgpt.com/g/g-TPP2lgyyH-new-language)
+<br>
+Create new spoken and written languages.
 
 [Search Multiplier](https://chat.openai.com/g/g-ZaCPvqejM-search-multiplier)
 <br>
