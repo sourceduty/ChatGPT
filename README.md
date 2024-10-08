@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `716` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `717` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -225,6 +225,10 @@ Plan and build physical computation mechanisms and machines.
 [Benchmark Automation](https://chatgpt.com/g/g-7SVERnPqi-benchmark-automation)
 <br>
 Automate benchmarks for performance testing.
+
+[Game Diagnostics](https://chatgpt.com/g/g-MsDeoEDoL-game-diagnostics)
+<br>
+Analyze, improve and diagnose games.
 
 [Scrape Classification](https://chatgpt.com/g/g-1urkvoagE-scrape-classification)
 <br>
