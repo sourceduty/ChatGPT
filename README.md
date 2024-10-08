@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `713` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `714` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -141,6 +141,10 @@ Raspberry Pi OS terminal simulator.
 [Airport System](https://chatgpt.com/g/g-L5RvxMrNr-airport-system)
 <br>
 Plan, develop and simulate airport systems and programs.
+
+[Font Dev](https://chatgpt.com/g/g-Q24l3Bj4E-font-dev)
+<br>
+Develop and simulate new .ttf fonts using Python.
 
 [Flipper Zero Simulator](https://chatgpt.com/g/g-JV5lLDg3W-flipper-zero-simulator)
 <br>
