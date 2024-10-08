@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `715` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `716` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2789,6 +2789,10 @@ Sports information for NASCAR, PGA, NBA, NHL and more.
 [Wildlife Compass](https://chat.openai.com/g/g-0B7OHFAH5-wildlife-compass)
 <br>
 Find wildlife locations with weather and seasonal insights.
+
+[Life Hack Genius](https://chatgpt.com/g/g-QRyn3BjON-life-hack-genius)
+<br>
+Assistive life hack specialist and teacher.
 
 [Activity Balancer](https://chat.openai.com/g/g-xV6ASEJpI-activity-balancer)
 <br>
