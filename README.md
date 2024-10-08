@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `712` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `713` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -23,6 +23,10 @@ Analyze and assess custom GPTs. Upload screenshot images and text files.
 [Computational Prompting](https://chatgpt.com/g/g-cUFGQ9NTT-computational-prompting)
 <br>
 Create and refine computational input prompt models to optimize GPT outputs.
+
+[GPT-Five](https://chatgpt.com/g/g-PiPQVb6QK-gpt-five)
+<br>
+Assistive research and development guide for GPT-5 by OpenAI.
 
 [ChatGPT Cheats](https://chat.openai.com/g/g-Zvkwt2Zkr-chatgpt-cheats)
 <br>
