@@ -3393,6 +3393,8 @@ As of now, ChatGPT cannot export custom GPT statistics directly due to a combina
 
 While these are some of the possible reasons, it's also worth noting that platforms like ChatGPT are continuously evolving, and features are regularly updated and added based on user feedback and technological advancements. If exporting statistics is a critical feature for many users, it's possible that it could be added in the future.
 
+Note: The statistics for custom GPTs was removed in updates made on October 10, 2024. This feature previously allowed creators to see usage metrics, interactions, and other data for the custom GPTs they built. Now, this detailed analytics view is no longer available. OpenAI simplified the custom GPT experience, but it removed some advanced tracking and statistics features in the process.
+
 <br>
 </details>
 
