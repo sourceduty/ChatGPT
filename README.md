@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `718` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `719` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1124,6 +1124,10 @@ Simulate nuclear isotopic chemistry for element creation.
 [Quantum Informatics](https://chatgpt.com/g/g-CivGM5Ewl-quantum-informatics)
 <br>
 Simulate quantum information processing concepts.
+
+[Computational Taxonomy](https://chatgpt.com/g/g-aiEbyrQYF-computational-taxonomy)
+<br>
+The computational science of classifying, organizing, defining and naming natural and synthetic characteristics.
 
 [Botany Automation](https://chatgpt.com/g/g-fcvPrz4GM-botany-automation)
 <br>
