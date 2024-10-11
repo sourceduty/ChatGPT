@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `721` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `722` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -185,6 +185,10 @@ Develop and simulate computational virtual machine models.
 [Software Roast](https://chatgpt.com/g/g-rSRsHl5J6-software-roast)
 <br>
 Roast any software with humorous and sharp critiques.
+
+[Live Simulation](https://chatgpt.com/g/g-8sqRruo4R-live-simulation)
+<br>
+Create simulated real-time models for weather, news, farming and more.
 
 [Computational Cybernetics](https://chatgpt.com/g/g-L6ADMkE8H-computational-cybernetics)
 <br>
