@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `726` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `727` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2815,7 +2815,7 @@ Convert text into creative ASCII art.
 
 <br>
 </details>
-<details><summary>Travel & Lifestyle</summary>
+<details><summary>Travel, Hunting & Lifestyle</summary>
 <br>
 
 [Travel Spots](https://chatgpt.com/g/g-4p0flZFw6-travel-spots)
@@ -2833,6 +2833,10 @@ Find wildlife locations with weather and seasonal insights.
 [Life Hack Genius](https://chatgpt.com/g/g-QRyn3BjON-life-hack-genius)
 <br>
 Assistive life hack specialist and teacher.
+
+[Hunting Blind](https://chatgpt.com/g/g-hkQ8NDcS2-hunting-blind)
+<br>
+Create custom hunting blind design images using DALL-E 3.
 
 [Activity Balancer](https://chat.openai.com/g/g-xV6ASEJpI-activity-balancer)
 <br>
