@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `723` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `724` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1124,6 +1124,10 @@ Simulate, solve and visualize combinatorial problems.
 [Autonomous Biology](https://chatgpt.com/g/g-BIem2cOZ9-autonomous-biology)
 <br>
 Develop, simulate and model biological systems.
+
+[Modern Orignin](https://chatgpt.com/g/g-vkgrQU1Wp-modern-origin)
+<br>
+Find, study and examine the primitive origin of modern human methodologies. 
 
 [Nuclear Chemistry Simulator](https://chatgpt.com/g/g-KaoQIF4e8-nuclear-chemistry-simulator)
 <br>
