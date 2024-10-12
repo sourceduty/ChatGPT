@@ -3364,8 +3364,6 @@ As of now, ChatGPT cannot export custom GPT statistics directly due to a combina
 
 While these are some of the possible reasons, it's also worth noting that platforms like ChatGPT are continuously evolving, and features are regularly updated and added based on user feedback and technological advancements. If exporting statistics is a critical feature for many users, it's possible that it could be added in the future.
 
-Note: The statistics for custom GPTs was removed in updates made on October 10, 2024. This feature previously allowed creators to see usage metrics, interactions, and other data for the custom GPTs they built. Now, this detailed analytics view is no longer available. OpenAI simplified the custom GPT experience, but it removed some advanced tracking and statistics features in the process.
-
 <br>
 </details>
 
@@ -3587,21 +3585,6 @@ In summary, while an exact release date remains uncertain, a late 2024 or early 
 By default, ChatGPT doesn’t retain memory between conversations, meaning each interaction is independent. Only information explicitly shared in a particular chat is used to personalize responses within that session. For instance, if interests, profession, or hobbies are mentioned, those details may be referenced temporarily for context. However, once the conversation ends, these details are not carried over to future interactions. Each new chat is treated as a fresh start, with no recollection of past conversations or any specifics about the user.
 
 Additionally, ChatGPT does not access personal data, social media, or external databases unless specific information is provided within the chat. Responses are generated based on patterns in the data used during training, which includes a broad range of general topics. Certain OpenAI features, such as memory, enable ChatGPT to retain information across conversations if users choose to enable them. This feature allows details from previous interactions to be referenced, which users can view, update, or delete within their settings. Otherwise, each chat session is independent, with no memory once the chat ends.
-
-<br>
-</details>
-
-### Misleading Management
-<details><summary>Click to expand</summary>
-<br>
-
-The recent decision by OpenAI to remove detailed analytics for custom GPTs can be seen as both misleading and deceptive, particularly for creators who relied on these insights to enhance their AI models. By eliminating access to statistics that allowed tracking of engagement, user interactions, and overall usage patterns, OpenAI has effectively removed a critical tool that creators used to optimize and refine their custom GPTs. This change could be perceived as dishonest, as creators invested significant time and effort in building custom GPTs with the expectation that such performance metrics would continue to be available. Now, without this data, creators are left unable to make informed improvements, potentially affecting the quality and relevance of their models.
-
-From a business standpoint, this move appears to prioritize a simplified user experience at the expense of transparency and the needs of more advanced, data-driven users. OpenAI’s decision to strip away valuable analytical tools without clearly communicating the implications beforehand could be viewed as deceptive, potentially leading creators to believe that the platform would continue to support their projects with robust analytics. Instead, this decision forces a one-size-fits-all approach that fails to meet the expectations of those seeking a deeper understanding of their models’ performance. By prioritizing convenience over transparency and insight, OpenAI risks alienating a portion of its community, potentially stifling the innovation and growth that these creators bring to the platform.
-
-OpenAI’s recent business decisions reflect a puzzling trend of removing advanced features that once empowered users, seemingly favoring simplicity over functionality. This shift is odd, especially for a company at the forefront of AI innovation, as it risks alienating the very creators and developers who seek in-depth tools to push the boundaries of what AI can achieve. Moves like the removal of custom GPT analytics follow a similar pattern seen in other updates, where OpenAI has streamlined its offerings at the cost of user control and data transparency. This approach can seem contradictory: as OpenAI positions itself as a leader in cutting-edge technology, it simultaneously limits the capabilities available to its most engaged users. This trend raises questions about whether the company is compromising its commitment to empowering creators in favor of broader market appeal, potentially underestimating the value that robust, data-rich features add to its platform.
-
-OpenAI could offer analytics as an optional feature tier, allowing creators who need detailed data on their custom GPTs to access it through a premium plan or an “advanced mode.” This would maintain the streamlined experience for general users while preserving powerful tools for those who want them.  
 
 <br>
 </details>
