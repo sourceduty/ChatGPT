@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `729` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `730` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2720,6 +2720,10 @@ Find and research new artists across the web.
 [Design Compare](https://chat.openai.com/g/g-eS15CWBHN-design-compare)
 <br>
 Compare design images, descriptions and videos.
+
+[GOOG!E ART](https://chatgpt.com/g/g-go6tOJhOh-goog-e-art)
+<br>
+Create unique Googie art images using DALL-E 3. 
 
 [Inspiration Simulator](https://chat.openai.com/g/g-DR4W6zJTh-inspiration-simulator)
 <br>
