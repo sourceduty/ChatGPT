@@ -1470,10 +1470,6 @@ Analyze topological properties of images.
 <br>
 Generate colour palettes from images.
 
-[Movie/Game Character](https://chatgpt.com/g/g-8szafZ5la-game-movie-character)
-<br>
-Design and visualize video game characters using DALL-E 3.
-
 [Image Watermark](https://chat.openai.com/g/g-Zt0bGbcIB-image-watermark)
 <br>
 Upload and watermark your image files.
@@ -2672,6 +2668,10 @@ Use DALLE-3 to create product packaging for animals.
 [Sports Product](https://chatgpt.com/g/g-STDqdMMgQ-sports-product)
 <br>
 Use DALL-E 3 to create a product packaging image using real sports, motorsports and e-sports characters or objects.
+
+[Movie/Game Character](https://chatgpt.com/g/g-8szafZ5la-game-movie-character)
+<br>
+Design and visualize video game characters using DALL-E 3.
 
 [Drug Product](https://chatgpt.com/g/g-Z3Ia8jKmo-drug-product)
 <br>
