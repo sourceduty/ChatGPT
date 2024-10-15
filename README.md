@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `733` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `734` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1086,7 +1086,7 @@ National environmental disaster emergency planning and simulation.
 
 <br>
 </details>  
-<details><summary>Science & Electronics</summary>
+<details><summary>Science, Mechanical & Electronics</summary>
 <br>
 
 [Quantum Biology](https://chatgpt.com/g/g-xK8fPmlSu-quantum-biology)
@@ -1352,6 +1352,10 @@ Discover, create and simulate marine life on Earth using marine biology.
 [Physics Simulator](https://chat.openai.com/g/g-jdGow4iV3-physics-simulator)
 <br>
 Assistive physics simulation expert.
+
+[Wood Machine](https://chatgpt.com/g/g-4Qep3IlLu-wood-machine)
+<br>
+Develop firewood or lumber processing machines and software.
 
 [Computer Metrics](https://chat.openai.com/g/g-KvaHG9a9j-computer-metrics)
 <br>
