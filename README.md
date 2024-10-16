@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `734` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `735` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2688,6 +2688,10 @@ Use DALLE-3 to create product packaging for drugs and vitamins.
 [Bird's Eye Visualizer](https://chatgpt.com/g/g-YRZGYo8ij-bird-s-eye-visualizer)
 <br>
 Create landscape design images in bird's eye view using DALL-E 3.
+
+[Ultra Red](https://chatgpt.com/g/g-XlkhdiiyT-ultra-red)
+<br>
+Design and visualize Tesla Motors product concepts using DALL-E 3.
 
 [Natural Maker](https://chatgpt.com/g/g-tXZGUzwPZ-natural-maker)
 <br>
