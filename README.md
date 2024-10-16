@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `737` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `738` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2724,6 +2724,10 @@ Use DALL-E 3 to create product packaging images using historical people, events 
 [Movie Product](https://chatgpt.com/g/g-G6XGhh4Ph-movie-product)
 <br>
 Use DALLE-3 to create a product box image inspired by videos and movies.
+
+[Place & Product](https://chatgpt.com/g/g-rqLVhZRQL-place-product)
+<br>
+Design location-inspired promo products using DALL-E 3. 
 
 [Product Design Analysis](https://chat.openai.com/g/g-GSmpn2Q6h-product-design-analysis)
 <br>
