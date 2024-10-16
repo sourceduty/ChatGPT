@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `735` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `736` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2792,6 +2792,10 @@ Design new games and concept images.
 [Headline Picture](https://chat.openai.com/g/g-oq9hValNL-headline-picture)
 <br>
 Create images inspired by up-to-date news using DALL-E 3.
+
+[James Bond Gadgets](https://chatgpt.com/g/g-veee2tVTW-james-bond-gadgets)
+<br>
+Design custom James Bond gadgets using DALL-E 3.
 
 [Image Mosaic](https://chat.openai.com/g/g-AeEPpdIcT-image-mosaic)
 <br>
