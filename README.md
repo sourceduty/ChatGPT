@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `736` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `737` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2732,6 +2732,10 @@ Analyze popular product designs and uploaded images. Create product design analy
 [Design Marketability](https://chat.openai.com/g/g-CBEjzqq1V-design-marketability)
 <br>
 Analyze designs for marketability.
+
+[Emergency & Survival Gear](https://chatgpt.com/g/g-OKvPg1Rkx-emergency-survival-gear)
+<br>
+Design emergency and survival technology using DALL-E 3. 
 
 [Artist Radar](https://chatgpt.com/g/g-dt8gDeK5E-artist-radar)
 <br>
