@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `738` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `739` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2351,6 +2351,10 @@ Simulate the tasks, scripts and terminal interface of Maximo, ShipNet or MarineC
 [CargoWise One Simulator](https://chatgpt.com/g/g-a2kwsu4NF-cargowise-one-simulator)
 <br>
 Simulated CargoWise One tasks, troubleshooting and programming.
+
+[Bud Business](https://chatgpt.com/g/g-3uvrVjrJj-bud-business)
+<br>
+Plan and establish a weed-based business located in any country.
 
 [Campaign Planner](https://chatgpt.com/g/g-108wQFPIu-campaign-planner)
 <br>
