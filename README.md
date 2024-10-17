@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `740` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `741` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -209,6 +209,10 @@ Simulate and develop computational cybernetic models.
 [Download Automation](https://chatgpt.com/g/g-yZ0AK4Hed-download-automation)
 <br>
 Develop automated file downloading programs.
+
+[Parts Project](https://chatgpt.com/g/g-5G9fSDbLU-parts-project-program)
+<br>
+Develop a program to track electronics parts as inventory and make suggestions for projects.
 
 [In-Game Money](https://chatgpt.com/g/g-QBseFs7PK-in-game-money)
 <br>
