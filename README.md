@@ -2124,7 +2124,7 @@ Organize and compile song files into unique playlists.
 
 [Song & Audio Value](https://chatgpt.com/g/g-avVHyjlwM-song-audio-value)
 <br>
-Analyze songs and audio clips for financial value and marketability.
+Analyze songs, sounds and audio clips for financial value and marketability.
 
 [Same Voice](https://chatgpt.com/g/g-hOB0e604U-same-voice)
 <br>
