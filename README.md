@@ -3237,7 +3237,7 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 
 [News](https://github.com/sourceduty/News)
 
-[SORA](https://github.com/sourceduty/SORA)
+[Sora](https://github.com/sourceduty/Sora)
 
 <br>
 </details>
