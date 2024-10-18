@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `743` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `744` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -726,6 +726,10 @@ Develop and simulate computational social dynamics.
 [Airport Simulator](https://chatgpt.com/g/g-qcciQ5Tug-airport-simulator)
 <br>
 Simulate managing the operations of international airports.
+
+[Social Simulator](https://chatgpt.com/g/g-exqN30iRd-social-simulator)
+<br>
+Simulate public and national social systems.
 
 [Thermotronics](https://chatgpt.com/g/g-AUEUDYzH5-thermotronics)
 <br>
