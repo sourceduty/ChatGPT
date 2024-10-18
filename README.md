@@ -3578,6 +3578,12 @@ The DALL-E Post-Edit Instruction cheat sheet or template is designed to help you
    Include any specific instructions on the overall composition or layout.
    - Example: "Ensure the main focus is the volleyball game in the center."  
    - Example: "Position the sun in the top right corner for lighting effects."
+  
+.....................................................................................
+
+Facing Forwards
+
+To instruct DALL-E to make people and objects face forwards or towards the frame of the image, you need to clearly specify their orientation in relation to the viewer. Use phrases like "facing forward," "facing the camera," or "directly facing the viewer" to describe how the person or object should be positioned. Mention details such as the head, body, and face alignment to avoid side or angled views, ensuring they are positioned centrally or symmetrically. For example, you could say, "A person standing upright, facing directly forward, with their eyes looking straight at the viewer, and their full body and face centered towards the frame." This will ensure that the subjects are oriented as desired.
 
 <br>
 </details>
