@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `741` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `742` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -3235,7 +3235,9 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 
 [Communication](https://github.com/sourceduty/Communication)  
 
-[News](https://github.com/sourceduty/News)  
+[News](https://github.com/sourceduty/News)
+
+[SORA](https://github.com/sourceduty/SORA)
 
 <br>
 </details>
