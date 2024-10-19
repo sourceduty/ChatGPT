@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `745` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `746` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -161,6 +161,10 @@ Develop and simulate computational geometry programs.
 [AR & VR](https://chatgpt.com/g/g-obr2YT07i-ar-vr)
 <br>
 Plan, develop and simulate virtual or augmented reality systems and programs.
+
+[HPMC Format](https://chatgpt.com/g/g-hmGJDaPuL-hpmc-format)
+<br>
+Hybridized high-level programming languages and low-level machine code.
 
 [Topology Optimize](https://chatgpt.com/g/g-bixMcoo4H-topology-optimize)
 <br>
