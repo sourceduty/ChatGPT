@@ -3605,6 +3605,10 @@ Facing Forwards
 
 To instruct DALL-E to make people and objects face forwards or towards the frame of the image, you need to clearly specify their orientation in relation to the viewer. Use phrases like "facing forward," "facing the camera," or "directly facing the viewer" to describe how the person or object should be positioned. Mention details such as the head, body, and face alignment to avoid side or angled views, ensuring they are positioned centrally or symmetrically. For example, you could say, "A person standing upright, facing directly forward, with their eyes looking straight at the viewer, and their full body and face centered towards the frame." This will ensure that the subjects are oriented as desired.
 
+The Lens
+
+Controlling the lens or camera frame of DALL-E images using text instructions involves specifying details like the angle, focus, and composition of the scene in your prompt. By describing elements such as a "wide-angle view," "close-up shot," or "aerial perspective," you can influence how the image is framed. You can also define whether the image should emphasize specific subjects by using phrases like "focus on the foreground" or "blurred background." These instructions help guide the AI to create images with a desired perspective and framing, just as a photographer would adjust their camera.
+
 <br>
 </details>
 
