@@ -3714,7 +3714,7 @@ The use of copyright on Sourceduty's custom GPTs primarily serves to document th
 </details>
 
 #
-👥 **Thanks to all the folks behind OpenAI, ChatGPT, and more. Your efforts are greatly appreciated!**
+👥 **Thanks to all the folks behind OpenAI, ChatGPT, and more. Good job!**
 #
 
 ![Active Development](https://github.com/user-attachments/assets/d32ade8f-d9c7-4907-a35b-266f0466fb63)
