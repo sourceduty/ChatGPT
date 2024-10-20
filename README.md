@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `748` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `749` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1168,6 +1168,10 @@ Simulate nuclear isotopic chemistry for element creation.
 [Quantum Informatics](https://chatgpt.com/g/g-CivGM5Ewl-quantum-informatics)
 <br>
 Simulate quantum information processing concepts.
+
+[Hardware Simulator](https://chatgpt.com/g/g-y6LS27mzu-hardware-simulator)
+<br>
+Simulate purchasing, assembling, and operating computer hardware.
 
 [Crypto IoT](https://chatgpt.com/g/g-pZ4YMug58-crypto-iot)
 <br>
