@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `750` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `751` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -185,10 +185,6 @@ Develop and modify Windows OS and software.
 [Atronaut Software](https://chatgpt.com/g/g-F89U0wJa0-astronaut-software)
 <br>
 Plan, develop, and test astronaut software or systems.
-
-[Art Robotics](https://chatgpt.com/g/g-knJ0XkPyo-art-robotics)
-<br>
-Develop robotic painting artist machines and software.
 
 [Command Line Interface (CLI)](https://chatgpt.com/g/g-UpBhO8Qt1-command-line-interface-cli)
 <br>
@@ -1168,6 +1164,14 @@ Find, study and examine the primitive origin of modern human methodologies.
 [Nuclear Chemistry Simulator](https://chatgpt.com/g/g-KaoQIF4e8-nuclear-chemistry-simulator)
 <br>
 Simulate nuclear isotopic chemistry for element creation.
+
+[Art Robotics](https://chatgpt.com/g/g-knJ0XkPyo-art-robotics)
+<br>
+Develop robotic painting artist machines and software.
+
+[Animal IoT](https://chatgpt.com/g/g-MCcd1bnZo-animal-iot)
+<br>
+Create custom IoT programs for animals and their environments.
 
 [Quantum Informatics](https://chatgpt.com/g/g-CivGM5Ewl-quantum-informatics)
 <br>
