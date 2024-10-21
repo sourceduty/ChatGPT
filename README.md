@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `752` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `753` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -714,6 +714,10 @@ Learn how to start and operate a business in any language and location.
 [Botanical Diagnostics](https://chatgpt.com/g/g-3Rh5ehtlE-botanical-diagnostics)
 <br>
 Diagnose plant life and tree health.
+
+[Problem Solved](https://chatgpt.com/g/g-7ypa2QpAd-problem-solved)
+<br>
+Create a solution for any type of problem. 
 
 [Math Template](https://chatgpt.com/g/g-nT2I8HUjZ-math-template)
 <br>
