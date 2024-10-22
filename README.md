@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `755` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `756` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -177,6 +177,10 @@ Validate data using public sources.
 [Pi Game](https://chatgpt.com/g/g-G7zJTUX2Q-pi-game)
 <br>
 Create custom Raspberry Pi game console projects.
+
+[DevOps Guide](https://chatgpt.com/g/g-LZ1zP7lrU-devops-guide)
+<br>
+Research, develop and simulate DevOps methodologies.
 
 [Windows Dev](https://chatgpt.com/g/g-8AxedHUOa-windows-dev)
 <br>
