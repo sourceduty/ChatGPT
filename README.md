@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `754` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `755` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -734,6 +734,10 @@ Develop and simulate mathematical astrophysics models.
 [Computational Sociodynamics](https://chatgpt.com/g/g-wBj3CICX3-computational-sociodynamics)
 <br>
 Develop and simulate computational social dynamics.
+
+[Stupidity Rating](https://chatgpt.com/g/g-AwD1tNDGF-stupidity-rating)
+<br>
+Rates stupidity using web searches and uploaded images.
 
 [Airport Simulator](https://chatgpt.com/g/g-qcciQ5Tug-airport-simulator)
 <br>
