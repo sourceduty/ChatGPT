@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `756` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `757` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2415,6 +2415,10 @@ Plan and establish a weed-based business located in any country.
 [Campaign Planner](https://chatgpt.com/g/g-108wQFPIu-campaign-planner)
 <br>
 Plan and organize various different types of campaigns.
+
+[Freelance Boss](https://chatgpt.com/g/g-4iIK0pb5S-freelance-boss)
+<br>
+Plan and organize freelance workers.
 
 [Business Conglomerate](https://chatgpt.com/g/g-JcXE8jczK-business-conglomerate)
 <br>
