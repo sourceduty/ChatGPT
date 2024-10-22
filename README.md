@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `753` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `754` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2933,6 +2933,10 @@ Find wildlife locations with weather and seasonal insights.
 [Life Hack Genius](https://chatgpt.com/g/g-QRyn3BjON-life-hack-genius)
 <br>
 Assistive life hack specialist and teacher.
+
+[Natural Shelter](https://chatgpt.com/g/g-BPDvb1IdK-natural-shelter)
+<br>
+Design temporary survival and camping shelters using natural materials.
 
 [Hunting Blind](https://chatgpt.com/g/g-hkQ8NDcS2-hunting-blind)
 <br>
