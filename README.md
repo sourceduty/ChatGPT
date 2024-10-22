@@ -737,7 +737,7 @@ Develop and simulate computational social dynamics.
 
 [Stupidity Rating](https://chatgpt.com/g/g-AwD1tNDGF-stupidity-rating)
 <br>
-Rates stupidity using web searches and uploaded images.
+Rate stupidity using web searches and uploaded images. 
 
 [Airport Simulator](https://chatgpt.com/g/g-qcciQ5Tug-airport-simulator)
 <br>
