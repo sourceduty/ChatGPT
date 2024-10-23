@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `761` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `762` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -488,6 +488,10 @@ Plan, create, and simulate batch file (.bat) logic.
 [Architectural Software Design](https://chatgpt.com/g/g-h3OUZHAVc-architectural-software-design)
 <br>
 Develop, model and simulate software architecture.
+
+[Battery Management](https://chatgpt.com/g/g-i45fcyp8C-battery-management)
+<br>
+Develop and simulate battery management systems to optimize performance.
 
 [Programming Complexity](https://chatgpt.com/g/g-LwmDSUzP3-programming-complexity)
 <br>
