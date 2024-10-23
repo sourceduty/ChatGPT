@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `759` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `760` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -204,6 +204,10 @@ Assistive CLI builder and simulations.
 [Computational VM](https://chatgpt.com/g/g-RAtwmVxfm-computational-vm)
 <br>
 Develop and simulate computational virtual machine models.
+
+[Genetic Simulator](https://chatgpt.com/g/g-RmoFfiIMV-genetic-simulator)
+<br>
+Plan and simulate genetic algorithms.
 
 [Format Origin](https://chatgpt.com/g/g-NK1nqd6ci-format-origin)
 <br>
