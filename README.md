@@ -2762,7 +2762,7 @@ Use DALLE-3 to create product packaging for drugs and vitamins.
 
 [Supercity](https://chatgpt.com/g/g-GnvVAV5Ac-supercity)
 <br>
-Create images using DALL-E 3 with extreme super-scaling. 
+Create images of cities using DALL-E 3 with extreme super-scaling.
 
 [Bird's Eye Visualizer](https://chatgpt.com/g/g-YRZGYo8ij-bird-s-eye-visualizer)
 <br>
