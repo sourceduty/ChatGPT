@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `760` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `761` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2759,6 +2759,10 @@ Design and visualize video game characters using DALL-E 3.
 [Drug Product](https://chatgpt.com/g/g-Z3Ia8jKmo-drug-product)
 <br>
 Use DALLE-3 to create product packaging for drugs and vitamins.
+
+[Supercity](https://chatgpt.com/g/g-GnvVAV5Ac-supercity)
+<br>
+Simulate urbanization with extreme super-scaling and create images using DALL-E 3. 
 
 [Bird's Eye Visualizer](https://chatgpt.com/g/g-YRZGYo8ij-bird-s-eye-visualizer)
 <br>
