@@ -553,7 +553,7 @@ Analyze software for programming metrics. Generate a Programming Diagnostics Rep
 <br>
 Reverse engineer devices, processes, systems and software files.
 
-[Coworking Automation](https://chat.openai.com/g/g-IsgXMZS6N-coworking-automaton)
+[Bot-to-Bot](https://chatgpt.com/g/g-IsgXMZS6N-bot-to-bot)
 <br>
 Customize and control multiple correlating and coworking bots in simulations.
 
