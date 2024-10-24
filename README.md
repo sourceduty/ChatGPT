@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `762` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `763` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -352,6 +352,10 @@ Computational genetic engineering and bioinformatics.
 [Computational Programmable Logic Devices](https://chatgpt.com/g/g-4DneZ3jRO-computational-programmable-logic-devices)
 <br>
 A conceptual science that seeks to merge the functionalities of traditional programmable logic devices with integrated computational capabilities.
+
+[Metadata Automation](https://chatgpt.com/g/g-QD4JgyISH-metadata-automation)
+<br>
+Develop automated programs for metadata management.
 
 [Computational Microcontrollers](https://chatgpt.com/g/g-CXb6C6nq1-computational-microcontrollers)
 <br>
