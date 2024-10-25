@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `764` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `765` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2807,6 +2807,10 @@ Create upcycled product design images using DALL-E 3 and garbage.
 [Fashion Product](https://chatgpt.com/g/g-an0IlU3Sv-fashion-product)
 <br>
 Create fashion product packaging, accessories and shoes using DALL-E 3.
+
+[Vehicle Promo](https://chatgpt.com/g/g-MSvF1uTgM-vehicle-promo)
+<br>
+Create promotional vehicle images used DALL-E 3.
 
 [History Product](https://chatgpt.com/g/g-Y8gSet3UD-history-product)
 <br>
