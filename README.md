@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `763` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `764` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1275,6 +1275,10 @@ An original emerging scientific concept that examines dynamic interactions betwe
 [Isotope Engineer](https://chatgpt.com/g/g-RRyTFbzOP-isotope-engineer)
 <br>
 Assistive macro, micro and nano scale isotopic engineering physicist.
+
+[Virtual Model](https://chatgpt.com/g/g-dwBdMWgdJ-virtual-model)
+<br>
+Assistive VM-theory development for virtual environments. 
 
 [Sensor Calibration](https://chatgpt.com/g/g-uGKloGHOe-sensor-calibration)
 <br>
