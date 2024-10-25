@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `767` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `768` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -63,6 +63,10 @@ Helpful and informative.
 </details>
 <details><summary>Python</summary>
 <br>
+
+[High Python](https://chatgpt.com/g/g-qRchnDZkf-high-python)
+<br>
+High-level Python programming language theory and development.
 
 [Python Simulator](https://chat.openai.com/g/g-NLUSBfccY-python-simulator)
 <br>
