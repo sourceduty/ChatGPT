@@ -335,7 +335,7 @@ Simulate torrents and torrenting software.
 
 [Music Data](https://chatgpt.com/g/g-R4du4FLep-music-data)
 <br>
-Creates publicized music statistic graphs and charts.
+Create statistic graphs and charts for publicized music.
 
 [Corporate Automation](https://chatgpt.com/g/g-s2XCl1Nr3-corporate-automation)
 <br>
