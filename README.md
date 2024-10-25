@@ -1656,15 +1656,15 @@ Find and compile a list of video meme clips from YouTube.
 
 [Video Mashup](https://chat.openai.com/g/g-pDRP1ZeHx-video-mashup)
 <br>
-Collaborative clip-by-clip video compiler. Created in preparation for SORA.
+Collaborative clip-by-clip video compiler. Created in preparation for Sora.
 
 [Video Parody](https://chat.openai.com/g/g-WgPM7eiLw-video-parody)
 <br>
-Create parody videos from uploaded files. Created in preparation for SORA.
+Create parody videos from uploaded files. Created in preparation for Sora.
 
 [Video Edit](https://chat.openai.com/g/g-3WU0tMQmV-video-edit)
 <br>
-Video titles, credits, effects, and speed changes. Created in preparation for SORA.
+Video titles, credits, effects, and speed changes. Created in preparation for Sora.
 
 [Video Image](https://chat.openai.com/g/g-LNtncGSSz-video-image)
 <br>
@@ -1672,11 +1672,11 @@ Create collage images from video files using DALL-E 3.
 
 [Music Video](https://chat.openai.com/g/g-mrDyWbY3i-music-video)
 <br>
-Create visualization videos for audio files. Created in preparation for SORA.
+Create visualization videos for audio files. Created in preparation for Sora.
 
 [Video Emulator](https://chat.openai.com/g/g-NPtn9zP1V-video-emulator)
 <br>
-Create new videos inspired by uploaded videos. Created in preparation for SORA.
+Create new videos inspired by uploaded videos. Created in preparation for Sora.
 
 <br>
 </details>
