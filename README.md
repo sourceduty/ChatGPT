@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `770` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `771` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -152,6 +152,10 @@ Develop and simulate new .ttf fonts using Python.
 [Flipper Zero Simulator](https://chatgpt.com/g/g-JV5lLDg3W-flipper-zero-simulator)
 <br>
 Simulate and develop Flipper Zero device software.
+
+[Simulation Dev](https://chatgpt.com/g/g-BfdNx7gIp-simulation-dev)
+<br>
+Create new models for simulation programs.
 
 [Offline GPT](https://chatgpt.com/g/g-PhOe9lrMu-offline-gpt)
 <br>
