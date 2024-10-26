@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `769` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `770` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2261,6 +2261,10 @@ Simulate accents in any location and language.
 [Lifestyle Story](https://chatgpt.com/g/g-QM0MbpRa4-lifestyle-story)
 <br>
 Create personal stories from uploaded images.
+
+[Challenge 30 Days](https://chatgpt.com/g/g-xROVKQ7Ka-challenge-30-days)
+<br>
+Create one month day-by-day challenge plans.
 
 [Tweet Files](https://chatgpt.com/g/g-jJRoFETYE-tweet-files)
 <br>
