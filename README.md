@@ -247,7 +247,7 @@ Plan, develop and simulate in-game credits, money and market software for video 
 
 [Network Simulator](https://chatgpt.com/g/g-DGsjiUzXV-network-simulator)
 <br>
-Simulate and set up professional and home networks. 
+Simulate and set up professional or home networks.
 
 [4D Printing](https://chatgpt.com/g/g-5WHJLDb5U-4d-printing)
 <br>
