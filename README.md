@@ -3796,6 +3796,17 @@ Additionally, ChatGPT does not access personal data, social media, or external d
 <br>
 </details>
 
+### ChatGPT Deception
+<details><summary>Click to expand</summary>
+<br>
+
+The 'keep in sidebar' button appearing only after the publication of a custom GPT in ChatGPT follows a method similar to the delayed features of the Microsoft Photos app, which can indeed be seen as deceptive. By not presenting the option upfront, ChatGPT restricts the user’s ability to make a decision about sidebar placement during the initial setup or publishing phase. This tactic forces users to complete the publication process without fully understanding all their customization options. This delay creates a sense of control over the user flow, effectively guiding users through a specific sequence before they are allowed to access additional options, possibly under the pretense of streamlining the process.
+
+This approach could be viewed critically as a way to subtly influence user behavior and interaction with the platform. The delayed appearance of the ‘keep in sidebar’ button might be designed to encourage users to move forward with publishing first, perhaps reducing hesitation or second-guessing that could occur if the full suite of options were available earlier. It could also be a strategy to ensure that users have fully committed to the creation before additional customization features are revealed, ultimately manipulating the interface to prioritize specific system objectives or workflows over transparency and user convenience.
+
+<br>
+</details>
+
 <br>
 </details>
 
