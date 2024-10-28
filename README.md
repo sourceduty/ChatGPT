@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `771` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `772` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -752,7 +752,11 @@ Diagnose plant life and tree health.
 
 [Problem Solved](https://chatgpt.com/g/g-7ypa2QpAd-problem-solved)
 <br>
-Create a solution for any type of problem. 
+Create a solution for any type of problem.
+
+[Synthetic Life Simulator](https://chatgpt.com/g/g-R5zBZY957-synthetic-life-simulator)
+<br>
+Create and simulate synthetic life models.
 
 [Math Template](https://chatgpt.com/g/g-nT2I8HUjZ-math-template)
 <br>
