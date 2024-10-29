@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `775` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `776` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -837,6 +837,10 @@ Simulate the experience of working as an Amazon employee (Amazonian).
 [3D Model Analysis](https://chatgpt.com/g/g-jpLzbncGa-3d-model-analysis)
 <br>
 3D model structural analysis with technical insights.
+
+[Fashion School](https://chatgpt.com/g/g-MMluUexjX-fashion-school)
+<br>
+Learn how to design and sell fashion.
 
 [Computational Thinking](https://chatgpt.com/g/g-aYGM8Fap6-computational-thinking)
 <br>
