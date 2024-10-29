@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `777` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `778` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2823,6 +2823,10 @@ Create images of cities using DALL-E 3 with extreme super-scaling.
 [Sea Life Fashion](https://chatgpt.com/g/g-IdAhYqe6d-sea-life-fashion)
 <br>
 Create fashion images inspired by marine life using DALL-E 3.
+
+[Music Fashion](https://chatgpt.com/g/g-RNjpmVinK-music-fashion)
+<br>
+Create fashion images inspired by music and bands using DALL-E 3.
 
 [Bird's Eye Visualizer](https://chatgpt.com/g/g-YRZGYo8ij-bird-s-eye-visualizer)
 <br>
