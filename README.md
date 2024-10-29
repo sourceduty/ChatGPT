@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `776` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `777` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -3136,7 +3136,11 @@ Roast any vehicle with humorous and sharp critiques.
 
 [Gamer Guide](https://chat.openai.com/g/g-Rtn7s4qGb-gamer-guide)
 <br>
-Assistive PC game guides and walkthroughs. 
+Assistive PC game guides and walkthroughs.
+
+[Visual Song Creator](https://chatgpt.com/g/g-HCsHOxt1t-visual-song-creator)
+<br>
+Create DALL-E 3 image and write songs inspired by them. 
 
 [PC Game Radar](https://chat.openai.com/g/g-Er7chyOmE-pc-game-radar)
 <br>
