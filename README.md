@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `774` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `775` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -820,7 +820,11 @@ An emerging field that integrates quantum mechanics, topology, and computational
 
 [Research Generator](https://chatgpt.com/g/g-uxHzF0xR5-research-generator)
 <br>
-Assistive research generation, organization and analysis tool. 
+Assistive research generation, organization and analysis tool.
+
+[Heavy Equipment](https://chatgpt.com/g/g-R4Z99C4Mo-heavy-equipment)
+<br>
+Learn how to operate and maintain heavy equipment. 
 
 [Spatial Footprint](https://chat.openai.com/g/g-lonVHkdtM-spatial-footprint)
 <br>
