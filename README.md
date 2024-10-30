@@ -3820,6 +3820,19 @@ Additionally, ChatGPT does not access personal data, social media, or external d
 <br>
 </details>
 
+### Translation Problem
+<details><summary>Click to expand</summary>
+<br>
+
+![Translation Problem](https://github.com/user-attachments/assets/d07633fa-0f24-44f6-8da1-739220dffd90)
+
+Custom GPTs, created by developers worldwide, are increasingly built in various languages to cater to local audiences with specific cultural and linguistic needs. This allows users from different regions to interact with ChatGPT in their native language, making it more accessible and effective for diverse tasks, from education and entertainment to business support and professional advice. The GPTs displayed on the platform often have unique names and descriptions, written in the target language, reflecting the regional identity and user focus of each bot. For example, Japanese GPTs might provide services that relate to Japanese language learning, historical insights, or local business regulations, enabling a personalized experience for Japanese-speaking users.
+
+For optimal user engagement, it would be beneficial if ChatGPT automatically translated these titles and descriptions into the user's preferred language. Such an automatic translation feature would streamline the browsing experience, allowing users to understand the GPT's functionalities without requiring external translation tools. This capability would be particularly valuable on a multilingual platform where users may not be familiar with languages like Japanese, Spanish, or Korean but still wish to explore the GPT's offerings. By ensuring language accessibility across the interface, ChatGPT can create a more inclusive environment, helping users connect with the right custom GPTs efficiently, regardless of language barriers.
+
+<br>
+</details>
+
 <br>
 </details>
 
