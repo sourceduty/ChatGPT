@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `780` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `781` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2843,6 +2843,10 @@ Create landscape design images in bird's eye view using DALL-E 3.
 [Ultra Red](https://chatgpt.com/g/g-XlkhdiiyT-ultra-red)
 <br>
 Design and visualize Tesla Motors product concepts using DALL-E 3.
+
+[Antique Fashion](https://chatgpt.com/g/g-v9ZJuLEWn-antique-fashion)
+<br>
+Create antique fashion images using DALL-E 3. 
 
 [Natural Maker](https://chatgpt.com/g/g-tXZGUzwPZ-natural-maker)
 <br>
