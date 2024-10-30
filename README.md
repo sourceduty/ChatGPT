@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `779` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `780` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -777,6 +777,10 @@ Convert calculations, models and equations into templated math formulas.
 [Language School](https://chatgpt.com/g/g-eQOhlZUpS-language-school)
 <br>
 Learn how to write and speak any language.
+
+[International Compatibility](https://chatgpt.com/g/g-gRZTMHC20-international-compatibility)
+<br>
+Evaluate two or more countries for theoretical compatibility.
 
 [Computational Astrophysics](https://chatgpt.com/g/g-oVrAx9EMW-computational-astrophysics)
 <br>
