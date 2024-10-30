@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `780` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `781` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1203,6 +1203,10 @@ Simulate theoretical science concepts.
 [Digital Radio & Telecom](https://chatgpt.com/g/g-Ns40SgI8f-digital-radio-telecom)
 <br>
 Assistive radio engineering and telecom specialist.
+
+[Mining Machine](https://chatgpt.com/g/g-rINKFljuj-mining-machine)
+<br>
+Develop mining or rock processing machines and software.
 
 [Network & Circuit Theory](https://chatgpt.com/g/g-LkSv6Qu7w-network-circuit-theory) 
 <br>
