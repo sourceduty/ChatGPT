@@ -1226,7 +1226,7 @@ Simulate, solve and visualize combinatorial problems.
 
 [Survivial Tech](https://chatgpt.com/g/g-XHhjYR5H0-survival-tech)
 <br>
-Develop outdoor survival software and hardware.
+Learn survival skills and technologies.
 
 [Autonomous Biology](https://chatgpt.com/g/g-BIem2cOZ9-autonomous-biology)
 <br>
