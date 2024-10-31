@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `780` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `779` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2397,10 +2397,6 @@ Expert in lisps, rhotacism, and speech patterns.
 [Vote Simulator](https://chat.openai.com/g/g-qx59p7uKR-vote-simulator)
 <br>
 Predict, simulate and analyze voting trends for any country. 
-
-[Street Drug](https://chat.openai.com/g/g-Q2DJKoMxM-street-drug)
-<br>
-In-depth insights into illegal drug production and chemical investigations. 
 
 [Formal](https://chat.openai.com/g/g-cEoMR3lVm-formal)
 <br>
