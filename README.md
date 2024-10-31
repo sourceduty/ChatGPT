@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `779` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `780` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2799,6 +2799,10 @@ Find and analyze branded website and social account data.
 </details>
 <details><summary>Art & Design</summary>
 <br>
+
+[Robot Me](https://chatgpt.com/g/g-GksvKsva8-robot-me)
+<br>
+Create robot and humanoid images inspired by yourself.
 
 [Character Product](https://chatgpt.com/g/g-kDvaBuuuM-character-product)
 <br>
