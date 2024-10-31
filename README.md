@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `781` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `780` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2602,10 +2602,6 @@ Measure the demand for a product using consumer necessitation attributes. Genera
 [Job Generator](https://chat.openai.com/g/g-OEtdbwNK8-job-generator)
 <br>
 Generate new digital job positions and task ideas.
-
-[Tax Loophole](https://chatgpt.com/g/g-n6mLvO06q-tax-loophole)
-<br>
-Create business tax optimization strategies and exploit tax law loopholes.
 
 [Business Exchange](https://chatgpt.com/g/g-EzmLIAO9n-business-exchange)
 <br>
