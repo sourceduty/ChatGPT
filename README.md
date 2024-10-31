@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `780` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `781` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2797,7 +2797,7 @@ Find and analyze branded website and social account data.
 
 <br>
 </details>
-<details><summary>Art & Design</summary>
+<details><summary>Art, Images & Design</summary>
 <br>
 
 [Robot Me](https://chatgpt.com/g/g-GksvKsva8-robot-me)
@@ -2823,6 +2823,10 @@ Design and visualize video game characters using DALL-E 3.
 [Drug Product](https://chatgpt.com/g/g-Z3Ia8jKmo-drug-product)
 <br>
 Use DALLE-3 to create product packaging for drugs and vitamins.
+
+[Image Power](https://chatgpt.com/g/g-LcDhBwFES-image-power)
+<br>
+Evaluate images for social, political and financial power.
 
 [Supercity](https://chatgpt.com/g/g-GnvVAV5Ac-supercity)
 <br>
