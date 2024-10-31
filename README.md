@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `779` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `778` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2203,10 +2203,6 @@ Analyze agricultural crop images, identify different stages of crop growth and d
 [Farm Field](https://chat.openai.com/g/g-0SdwLVQqg-farm-field)
 <br>
 Local farm crops, soil, and field optimization specialist.
-
-[Weed](https://chat.openai.com/g/g-RO1rJLxSm-weed)
-<br>
-Cannabis planting, growing, and harvesting guide, tailored to your location.
 
 [Alcohol](https://chat.openai.com/g/g-6MZEIdPKC-alcohol)
 <br>
