@@ -417,7 +417,7 @@ Tesla vehicle system programming.
 <br>
 Develop system and control concepts.
 
-[Writing Automation](9https://github.com/sourceduty/Writing_Automation)
+[Writing Automation](https://chatgpt.com/g/g-WK6iPKICT-writing-automation)
 <br>
 Plan and program text writing author automation.
 
