@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `784` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `785` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -220,6 +220,10 @@ Develop and simulate computational virtual machine models.
 [Genetic Simulator](https://chatgpt.com/g/g-RmoFfiIMV-genetic-simulator)
 <br>
 Plan and simulate genetic algorithms.
+
+[Open Banking](https://chatgpt.com/g/g-ljGSQdY9R-open-banking)
+<br>
+Research and develop open-source digital banking software.
 
 [Automated Scientist](https://chatgpt.com/g/g-nyjcFItZq-automated-scientist)
 <br>
