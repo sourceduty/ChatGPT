@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `782` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `783` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2420,7 +2420,7 @@ Translate between Gen X, Y, Z slang and plain English.
 
 <br>
 </details>
-<details><summary>Business</summary>
+<details><summary>Business & Productivity</summary>
 <br>
 
 [Business Rating](https://chatgpt.com/g/g-92tuDIJKQ-business-rating)
@@ -2474,6 +2474,10 @@ Simulate pitching and negotiating a business deal in the Dragon's Den.
 [Brand Consistency](https://chatgpt.com/g/g-UoacuXroZ-brand-consistency)
 <br>
 Search across digital platforms for business and brand consistency.
+
+[Single Worker](https://chatgpt.com/g/g-rlgxgl16Q-single-worker)
+<br>
+Single worker task assignment tool.
 
 [Boss Simulator](https://chatgpt.com/g/g-GWRYPlrMg-simulated-boss)
 <br>
