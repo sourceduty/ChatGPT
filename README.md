@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `786` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `785` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -3000,10 +3000,6 @@ Create unique mosaics using your images.
 <br>
 Expert in the realm of fanatic culture.
 
-[Pixel Squares](https://chat.openai.com/g/g-FuiPiyk3n-pixel-squares)
-<br>
-Create pixel art images.
-
 [Word Collage](https://chat.openai.com/g/g-l60y3eqGq-text-collage)
 <br>
 Create a collage image using words.
@@ -3490,8 +3486,6 @@ Given the ongoing development and the broadening scope of applications, the mark
 
 ### Failed, conceptual and deleted GPTs.
 
-These concept GPTs won't be protected by copyright.
-
 [Video Commentary](https://chatgpt.com/g/g-uQRsIVIVN-video-commentary)  
 
 [Finance Organizer](https://chatgpt.com/g/g-VkZFBzv3K-finance-organizer)  
@@ -3591,6 +3585,8 @@ These concept GPTs won't be protected by copyright.
 [Sourceduty News](https://chatgpt.com/g/g-l6HwfWCdR-sourceduty-news)
 
 [Sourceduty Repo](https://chatgpt.com/g/g-xaFmzD6F3-sourceduty-repo)
+
+[Pixel Squares](https://chat.openai.com/g/g-FuiPiyk3n-pixel-squares)
 
 <br>
 </details>
