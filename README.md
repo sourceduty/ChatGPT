@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `785` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `786` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -260,6 +260,10 @@ Plan, develop and simulate in-game credits, money and market software for video 
 [Network Simulator](https://chatgpt.com/g/g-DGsjiUzXV-network-simulator)
 <br>
 Simulate and set up professional or home networks.
+
+[Software Logo](https://chatgpt.com/g/g-HYmu0RX9l-software-logo)
+<br>
+Generate a suggested logo for programs or software using DALL-E 3.
 
 [4D Printing](https://chatgpt.com/g/g-5WHJLDb5U-4d-printing)
 <br>
