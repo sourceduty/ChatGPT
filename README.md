@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `787` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `788` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -30,6 +30,10 @@ Assistive research and development guide for GPT-5 by OpenAI.
 [ChatGPT Cheats](https://chat.openai.com/g/g-Zvkwt2Zkr-chatgpt-cheats)
 <br>
 Tips and tricks to unlock ChatGPT's full potential.
+
+[Clustered](https://chatgpt.com/g/g-oiB0KPuBF-clustered)
+<br>
+Cluster custom GPTs using automatic Sourceduty selection. Experimental programming.
 
 [Output Blaster](https://chatgpt.com/g/g-vxjg4ZtwX-output-blaster)
 <br>
