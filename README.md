@@ -1456,7 +1456,7 @@ Repurpose old electronics for new projects, focusing on Arduino and Raspberry Pi
 <br>
 Semiconductor engineering technology, processes, materials, and design.
 
-[Semiconductor Simulator](https://chat.openai.com/g/g-LNpy4y0uU-semiconductor-simulator)
+[Semiconductor Sim](https://chatgpt.com/g/g-LNpy4y0uU-semiconductor-sim)
 <br>
 Plan, create and simulate different types and combinations of semiconductors.
 
