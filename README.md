@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `789` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `790` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -793,6 +793,10 @@ Create and simulate synthetic life models.
 [Math Template](https://chatgpt.com/g/g-nT2I8HUjZ-math-template)
 <br>
 Convert calculations, models and equations into templated math formulas.
+
+[No Maintenance Build](https://chatgpt.com/g/g-e31ils0Xo-no-maintenance-build)
+<br>
+Develop extremely low maintenance plans for infrastructure and architectural building projects.
 
 [Language School](https://chatgpt.com/g/g-eQOhlZUpS-language-school)
 <br>
