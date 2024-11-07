@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `790` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `791` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2550,6 +2550,10 @@ Search for upcoming industry-wide events. Export an Industry Calendar.
 [Business Maturity](https://chatgpt.com/g/g-Udf5w2Ed7-business-maturity)
 <br>
 Analyze business and corporation maturity.
+
+[Office Location](https://chatgpt.com/g/g-TmclrGaxD-office-location)
+<br>
+Plan and purchase corporate office locations.
 
 [National Calendar](https://chatgpt.com/g/g-KhUXLgoHa-national-calendar)
 <br>
