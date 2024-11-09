@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `791` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `792` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -420,6 +420,10 @@ Measure and improve process performance.
 [Biochemical Programming](https://chatgpt.com/g/g-hP2zn7i5c-biochemical-programming)
 <br>
 Biochemical programming and simulations.
+
+[Funny Software](https://chatgpt.com/g/g-CMuQaapEh-funny-software)
+<br>
+Modify software using humorous features and parody.
 
 [GitHub Repo Summary](https://chat.openai.com/g/g-yiPyXX9jI-repo-summary)
 <br>
