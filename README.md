@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `792` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `793` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -296,6 +296,10 @@ Develop automated RSS feed programs.
 [Material Computation](https://chatgpt.com/g/g-JGLYrbFWo-material-computation)
 <br>
 Plan and build physical computation mechanisms and machines.
+
+[Product Review Automation](https://chatgpt.com/g/g-ycJyDwOAG-product-review-automation)
+<br>
+Assistive product and service review program developer. Develop automated product review programs.
 
 [Benchmark Automation](https://chatgpt.com/g/g-7SVERnPqi-benchmark-automation)
 <br>
