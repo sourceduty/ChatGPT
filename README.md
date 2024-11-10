@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `794` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `795` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2806,6 +2806,10 @@ Create conceptual business ideas and DALL-E 3 images.
 [Trending Business](https://chat.openai.com/g/g-sSjRytORd-trending-business)
 <br>
 Analyze and improve any business to align with trending industry standards.
+
+[Art & Design Sales](https://chatgpt.com/g/g-6730e04ba6148190a6f78ab2c21d7dec-art-design-sales)
+<br>
+Analyze art and designs for financial value and marketability.
 
 [Management Consulting](https://chat.openai.com/g/g-tLe5xRmMw-management-consulting)
 <br>
