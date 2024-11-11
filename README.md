@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `797` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `798` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1142,6 +1142,10 @@ Military and public security investigation specialist. The god of war.
 [Hack Simulator](https://chatgpt.com/g/g-wlgZVYTsL-hack-simulator)
 <br>
 Simulate the experience of hacking various different software and systems.
+
+[Private Military](https://chatgpt.com/g/g-67325bbd8948819088e1390ad6096f77-private-military)
+<br>
+Assistive private military creation and management.
 
 [Tactical Vehicle Strategy](https://chatgpt.com/g/g-TSfu7BQRA-tactical-vehicle-strategy)
 <br>
