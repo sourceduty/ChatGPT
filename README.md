@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `796` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `797` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -356,6 +356,10 @@ Plan and develop automated file generation, editing and storage programs.
 [Programmable Evoltion](https://chatgpt.com/g/g-Q6pGhodAD-programmable-evolution)
 <br>
 Plan, develop and simulate evolving programs.
+
+[EV Builder](https://chatgpt.com/g/g-67324bf22d90819089bdb22060d1fe50-ev-builder)
+<br>
+Plan, develop and simulate digital electric vehicle systems and programs.
 
 [ZIP Topology](https://chatgpt.com/g/g-shi8Y3dOA-zip-topology)
 <br>
