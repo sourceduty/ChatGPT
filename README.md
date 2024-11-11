@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `795` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `796` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -280,6 +280,10 @@ Generate a suggested logo for programs or software using DALL-E 3.
 [4D Printing](https://chatgpt.com/g/g-5WHJLDb5U-4d-printing)
 <br>
 4D printing programming and simulations.
+
+[Cluster Computer Sim](https://chatgpt.com/g/g-6731867fe6fc8190bec0cd646e443ab3-cluster-computer-sim)
+<br>
+Plan and simulate cluster computer networks.
 
 [EV Simulator](https://chatgpt.com/g/g-zmCnbzCKx-ev-simulator)
 <br>
