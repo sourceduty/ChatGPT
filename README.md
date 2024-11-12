@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `800` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `801` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -244,6 +244,10 @@ Develop customizable and automated scientist programs that hypothesize, simulate
 [Format Origin](https://chatgpt.com/g/g-NK1nqd6ci-format-origin)
 <br>
 Generate programming and written language formats.
+
+[AI Model](https://chatgpt.com/g/g-67328fdd751c81909eecc503ad30ebb7-ai-model)
+<br>
+Create, research and simulate the GPT models developed by OpenAI.
 
 [Software Roast](https://chatgpt.com/g/g-rSRsHl5J6-software-roast)
 <br>
