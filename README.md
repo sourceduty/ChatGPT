@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `799` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `800` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -825,6 +825,10 @@ Develop extremely low maintenance plans for infrastructure and architectural bui
 [Language School](https://chatgpt.com/g/g-eQOhlZUpS-language-school)
 <br>
 Learn how to write and speak any language.
+
+[Public Trends](https://chatgpt.com/g/g-673282d015408190a8522f5df5861c6a-public-trends)
+<br>
+Assistive community and marketplace trend research.
 
 [Standard Measure](https://chatgpt.com/g/g-7lJeIjvrb-standard-measure)
 <br>
