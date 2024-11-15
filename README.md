@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `801` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `802` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1311,6 +1311,10 @@ Simulate nuclear isotopic chemistry for element creation.
 [Art Robotics](https://chatgpt.com/g/g-knJ0XkPyo-art-robotics)
 <br>
 Develop robotic painting artist machines and software.
+
+[IoT Engineer](https://chatgpt.com/g/g-6736d389b35881909afa90624bb3a6d7-iot-engineer)
+<br>
+Assistive IoT engineering specialist.
 
 [Animal IoT](https://chatgpt.com/g/g-MCcd1bnZo-animal-iot)
 <br>
