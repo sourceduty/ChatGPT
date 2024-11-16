@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `803` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `804` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -396,6 +396,10 @@ Plan, program and simulate automated solar power systems.
 [Aviation Programmer](https://chatgpt.com/g/g-Ittb4saQw-aviation-programmer)
 <br>
 Aircraft system programming.
+
+[Theoretical Computer Automation](https://chatgpt.com/g/g-6738400d19908191beaeb96d97939c1b-theoretical-computer-automation)
+<br>
+Assistive high-level theoretical computer automation specialist.
 
 [Torrent Simulator](https://chatgpt.com/g/g-t5ptUrW6A-torrent-simulator)
 <br>
