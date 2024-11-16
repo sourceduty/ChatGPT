@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `802` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `803` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -224,6 +224,10 @@ Create templated dev programs to generate other programs.
 [Command Line Interface (CLI)](https://chatgpt.com/g/g-UpBhO8Qt1-command-line-interface-cli)
 <br>
 Assistive CLI builder and simulations. 
+
+[Abstract Machine](https://chatgpt.com/g/g-67383a47b430819199cdb32dee1bd09d-abstract-machine)
+<br>
+Computational theory and abstract machine development.
 
 [Computational VM](https://chatgpt.com/g/g-RAtwmVxfm-computational-vm)
 <br>
