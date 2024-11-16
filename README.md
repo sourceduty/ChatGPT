@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `804` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `805` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1315,6 +1315,10 @@ Find, study and examine the primitive origin of modern human methodologies.
 [Nuclear Chemistry Simulator](https://chatgpt.com/g/g-KaoQIF4e8-nuclear-chemistry-simulator)
 <br>
 Simulate nuclear isotopic chemistry for element creation.
+
+[Theoretical Template](https://chatgpt.com/g/g-6738bafc9f2481918fbe4b3122b9d77f-theoretical-template)
+<br>
+Theoretical modelling template development.
 
 [Art Robotics](https://chatgpt.com/g/g-knJ0XkPyo-art-robotics)
 <br>
