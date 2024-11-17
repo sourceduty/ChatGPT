@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `805` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `806` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1983,7 +1983,7 @@ Create and control different types of social situations using virtual chatbots.
 
 <br>
 </details>
-<details><summary>Writing & Reading</summary>
+<details><summary>Writing, Words & Reading</summary>
 <br>
 
 [Document Template](https://chat.openai.com/g/g-PnWt2WWvb-document-template)
@@ -2020,7 +2020,11 @@ Create a word map diagram.
 
 [Copyright Free](https://chatgpt.com/g/g-8H85EsW0r-copyright-free)
 <br>
-Search the public domain for copyright free work releases. Get inspired. 
+Search the public domain for copyright free work releases. Get inspired.
+
+[Word History](https://chatgpt.com/g/g-6739c3687160819197b65cf8547f5df1-word-history)
+<br>
+Analyze word usage trends across history. Create word history graphs.
 
 [Document Enhancer](https://chatgpt.com/g/g-O1VsdtA1x-document-enhancer)
 <br>
