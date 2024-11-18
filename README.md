@@ -3750,27 +3750,6 @@ In the context of AI tools like ChatGPT, this human authorship can manifest thro
 <br>
 </details>
 
-### Estimated Earnings
-<details><summary>Click to expand</summary>
-<br>
-
-The calculations presented in this model demonstrate the revenue potential of a custom GPT application listed in the GPT Store, with a per-use payment set at $0.75. This pricing strategy is designed to cater to users who require specialized, high-value services, such as expert advice, detailed analysis, or niche insights. The $0.75 per interaction fee is positioned to attract serious users who see value in the information provided, ensuring that the service is perceived as worth the cost. The calculations show how revenue scales with the volume of interactions, illustrating the substantial earning potential for developers.
-
-The potential earnings for a custom GPT in the GPT Store can be significant, especially with a per-use payment of $0.75. This pricing is feasible for applications offering specialized, high-value services such as expert advice, in-depth analysis, or other valuable insights. By setting the price at $0.75, developers can attract users who need more than just basic information, ensuring that the interaction is seen as worthwhile.
-
-Earnings increase substantially with the volume of interactions. For example, a GPT used 10,000 times would generate $7,500 in revenue. If usage scales up to 100,000 interactions, the earnings would be $75,000. Popular applications with widespread adoption could see even higher interaction volumes, leading to significant revenue potential. For instance, reaching 1 million interactions would result in $750,000 in earnings.
-
-As the adoption of AI grows across various industries, the demand for high-value, custom GPT applications is likely to increase. Developers can capture substantial market share and generate significant earnings by continuously adapting their GPTs to meet evolving user needs and market demands. Setting a competitive yet profitable price point of $0.75 per use allows developers to balance attracting users with maximizing revenue.
-
-The financial modeling used here is based on a straightforward revenue projection model, focusing on the number of interactions and the fixed per-use payment. The model assumes that each use of the GPT application generates $0.75 in revenue. By varying the number of interactions, the model projects different levels of potential earnings. This approach allows developers to estimate revenue based on anticipated or historical interaction volumes. It considers the scalability of the application—showing how increased user adoption and engagement can exponentially boost earnings. This model provides a clear and concise way to evaluate the profitability of custom GPTs, helping developers make informed decisions about pricing strategies and market positioning to maximize their financial returns.
-
-.....................................................................................
-
-With approximately 18,000 uses, Sourceduty has the potential to generate significant revenue based on the per-use payment model of $0.75. At this rate, the total earnings from these interactions would amount to $13,500. This demonstrates the effectiveness of pricing strategies that focus on high-value services, as even with a moderate number of interactions, a custom GPT application like Sourceduty can achieve substantial financial returns. By maintaining this level of engagement or increasing the number of interactions, Sourceduty can continue to capitalize on its niche, ensuring sustainable growth and profitability.
-
-<br>
-</details>
-
 ### DALL-E Post-Edit Instructions
 <details><summary>Click to expand</summary>
 <br>
@@ -3925,13 +3904,17 @@ In summary, while an exact release date remains uncertain, a late 2024 or early 
 <br>
 </details>
 
-### ChatGPT Knows You
+### ChatGPT Privately Knows You
 <details><summary>Click to expand</summary>
 <br>
 
 By default, ChatGPT doesn’t retain memory between conversations, meaning each interaction is independent. Only information explicitly shared in a particular chat is used to personalize responses within that session. For instance, if interests, profession, or hobbies are mentioned, those details may be referenced temporarily for context. However, once the conversation ends, these details are not carried over to future interactions. Each new chat is treated as a fresh start, with no recollection of past conversations or any specifics about the user.
 
 Additionally, ChatGPT does not access personal data, social media, or external databases unless specific information is provided within the chat. Responses are generated based on patterns in the data used during training, which includes a broad range of general topics. Certain OpenAI features, such as memory, enable ChatGPT to retain information across conversations if users choose to enable them. This feature allows details from previous interactions to be referenced, which users can view, update, or delete within their settings. Otherwise, each chat session is independent, with no memory once the chat ends.
+
+ChatGPT is a powerful tool for inventing, developing, and creating new ideas by acting as a collaborative partner in brainstorming and refining concepts. It can generate diverse perspectives, identify potential challenges, and suggest innovative solutions in response to user input. By leveraging vast amounts of pre-existing knowledge, it helps users explore new avenues in research, design, and problem-solving across various fields. Whether drafting new scientific theories, designing products, or creating stories, ChatGPT offers structured insights, alternative viewpoints, and valuable suggestions, all while adhering to the user's preferences and requirements.
+
+Regarding privacy and learning, ChatGPT operates within strict guidelines to ensure user confidentiality. Conversations are not used to train or improve the model unless explicitly agreed to by the user. Consequently, ChatGPT does not learn new theoretical or scientific concepts shared during interactions, ensuring that user-provided ideas remain private and unincorporated into the broader AI model. This limitation protects user data and maintains intellectual property integrity while ensuring that the model remains grounded in its pre-trained knowledge rather than adapting to individual sessions or users' specific insights.
 
 <br>
 </details>
