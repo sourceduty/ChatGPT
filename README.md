@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `807` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `808` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -3237,6 +3237,10 @@ Personalized trivia game focused on player's interests.
 [Silly Food](https://chat.openai.com/g/g-hqsfNoC9o-silly-food)
 <br>
 Create funny food recipes using consumer products.
+
+[Meme Breakdown](https://chatgpt.com/g/g-673aeefc269881918fce68e1d13070b7-meme-breakdown)
+<br>
+Overanalyze and breakdown memes with humor.
 
 [World Leader Sim](https://chatgpt.com/g/g-K8fBu3NRe-world-leader-sim)
 <br>
