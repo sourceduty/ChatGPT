@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `806` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `807` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -296,6 +296,10 @@ Plan, develop and simulate help-based software.
 [Cluster Computer Sim](https://chatgpt.com/g/g-6731867fe6fc8190bec0cd646e443ab3-cluster-computer-sim)
 <br>
 Plan and simulate cluster computer networks.
+
+[Animal Manager](https://chatgpt.com/g/g-673ae143d2bc8191aae3bf7bfa0a7692-animal-manager)
+<br>
+Assistive pet management software developer.
 
 [EV Simulator](https://chatgpt.com/g/g-zmCnbzCKx-ev-simulator)
 <br>
