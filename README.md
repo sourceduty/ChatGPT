@@ -489,7 +489,7 @@ Develop and optimize metamodels.
 <br>
 Maintenance automation and optimization.
 
-[GitHub README](https://chat.openai.com/g/g-rA63DaENC-readme)
+[README](https://chatgpt.com/g/g-rA63DaENC-readme)
 <br>
 Assistive GitHub readme file creator.
 
