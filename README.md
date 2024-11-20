@@ -281,7 +281,7 @@ Plan, develop and simulate in-game credits, money and market software for video 
 <br>
 Simulate and set up professional or home networks.
 
-[Dev Guidance](https://chatgpt.com/g/g-673dda5313788191ac41a8a4592f33d7-dev-guidance)
+[CLI-TUI Dev Guide Creator](https://chatgpt.com/g/g-673dda5313788191ac41a8a4592f33d7-cli-tui-dev-guide-creator)
 <br>
 Assistive program development guide creator.
 
