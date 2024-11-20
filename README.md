@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `809` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `810` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2336,6 +2336,10 @@ Analyze music and audio files.
 [Playlist Creator](https://chat.openai.com/g/g-X43tfjMhZ-playlist-creator)
 <br>
 Organize and compile song files into unique playlists.
+
+[Song Logo](https://chatgpt.com/g/g-673df6fee67c81919aa075ca65618192-song-logo)
+<br>
+Create a logo for any song using DALL-E 3.
 
 [Song & Audio Value](https://chatgpt.com/g/g-avVHyjlwM-song-audio-value)
 <br>
