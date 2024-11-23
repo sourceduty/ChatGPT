@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `811` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `812` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -949,6 +949,10 @@ Simulate managing the operations of international shipping ports and harbors.
 [Team Simulator](https://chatgpt.com/g/g-EJZqQ0uGE-team-simulator)
 <br>
 Simulate diverse team structures and scenarios.
+
+[Aquafriction](https://chatgpt.com/g/g-6741895e0b1c8191bf1eb1f23cc040c6-aquafriction)
+<br>
+Aquafriction energy and technology.
 
 [Computational Hyperchemistry](https://chatgpt.com/g/g-WwInzUTJO-computational-hyperchemistry)
 <br>
