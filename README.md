@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `813` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `814` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -360,6 +360,10 @@ Utilize expanding digital files that grow larger in a virtual file farm environm
 [Taskbar Programmer](https://chatgpt.com/g/g-KkQbcLUwU-taskbar-programmer)
 <br>
 Develop custom Windows taskbar programs.
+
+[CyberPi Hacker](https://chatgpt.com/g/g-6742d1d82d748191a0b2ab9d78538231-cyberpi-hacker)
+<br>
+Assistive Python programming for CyberPi projects.
 
 [Automated Upload](https://chatgpt.com/g/g-yomMYkIrN-automated-upload)
 <br>
