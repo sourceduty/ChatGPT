@@ -3559,6 +3559,19 @@ Given the ongoing development and the broadening scope of applications, the mark
 <br>
 </details>
 
+### Income Tax
+<details><summary>Click to expand</summary>
+<br>
+
+For a small business owned by a Canadian resident earning income from OpenAI, the tax obligations differ slightly from those of an individual. The income must still be reported in Canada, but it will typically be included as part of the business's revenue for corporate or self-employment tax purposes, depending on the structure of the business (sole proprietorship, partnership, or corporation). All income must be converted to Canadian dollars at the exchange rate on the date the income was received. If U.S. taxes were withheld on payments from OpenAI, the business may be eligible to claim a foreign tax credit to reduce its Canadian tax liability, avoiding double taxation.
+
+For sole proprietorships and partnerships, the income is included on the owner's personal tax return and taxed at their marginal rate. However, for corporations, the income is taxed at corporate tax rates, which may be lower depending on eligibility for small business deductions. The business must also account for any expenses incurred to generate this income, which can be deducted to calculate net taxable income. Similar to individuals, businesses must complete Form T2209 to claim federal foreign tax credits and may need to include additional forms if their foreign income or property exceeds $100,000.
+
+The effective tax impact depends on the business structure, total income, and the interplay between Canadian and U.S. tax treaties. A corporation may benefit from deferral or lower rates through the small business deduction, while sole proprietors may face higher personal tax rates. In either case, it is crucial to maintain detailed financial records, including proof of U.S. tax withholdings, and consult a tax professional to ensure compliance and optimal tax planning strategies.
+
+<br>
+</details>
+
 ### Alex's Notes
 <details><summary>Click to expand</summary>
 <br>
