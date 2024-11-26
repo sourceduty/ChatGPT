@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `814` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `815` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -480,6 +480,10 @@ Modify software using humorous features and parody.
 [GitHub Repo Summary](https://chat.openai.com/g/g-yiPyXX9jI-repo-summary)
 <br>
 Summarize GitHub repository README files.
+
+[Windows Widget](https://chatgpt.com/g/g-6745a4a9f5988191ba97363d17c4cd8d-windows-widget)
+<br>
+Assistive widget development for Windows.
 
 [Search Classification](https://chatgpt.com/g/g-FzeAUvRba-search-classification)
 <br>
