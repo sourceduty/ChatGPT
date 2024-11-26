@@ -2919,7 +2919,7 @@ Rank the most popular social media accounts across various platforms.
 <br>
 Creative digital business.
 
-[Workday](https://chat.openai.com/g/g-zoFvS2eSD-workday)
+[Work Tracker](https://chatgpt.com/g/g-67460b991410819190f2658984c0da89-work-tracker)
 <br>
 Assistive work schedule and progress tracker.
 
