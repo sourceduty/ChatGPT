@@ -481,9 +481,9 @@ Modify software using humorous features and parody.
 <br>
 Summarize GitHub repository README files.
 
-[Windows Widget](https://chatgpt.com/g/g-6745a4a9f5988191ba97363d17c4cd8d-windows-widget)
+[Widgets](https://chatgpt.com/g/g-6745a4a9f5988191ba97363d17c4cd8d-widgets)
 <br>
-Assistive widget development for Windows.
+Assistive widget development for any OS.
 
 [Search Classification](https://chatgpt.com/g/g-FzeAUvRba-search-classification)
 <br>
