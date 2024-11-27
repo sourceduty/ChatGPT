@@ -2064,7 +2064,7 @@ Convert books into modern, retro and antique movie scripts.
 
 [Document Optimizer](https://chatgpt.com/g/g-GLFcSluDO-document-optimizer)
 <br>
-Analyze document to optimize word usage and improve clarity.
+Analyze documents to optimize word usage and improve clarity.
 
 [Retrowriter](https://chat.openai.com/g/g-WRBOBHtSg-retrowriter)
 <br>
