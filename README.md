@@ -209,7 +209,7 @@ Research, develop and simulate DevOps methodologies.
 <br>
 Develop and modify Windows OS and software.
 
-[Atronaut Software](https://chatgpt.com/g/g-F89U0wJa0-astronaut-software)
+[Astronaut Software](https://chatgpt.com/g/g-F89U0wJa0-astronaut-software)
 <br>
 Plan, develop, and test astronaut software or systems.
 
