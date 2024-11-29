@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `815` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `816` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1323,6 +1323,10 @@ Use molecules as building blocks to create automated systems that operate at the
 [Combinatorics Simulator](https://chatgpt.com/g/g-zGMgmTVdX-combinatorics-simulator)
 <br>
 Simulate, solve and visualize combinatorial problems.
+
+[Carbon Fiber](https://chatgpt.com/g/g-67490c4c967c8191b36580824d24661c-carbon-fiber)
+<br>
+Assistive carbon fiber chemical engineer.
 
 [Survivial Tech](https://chatgpt.com/g/g-XHhjYR5H0-survival-tech)
 <br>
