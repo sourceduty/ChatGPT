@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `819` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `820` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -212,6 +212,10 @@ Develop and modify Windows OS and software.
 [Astronaut Software](https://chatgpt.com/g/g-F89U0wJa0-astronaut-software)
 <br>
 Plan, develop, and test astronaut software or systems.
+
+[Control Engineer](https://chatgpt.com/g/g-6749d72bf8788191ad3cb718332a2dc4-control-engineer)
+<br>
+Assistive electronic control system engineer.
 
 [Brand Pattern](https://chatgpt.com/g/g-Lqv9cGcWc-brand-pattern)
 <br>
