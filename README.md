@@ -1,4 +1,4 @@
-![Source](https://github.com/user-attachments/assets/5a788638-263b-410a-aeda-fd13a37bc08d)
+![ChatGPT $20 Coupon](https://github.com/user-attachments/assets/306ed83b-152b-442c-b3a2-971e354c9101)
 
 <div align="center">
 
