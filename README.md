@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `817` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `818` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -921,6 +921,10 @@ An emerging field that integrates quantum mechanics, topology, and computational
 [Research Generator](https://chatgpt.com/g/g-uxHzF0xR5-research-generator)
 <br>
 Assistive research generation, organization and analysis tool.
+
+[Relativity Theorist](https://chatgpt.com/g/g-674977a668cc8191bf1d878e9dc860e6-relativity-theorist)
+<br>
+Calculate and theorize Relativity like Albert Einstein.
 
 [Heavy Equipment](https://chatgpt.com/g/g-R4Z99C4Mo-heavy-equipment)
 <br>
