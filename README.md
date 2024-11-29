@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `820` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `821` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -328,6 +328,10 @@ Simulate managing tasks using any version of Windows.
 [RSS Automation](https://chatgpt.com/g/g-odqr9Hn1w-rss-automation)
 <br>
 Develop automated RSS feed programs.
+
+[3D Slicer](https://chatgpt.com/g/g-674a19c2c1c88191a1d9b5d01c4fec92-3d-slicer)
+<br>
+Assistive 3D model slicer program development.
 
 [Material Computation](https://chatgpt.com/g/g-JGLYrbFWo-material-computation)
 <br>
