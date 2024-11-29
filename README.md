@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `818` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `819` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1455,6 +1455,10 @@ Arduino and Raspberry Pi sensor calibration assistant.
 [Particle Simulator](https://chatgpt.com/g/g-3pq0KGHfK-particle-simulator)
 <br>
 Particle physics simulations and technology or devices.
+
+[String Theorist](https://chatgpt.com/g/g-67499aa690948191892d3425be5943ff-string-theorist)
+<br>
+Calculate and theorize strings in particle physics for String Theory.
 
 [Spacetime Simulator](https://chatgpt.com/g/g-vjnBl9mMt-spacetime-simulator)
 <br>
