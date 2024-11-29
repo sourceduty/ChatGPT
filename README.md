@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `816` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `817` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1331,6 +1331,10 @@ Assistive carbon fiber chemical engineer.
 [Survivial Tech](https://chatgpt.com/g/g-XHhjYR5H0-survival-tech)
 <br>
 Learn survival skills and technologies.
+
+[Plastic Chemist](https://chatgpt.com/g/g-67490ecee7508191a4c79006f611e2f3-plastic-chemist)
+<br>
+Assistive plastic chemical engineer.
 
 [Autonomous Biology](https://chatgpt.com/g/g-BIem2cOZ9-autonomous-biology)
 <br>
