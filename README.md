@@ -1223,6 +1223,10 @@ Research and plan tactical air, water and road driving vehicle maneuver strategi
 <br>
 Alphanumeric and symbol semaphore systems and non-verbal communication.
 
+[Health Informatics Simulator](https://chatgpt.com/g/g-RWEobaLqb-health-informatics-simulator)
+<br>
+Simulate health informatics scenarios and healthcare data.
+
 [Airborne Systems](https://chatgpt.com/g/g-qrxXIzx8v-airborne-systems)
 <br>
 Plan, develop and simulate commercial and military airborne systems.
@@ -1503,10 +1507,6 @@ Simulate microbiology scenarios and experiments.
 [Computational Programming](https://chatgpt.com/g/g-KPEZirRkO-computational-programming)
 <br>
 Develop computational programming concepts using theoretical framework.
-
-[Health Informatics Simulator](https://chatgpt.com/g/g-RWEobaLqb-health-informatics-simulator)
-<br>
-Simulate health informatics scenarios and healthcare data.
 
 [Astronomy Programmer](https://chatgpt.com/g/g-s5n0NJp1J-astronomy-programmer)
 <br>
