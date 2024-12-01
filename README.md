@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `823` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `824` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1192,8 +1192,12 @@ Learn accounting principles in simulated business transactions.
 
 <br>
 </details>
-<details><summary>Security & Military</summary>
+<details><summary>Health, Security & Military</summary>
 <br>
+
+[First Aid Simulator](https://chatgpt.com/g/g-674c39e5cbf081919d26aa96b41e611d-first-aid-simulator)
+<br>
+Assistive first aid simulations.
 
 [Military Operations](https://chatgpt.com/g/g-7UosJgTNL-military-operations)
 <br>
