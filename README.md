@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `822` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `823` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2085,6 +2085,10 @@ Analyze word usage trends across history. Create word history graphs.
 [Document Enhancer](https://chatgpt.com/g/g-O1VsdtA1x-document-enhancer)
 <br>
 Enhance and improve uploaded documents.
+
+[Frankenstein Writer](https://chatgpt.com/g/g-674c29e901fc8191860e619ee5b4fdb4-frankenstein-writer)
+<br>
+Write your own Frankenstein book or movie like Mary Shelley.
 
 [Movie Bookscript](https://chatgpt.com/g/g-insugBpcP-movie-bookscript) 
 <br>
