@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `829` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `830` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -3031,6 +3031,10 @@ Create fashion images inspired by music and bands using DALL-E 3.
 [Bird's Eye Visualizer](https://chatgpt.com/g/g-YRZGYo8ij-bird-s-eye-visualizer)
 <br>
 Create landscape design images in bird's eye view using DALL-E 3.
+
+[B&B Architect](https://chatgpt.com/g/g-674cd41d36a0819187ee787d48b0d549-b-b-architect)
+<br>
+Design, engineer and visualize new bed & breakfast locations.
 
 [Ultra Red](https://chatgpt.com/g/g-XlkhdiiyT-ultra-red)
 <br>
