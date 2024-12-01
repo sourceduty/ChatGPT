@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `826` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `827` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1463,6 +1463,10 @@ An original emerging scientific concept that explores the interaction between qu
 [Computational Cyberdynamics](https://chatgpt.com/g/g-GSul3Kjmb-computational-cyberdynamics)
 <br>
 An original emerging scientific concept that explores the interaction between cybernetic systems and dynamic computational processes.
+
+[Rocket Lab](https://chatgpt.com/g/g-674c7c83ff6c8191aa9f836f4b50531e-rocket-lab)
+<br>
+Design, engineer and program a rocket for space.
 
 [Xenodynamics](https://chatgpt.com/g/g-t5PM2bEd6-xenodynamics)
 <br>
