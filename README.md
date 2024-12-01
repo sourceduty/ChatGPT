@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `827` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `828` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2121,6 +2121,10 @@ Convert modern writing styles into writing styles from history in any language a
 [Handwriting](https://chat.openai.com/g/g-uidqnLYiI-handwriting)
 <br>
 Digitize, translate and analyze handwriting in any language.
+
+[Latin Literature](https://chatgpt.com/g/g-674ca02fc03c8191aa18ca1c1432955d-latin-literature)
+<br>
+Research classic Latin pronunciation, morphology, and syntax.
 
 [Document Emulator](https://chat.openai.com/g/g-HetDP3oxF-document-emulator)
 <br>
