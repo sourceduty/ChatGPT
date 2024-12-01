@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `828` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `829` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1587,6 +1587,10 @@ Plan, create and simulate different types and combinations of semiconductors.
 [Cancer Simulation Research](https://chat.openai.com/g/g-rJ2Onux8b-cancer-simulation-research)
 <br>
 Create and simulate different cancer characteristics, prevention and treatment.
+
+[Sci-PC](https://chatgpt.com/g/g-674cbbf87f88819193c07de376ea5094-sci-pc)
+<br>
+Plan purchasing, assembling, and operating scientific computer hardware.
 
 [Energy Experiment](https://chat.openai.com/g/g-UIyGyVbxD-energy-experiment)
 <br>
