@@ -2122,7 +2122,7 @@ Convert modern writing styles into writing styles from history in any language a
 <br>
 Digitize, translate and analyze handwriting in any language.
 
-[Latin Literature](https://chatgpt.com/g/g-674ca02fc03c8191aa18ca1c1432955d-latin-literature)
+[Latin Language](https://chatgpt.com/g/g-674ca02fc03c8191aa18ca1c1432955d-latin-language)
 <br>
 Research classic Latin pronunciation, morphology, and syntax.
 
