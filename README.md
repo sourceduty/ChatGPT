@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `825` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `826` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1407,6 +1407,10 @@ Simulate purchasing, assembling, and operating computer hardware.
 [Crypto IoT](https://chatgpt.com/g/g-pZ4YMug58-crypto-iot)
 <br>
 Develop cryptomining and cryptowallet hardware.
+
+[Satellite Lab](https://chatgpt.com/g/g-674c797e497c81918ce76c9ff37b5198-satellite-lab)
+<br>
+Design, engineer and program a satellite for space.
 
 [Computational Taxonomy](https://chatgpt.com/g/g-aiEbyrQYF-computational-taxonomy)
 <br>
