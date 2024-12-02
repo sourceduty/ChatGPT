@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `830` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `831` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1499,6 +1499,10 @@ Simulate spacetime phenomena.
 [Radio Simulator](https://chatgpt.com/g/g-C6JfFmHnG-radio-simulator)
 <br>
 Simulate tuning into a radio frequency on AM/FM bands.
+
+[Big Bang Simulator](https://chatgpt.com/g/g-674d747f721081919ecb6c4d43d4b4ee-big-bang-simulator)
+<br>
+Simulate the origin and evolution of the universe.
 
 [Multiphysics Simulator](https://chat.openai.com/g/g-9PVqGto6g-multiphysics-simulator)
 <br>
