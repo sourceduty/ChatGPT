@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `831` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `832` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1531,6 +1531,10 @@ Astronomical programming and automation.
 [Cheminformatics](https://chatgpt.com/g/g-I642hlqFh-cheminformatics)
 <br>
 Cheminformatics software development and molecular modeling.
+
+[CERN Simulator](https://chatgpt.com/g/g-674d96a8334c8191ba6dd7cb68a6d0f0-cern-simulator)
+<br>
+Simulate the operations, experiments, and knowledge base of CERN (the European Organization for Nuclear Research).
 
 [Aerospace Simulator](https://chat.openai.com/g/g-s2W0IfFR6-aerospace-simulator)
 <br>
