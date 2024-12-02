@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `832` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `833` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -296,6 +296,10 @@ Assistive program development guide creator.
 [Windows OS Simulator](https://chatgpt.com/g/g-673e3dcc90308191b183a0a0f2f97635-windows-os-simulator)
 <br>
 Simulate any version of Windows OS terminal.
+
+[Server Builder](https://chatgpt.com/g/g-674df5c8a02481918824c762be06199a-server-builder)
+<br>
+Design, engineer and simulate server hardware.
 
 [Software Logo](https://chatgpt.com/g/g-HYmu0RX9l-software-logo)
 <br>
