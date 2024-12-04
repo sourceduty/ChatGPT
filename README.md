@@ -918,7 +918,7 @@ Simulate public and national social systems.
 <br>
 Simulate social norms and expectations in various contexts. 
 
-[Thermotronics](https://chatgpt.com/g/g-AUEUDYzH5-thermotronics)
+[Thermoelectronics](https://chatgpt.com/g/g-AUEUDYzH5-thermoelectronics)
 <br>
 Utilizing temperature differentials to manipulate electronic or mechanical systems.
 
