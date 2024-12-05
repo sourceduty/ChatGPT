@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `833` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `834` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -260,10 +260,6 @@ Generate programming and written language formats.
 [AI Model](https://chatgpt.com/g/g-67328fdd751c81909eecc503ad30ebb7-ai-model)
 <br>
 Create, research and simulate the GPT models developed by OpenAI.
-
-[Software Roast](https://chatgpt.com/g/g-rSRsHl5J6-software-roast)
-<br>
-Roast any software with humorous and sharp critiques.
 
 [Live Simulation](https://chatgpt.com/g/g-8sqRruo4R-live-simulation)
 <br>
@@ -3333,6 +3329,14 @@ Simulate the neural net-based AI computer from The Terminator (1984) movie.
 [Personal Quest](https://chat.openai.com/g/g-aahk4IOIC-personal-quest)
 <br>
 Personalized trivia game focused on player's interests.
+
+[Hardware Roast](https://chatgpt.com/g/g-6751a8c16dfc819197bc0b4c3626edfb-hardware-roast)
+<br>
+Roast any computer hardware with humorous and sharp critiques.
+
+[Software Roast](https://chatgpt.com/g/g-rSRsHl5J6-software-roast)
+<br>
+Roast any software with humorous and sharp critiques.
 
 [Silly Food](https://chat.openai.com/g/g-hqsfNoC9o-silly-food)
 <br>
