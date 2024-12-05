@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `836` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `837` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2710,6 +2710,10 @@ Search for upcoming industry-wide events. Export an Industry Calendar.
 [Business Maturity](https://chatgpt.com/g/g-Udf5w2Ed7-business-maturity)
 <br>
 Analyze business and corporation maturity.
+
+[Marine Automation](https://chatgpt.com/g/g-67522f0a736881918922d2836f2d4f82-marine-automation)
+<br>
+Integrate and optimize AI, robotics, sensors and software in autonomous marine systems.
 
 [Office Location](https://chatgpt.com/g/g-TmclrGaxD-office-location)
 <br>
