@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `835` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `836` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -2638,6 +2638,10 @@ Measure and qualify employees for hiring.
 [Sourceduty Strategist](https://chatgpt.com/g/g-AwjKECo12-sourceduty-strategist)
 <br>
 Support and enhance the growth of Sourceduty.
+
+[Investment Automation](https://chatgpt.com/g/g-67522b22a9408191ad3c5af4547636c2-investment-automation)
+<br>
+Create automated investment models using technology, algorithms and AI.
 
 [Sourceduty Explorer](https://chatgpt.com/g/g-kTnNxUovH-sourceduty-explorer) 
 <br>
