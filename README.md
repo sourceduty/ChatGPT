@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `834` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `835` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -893,6 +893,10 @@ Evaluate two or more countries for theoretical compatibility.
 [Computational Astrophysics](https://chatgpt.com/g/g-oVrAx9EMW-computational-astrophysics)
 <br>
 Develop and simulate mathematical astrophysics models.
+
+[9/11 Terror](https://chatgpt.com/g/g-6751ccb0f6a881919f1917be05de6cee-9-11-terror)
+<br>
+Emulate or simulate the 9/11 attacks in 2001.
 
 [Computational Sociodynamics](https://chatgpt.com/g/g-wBj3CICX3-computational-sociodynamics)
 <br>
