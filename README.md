@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `838` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `839` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1587,6 +1587,10 @@ Assistive PCB design, simulation and planning guide.
 [Geology Simulator](https://chatgpt.com/g/g-2r4wNtXjI-geology-simulator)
 <br>
 Simulate various geological science fields.
+
+[EV Upgrade](https://chatgpt.com/g/g-675339e166008191b103a81aa05b2e46-ev-upgrade)
+<br>
+Assistive electric vehicle upgrade bot.
 
 [Electronic Upcycle](https://chat.openai.com/g/g-VKuPoQPOf-electronic-upcycle)
 <br>
