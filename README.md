@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `837` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `838` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -877,6 +877,10 @@ Develop extremely low maintenance plans for infrastructure and architectural bui
 [Language School](https://chatgpt.com/g/g-eQOhlZUpS-language-school)
 <br>
 Learn how to write and speak any language.
+
+[HOT2000](https://chatgpt.com/g/g-6752acbaced8819180d19c21ea0f5026-hot2000)
+<br>
+Simulate the energy performance of residential buildings using the HOT2000 software suite framework.
 
 [Public Trends](https://chatgpt.com/g/g-673282d015408190a8522f5df5861c6a-public-trends)
 <br>
