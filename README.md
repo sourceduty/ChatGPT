@@ -3479,6 +3479,7 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 > - Don't waste time correcting your mistyped prompts.
 > - Explore the environments.
 > - Privately template your style.
+> - Read more books.
 > ```
 > Alex's Suggested To-Do List:
 > ```
