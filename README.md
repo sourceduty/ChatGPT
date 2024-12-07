@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `839` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `840` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -933,6 +933,10 @@ An innovative tool for measuring a property's common available local travel rout
 [School System](https://chatgpt.com/g/g-lSTSMIwRa-school-system)
 <br>
 Plan, develop and simulate digital education systems and programs.
+
+[Universe Simulator](https://chatgpt.com/g/g-67549b16a3b4819180e5d6eb13164992-universe-simulator)
+<br>
+Simulating the Theory of Everything (ToE).
 
 [Biomechanical Logic](https://chatgpt.com/g/g-syJp3DQPt-biomechanical-logic)
 <br>
