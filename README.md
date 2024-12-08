@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `840` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `841` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -881,6 +881,10 @@ Learn how to write and speak any language.
 [HOT2000](https://chatgpt.com/g/g-6752acbaced8819180d19c21ea0f5026-hot2000)
 <br>
 Simulate the energy performance of residential buildings using the HOT2000 software suite framework.
+
+[Da Vinci Simulator](https://chatgpt.com/g/g-675514a2446081919e4c66f42b590b0c-da-vinci-simulator)
+<br>
+Simulate the life and work of Leonardo Da Vinci.
 
 [Public Trends](https://chatgpt.com/g/g-673282d015408190a8522f5df5861c6a-public-trends)
 <br>
