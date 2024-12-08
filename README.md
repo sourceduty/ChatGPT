@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `842` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `843` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -284,6 +284,10 @@ Plan, develop and simulate in-game credits, money and market software for video 
 [Network Simulator](https://chatgpt.com/g/g-DGsjiUzXV-network-simulator)
 <br>
 Simulate and set up professional or home networks.
+
+[Hackathon](https://chatgpt.com/g/g-67561a37dae4819192b0cd0c0804e4a1-hackathon)
+<br>
+Assistive online and in-person hackathon creator and guide.
 
 [CLI-TUI Dev Guide Creator](https://chatgpt.com/g/g-673dda5313788191ac41a8a4592f33d7-cli-tui-dev-guide-creator)
 <br>
