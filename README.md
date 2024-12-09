@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `844` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `845` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1551,6 +1551,10 @@ Develop computational programming concepts using theoretical framework.
 [Astronomy Programmer](https://chatgpt.com/g/g-s5n0NJp1J-astronomy-programmer)
 <br>
 Astronomical programming and automation. 
+
+[Hypothesis](https://chatgpt.com/g/g-6757638180608191bca615eb72120373-hypothesis)
+<br>
+Hypothesize, theorize and create scientific explanations.
 
 [Cheminformatics](https://chatgpt.com/g/g-I642hlqFh-cheminformatics)
 <br>
