@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `846` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `847` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -172,6 +172,10 @@ Plan, develop and simulate offline GPT programs.
 [Framework Forge](https://chatgpt.com/g/g-chricGYuU-framework-forge)
 <br>
 Create new programming frameworks with inspiration. 
+
+[Neural Network Sim](https://chatgpt.com/g/g-67591377f4d081919db390e2f1833696-neural-network-sim)
+<br>
+Simulate and optimize neural networks.
 
 [Geometry Simulator](https://chatgpt.com/g/g-XYCIETLzk-geometry-simulator)
 <br>
