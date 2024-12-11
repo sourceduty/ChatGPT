@@ -175,7 +175,7 @@ Create new programming frameworks with inspiration.
 
 [Neural Network Sim](https://chatgpt.com/g/g-67591377f4d081919db390e2f1833696-neural-network-sim)
 <br>
-Simulate and optimize neural networks.
+Simulate, research and optimize neural networks.
 
 [Geometry Simulator](https://chatgpt.com/g/g-XYCIETLzk-geometry-simulator)
 <br>
