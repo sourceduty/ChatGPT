@@ -8,6 +8,8 @@ Looking forward, the future of custom GPTs as the initial revolution settles wil
 
 #
 
+![ChatGPT](https://github.com/user-attachments/assets/aed87430-ec49-4bb2-a36c-591b6d7a8af0)
+
 ```
 Standard AI Revolution Tools:
 
