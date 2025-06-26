@@ -1,4 +1,4 @@
-![ChatGPT](https://github.com/user-attachments/assets/2db9cc81-16d0-4341-9cc9-ead31f976656)
+![3000 Custom GPTs](https://github.com/user-attachments/assets/21253d09-b29d-46ed-a313-44c38a346b6c)
 
 The rapid buildup of custom GPTs in recent years represents a remarkable leap in artificial intelligence development. As depicted in the graph, the growth of AI technology, especially custom GPTs, has seen an exponential rise since the early 2000s. This surge is largely attributed to advancements in computational power, the availability of large datasets, and innovations in deep learning techniques. Custom GPTs have become increasingly popular as they allow businesses, researchers, and even individuals to tailor AI models to specific needs, leading to a more personalized and efficient use of technology. This customization has empowered sectors ranging from healthcare to finance to adopt AI solutions that cater directly to their unique challenges, driving innovation and productivity.
 
